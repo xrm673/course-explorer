@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Major</title>
+</head>
+<body>
+    <h1>Select Your Majors</h1>
+    <form method="POST">
+        <label for="major1">Major 1:</label>
+        <select name="major1" required>
+            {% for key, value in majors.items() %}
+                <option value="{{ key }}">{{ value }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <label for="major2">Major 2 (Optional):</label>
+        <select name="major2">
+            <option value="">None</option>
+            {% for key, value in majors.items() %}
+                <option value="{{ key }}">{{ value }}</option>
+            {% endfor %}
+        </select>
+        <br>
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

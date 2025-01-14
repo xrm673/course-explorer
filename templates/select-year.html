@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Year</title>
+</head>
+<body>
+    <h1>Select a Year</h1>
+    <form method="POST">
+        <label for="year">Choose your graduation year:</label>
+        <select name="year" required>
+            {% for year in year_options %}
+                <option value="{{ year }}">{{ year }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

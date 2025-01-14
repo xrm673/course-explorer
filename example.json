@@ -1,0 +1,9 @@
+{
+    "CS Electives" : {
+        "Courses" : {
+            'CS4411': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4450': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4701': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4740': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4754': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4789': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4813': (105, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS3700': (15, {'CS Core': 'This is a core course of CS major.', '4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS3780': (15, {'CS Core': 'This is a core course of CS major.', '4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4410': (15, {'CS Core': 'This is a core course of CS major.', '4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4820': (15, {'CS Core': 'This is a core course of CS major.', '4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4152': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4220': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4300': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4670': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4744': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4756': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4758': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4782': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'}), 'CS4810': (5, {'4000+ CS': 'This can be counted as a 4000+ CS course'})}
+        "Description" : "xxxxxx",
+        "Number" : 2
+    }
+
+}

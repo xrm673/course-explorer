@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ major }} Requirements in {{ college }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/site.css') }}">
+    <script>
+        async function searchCourses(sectionName, remainingCourses) {
+            const query = document.getElementById(`search-bar-${sectionName}`).value.trim();
+            const resultsContainer = document.getElementById(`search-results-${sectionName}`);
+            resultsContainer.innerHTML = ''; // Clear previous results
+
+            if (!query) {
+                console.log('Empty query. No fetch made.');
+                return; // Do nothing for empty input
+            }
+
+            if (!remainingCourses || remainingCourses.length === 0) {
+                console.log('No remaining courses available for search.');
+                resultsContainer.innerHTML = '<p>No courses available for this section.</p>';
+                return;
+            }
+
+            console.log(`Searching for '${query}' in section '${sectionName}'`);
+            console.log('Remaining Courses:', remainingCourses);
+
+            try {
+                const response = await fetch('/api/search-section-courses', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: query, remaining_courses: remainingCourses })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const courses = await response.json();
+                console.log('Search results:', courses);
+
+                // Populate search results
+                if (courses.length > 0) {
+                    const list = document.createElement('ul');
+                    courses.forEach(course => {
+                        const listItem = document.createElement('li');
+                        listItem.textContent = course; // Display course name
+                        list.appendChild(listItem);
+                    });
+                    resultsContainer.appendChild(list);
+                } else {
+                    resultsContainer.innerHTML = '<p>No matching courses found.</p>';
+                }
+            } catch (error) {
+                console.error('Error fetching search results:', error);
+                resultsContainer.innerHTML = '<p>Failed to fetch search results. Please try again.</p>';
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>{{ major }} - {{ college }}</h1>
+
+    <!-- Simple Sections (Nested Lists) -->
+    {% for section_name, details in simple_sections.items() %}
+        <h2>{{ section_name }}</h2>
+        {% if details.Description %}
+            <p><strong>Description:</strong> {{ details.Description }}</p>
+        {% endif %}
+
+        {% if details.Number is not none %}
+            <p><strong>At least: </strong> {{ details.Number }} Course(s)</p>
+        {% endif %}  
+          
+        <ul class="course-groups">
+            {% for group in details.Courses %}
+                <li class="course-group">
+                    <div class="group-container">
+                        <div class="simple-course-grid">
+                            {% for course in group %}
+                            {% set subject = course | extract_subject %} 
+                            {% if subject in course_data and course in course_data[subject] %}
+                            <div class="course-block">
+                                <a href="{{course}}" target="_blank">
+                                <button class="{{ 'taken-course' if course in session['courses_taken'] else '' }}">
+                                    {{ course }}
+                                </button>
+                                </a>
+                                <p>{{ course_data[subject][course].Title }}</p>
+                            </div>
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+
+    <!-- Searchable Sections (Flat Lists) -->
+    {% for section_name, details in searchable_sections.items() %}
+        <h2>{{ section_name }}</h2>
+        {% if details.Description %}
+            <p><strong>Description:</strong> {{ details.Description }}</p>
+        {% endif %}
+
+        {% if details.Number is not none %}
+            <p><strong>At least: </strong> {{ details.Number }} Course(s)</p>
+        {% endif %}
+
+        
+        <!-- Courses Already Taken -->
+        <h4>
+            Courses Already Taken 
+            ({{ details.Courses | select('in', courses_taken) | list | length }} / {{ details.Number }})
+        </h4>
+        <div class="course-grid">
+            {% for course in details.Courses if course in courses_taken %}
+                <a href="{{ course }}" target="_blank">
+                    <button class="taken-course">
+                        {{ course }}
+                    </button>
+                </a>
+            {% endfor %}
+        </div>
+
+        <!-- Courses Not Taken -->
+        <h4>You can choose</h4>
+        <div class="course-grid">
+            {% for course in details.Courses %}
+                {% set subject = course | extract_subject %}
+                {% if subject in course_data and course in course_data[subject] %}
+                    <!-- Larger container for each course -->
+                    <div class="larger-course-block">
+                        <!-- Smaller course block -->
+                        <div class="smaller-course-block">
+                            <a href="{{ course }}" target="_blank">
+                                <button class="{% if course in session['courses_taken'] %}taken-course{% elif course|is_eligible %}eligible-course{% else %}default-course{% endif %}">
+                                    {{ course }}
+                                </button>
+                            </a>
+                            <p>{{ course_data[subject][course].Title }}</p>
+                        </div>
+                        <!-- Tags for the course -->
+                        <div class="course-tags">
+                            {% for tag, description in details.Courses[course][1].items() %}
+                                <span class="course-tag" title="{{ description }}">{{ tag }}</span>
+                            {% endfor %}
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    {% endfor %}
+</body>
+</html>

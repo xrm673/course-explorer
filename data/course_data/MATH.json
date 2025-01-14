@@ -1,0 +1,2036 @@
+{
+    "MATH1006": {
+        "Title": "Academic Support for MATH 1106",
+        "Course Code": "MATH1006",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "MATH1106"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: MATH 1106.",
+        "Need Note": false
+    },
+    "MATH1011": {
+        "Title": "Academic Support for MATH 1110",
+        "Course Code": "MATH1011",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "MATH1110"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: MATH 1110.",
+        "Need Note": false
+    },
+    "MATH1012": {
+        "Title": "Academic Support for MATH 1120",
+        "Course Code": "MATH1012",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "MATH1120"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: MATH 1120.",
+        "Need Note": false
+    },
+    "MATH1021": {
+        "Title": "Academic Support for MATH 2210",
+        "Course Code": "MATH1021",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "MATH2210"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: MATH 2210.",
+        "Need Note": false
+    },
+    "MATH1106": {
+        "Title": "Modeling with Calculus for the Life Sciences",
+        "Course Code": "MATH1106",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). No prior knowledge of calculus is required. Students who plan to take more than one semester of calculus should take MATH 1110 rather than MATH 1106. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Need Note": false
+    },
+    "MATH1110": {
+        "Title": "Calculus I",
+        "Course Code": "MATH1110",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). MATH 1110 can serve as a one-semester introduction to calculus or as part of a two-semester sequence in which it is followed by MATH 1120. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Need Note": false
+    },
+    "MATH1120": {
+        "Title": "Calculus II",
+        "Course Code": "MATH1120",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1110",
+                "MATH1106"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110, excellent performance in MATH 1106, or equivalent AP credit.",
+        "Need Note": true
+    },
+    "MATH1340": {
+        "Title": "Strategy, Cooperation, and Conflict",
+        "Course Code": "MATH1340",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH1910": {
+        "Title": "Calculus for Engineers",
+        "Course Code": "MATH1910",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: three years high school mathematics, including trigonometry and logarithms, and at least one course in differential and integral calculus, or equivalent AP credit. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Need Note": false
+    },
+    "MATH1920": {
+        "Title": "Multivariable Calculus for Engineers",
+        "Course Code": "MATH1920",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1910"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1910 or equivalent AP credit.",
+        "Need Note": false
+    },
+    "MATH2210": {
+        "Title": "Linear Algebra",
+        "Course Code": "MATH2210",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 with high performance, equivalent AP credit, or permission of department.",
+        "Need Note": true
+    },
+    "MATH2220": {
+        "Title": "Multivariable Calculus",
+        "Course Code": "MATH2220",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210.",
+        "Need Note": false
+    },
+    "MATH2240": {
+        "Title": "Theoretical Linear Algebra and Calculus",
+        "Course Code": "MATH2240",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            5.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2230"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2230.",
+        "Need Note": false
+    },
+    "MATH2310": {
+        "Title": "Linear Algebra for Data Science",
+        "Course Code": "MATH2310",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1106",
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1106, MATH 1110, or equivalent AP credit.",
+        "Need Note": false
+    },
+    "MATH2930": {
+        "Title": "Differential Equations for Engineers",
+        "Course Code": "MATH2930",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1920.",
+        "Need Note": false
+    },
+    "MATH2940": {
+        "Title": "Linear Algebra for Engineers",
+        "Course Code": "MATH2940",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1920.",
+        "Need Note": false
+    },
+    "MATH3040": {
+        "Title": "Prove It!",
+        "Course Code": "MATH3040",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH3110": {
+        "Title": "Introduction to Analysis",
+        "Course Code": "MATH3110",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH3320": {
+        "Title": "Introduction to Number Theory",
+        "Course Code": "MATH3320",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH3340": {
+        "Title": "Abstract Algebra",
+        "Course Code": "MATH3340",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH3360": {
+        "Title": "Applicable Algebra",
+        "Course Code": "MATH3360",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4030": {
+        "Title": "History of Mathematics",
+        "Course Code": "MATH4030",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: two mathematics courses above 3000, or permission of instructor.",
+        "Need Note": true
+    },
+    "MATH4130": {
+        "Title": "Honors Introduction to Analysis I",
+        "Course Code": "MATH4130",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: high level of performance in a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4140": {
+        "Title": "Honors Introduction to Analysis II",
+        "Course Code": "MATH4140",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH4130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 4130.",
+        "Need Note": false
+    },
+    "MATH4180": {
+        "Title": "Complex Analysis",
+        "Course Code": "MATH4180",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2240",
+                "MATH3110",
+                "MATH4130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2230-MATH 2240, MATH 3110, or MATH 4130, or permission of instructor.",
+        "Need Note": true
+    },
+    "MATH4200": {
+        "Title": "Differential Equations and Dynamical Systems",
+        "Course Code": "MATH4200",
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4260": {
+        "Title": "Numerical Analysis: Linear and Nonlinear Problems",
+        "Course Code": "MATH4260",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3220",
+                "CS4210",
+                "MATH4250"
+            ],
+            [
+                "CS1110",
+                "CS1112",
+                "CS1132",
+                "CS1133"
+            ],
+            [
+                "MATH2210",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor. ",
+        "Need Note": true
+    },
+    "MATH4280": {
+        "Title": "Introduction to Partial Differential Equations",
+        "Course Code": "MATH4280",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2930",
+                "MATH3270"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2930, MATH 3270, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4310": {
+        "Title": "Linear Algebra",
+        "Course Code": "MATH4310",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4340": {
+        "Title": "Honors Introduction to Algebra",
+        "Course Code": "MATH4340",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH4330"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 4330.",
+        "Need Note": false
+    },
+    "MATH4500": {
+        "Title": "Matrix Groups",
+        "Course Code": "MATH4500",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4540": {
+        "Title": "Introduction to Differential Geometry",
+        "Course Code": "MATH4540",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4710": {
+        "Title": "Basic Probability",
+        "Course Code": "MATH4710",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120, or equivalent.",
+        "Need Note": true
+    },
+    "MATH4720": {
+        "Title": "Statistics",
+        "Course Code": "MATH4720",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 4710 and linear algebra (MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent).",
+        "Need Note": true
+    },
+    "MATH4740": {
+        "Title": "Stochastic Processes",
+        "Course Code": "MATH4740",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH4710",
+                "BTRY3080",
+                "ILRST3080",
+                "STSCI3080",
+                "ORIE3500",
+                "ECON3130"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 4710, BTRY 3080/ILRST 3080/STSCI 3080, ORIE 3500, or ECON 3130 and linear algebra (MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent).",
+        "Need Note": true
+    },
+    "MATH4900": {
+        "Title": "Supervised Research",
+        "Course Code": "MATH4900",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH4901": {
+        "Title": "Supervised Reading",
+        "Course Code": "MATH4901",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH4980": {
+        "Title": "Special Study for Mathematics Teaching",
+        "Course Code": "MATH4980",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH5080": {
+        "Title": "Special Study for Teachers",
+        "Course Code": "MATH5080",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH5200": {
+        "Title": "Differential Equations and Dynamical Systems",
+        "Course Code": "MATH5200",
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH1101": {
+        "Title": "Calculus Preparation",
+        "Course Code": "MATH1101",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH1105": {
+        "Title": "Finite Mathematics for the Life and Social Sciences",
+        "Course Code": "MATH1105",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics, including trigonometry and logarithms.",
+        "Need Note": false
+    },
+    "MATH1300": {
+        "Title": "Mathematical Explorations",
+        "Course Code": "MATH1300",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH1710": {
+        "Title": "Statistical Theory and Application in the Real World",
+        "Course Code": "MATH1710",
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: high school mathematics. No previous familiarity with computers presumed.",
+        "Need Note": false
+    },
+    "MATH2230": {
+        "Title": "Theoretical Linear Algebra and Calculus",
+        "Course Code": "MATH2230",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            5.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 with a grade of A- or better, equivalent AP credit, or permission of instructor.",
+        "Need Note": true
+    },
+    "MATH3210": {
+        "Title": "Manifolds and Differential Forms",
+        "Course Code": "MATH3210",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH3270": {
+        "Title": "Introduction to Ordinary Differential Equations",
+        "Course Code": "MATH3270",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH3610": {
+        "Title": "Mathematical Modeling",
+        "Course Code": "MATH3610",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 or equivalent.",
+        "Need Note": true
+    },
+    "MATH3840": {
+        "Title": "Introduction to Set Theory",
+        "Course Code": "MATH3840",
+        "Semester Offered": [
+            "FA24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH4210": {
+        "Title": "Nonlinear Dynamics and Chaos",
+        "Course Code": "MATH4210",
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: high level of performance in a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4220": {
+        "Title": "Applied Complex Analysis",
+        "Course Code": "MATH4220",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH4250": {
+        "Title": "Numerical Analysis and Differential Equations",
+        "Course Code": "MATH4250",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2240",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.",
+        "Need Note": true
+    },
+    "MATH4330": {
+        "Title": "Honors Linear Algebra",
+        "Course Code": "MATH4330",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: high level of performance in MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": true
+    },
+    "MATH4370": {
+        "Title": "Computational Algebra",
+        "Course Code": "MATH4370",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4410": {
+        "Title": "Introduction to Combinatorics I",
+        "Course Code": "MATH4410",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4530": {
+        "Title": "Introduction to Topology",
+        "Course Code": "MATH4530",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4810": {
+        "Title": "Mathematical Logic",
+        "Course Code": "MATH4810",
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4997": {
+        "Title": "Practical Training in Mathematics",
+        "Course Code": "MATH4997",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "MATH5220": {
+        "Title": "Applied Complex Analysis",
+        "Course Code": "MATH5220",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Need Note": true
+    },
+    "MATH5250": {
+        "Title": "Numerical Analysis and Differential Equations",
+        "Course Code": "MATH5250",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2240",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent, and one additional mathematics course numbered 3000 or above.",
+        "Need Note": true
+    },
+    "MATH5410": {
+        "Title": "Introduction to Combinatorics I",
+        "Course Code": "MATH5410",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH3620": {
+        "Title": "Dynamic Models in Biology",
+        "Course Code": "MATH3620",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: two majors-level biology courses and completion of mathematics requirements for biological sciences major or equivalent.",
+        "Need Note": true
+    },
+    "MATH3810": {
+        "Title": "Deductive Logic",
+        "Course Code": "MATH3810",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequistite: PHIL 2310 or MATH 2210 or MATH 2230 or permission of instructor.",
+        "Need Note": false
+    },
+    "MATH4420": {
+        "Title": "Introduction to Combinatorics II",
+        "Course Code": "MATH4420",
+        "Semester Offered": [
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH5420": {
+        "Title": "Introduction to Combinatorics II",
+        "Course Code": "MATH5420",
+        "Semester Offered": [
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH3850": {
+        "Title": "Modal Logic",
+        "Course Code": "MATH3850",
+        "Semester Offered": [
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: at least one prior course in philosophy, preferably in logic.",
+        "Need Note": true
+    },
+    "MATH4520": {
+        "Title": "Classical Geometries and Modern Applications",
+        "Course Code": "MATH4520",
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH4860": {
+        "Title": "Applied Logic",
+        "Course Code": "MATH4860",
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "MATH2130": {
+        "Title": "Calculus III",
+        "Course Code": "MATH2130",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120",
+                "MATH1910"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1120, MATH 1910, or equivalent AP credit.",
+        "Need Note": false
+    },
+    "MATH2810": {
+        "Title": "Deductive Logic",
+        "Course Code": "MATH2810",
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PHIL2310",
+                "MATH2210",
+                "MATH2230"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PHIL 2310, or MATH 2210, or MATH 2230 or permission of instructor.",
+        "Need Note": false
+    },
+    "MATH3230": {
+        "Title": "Introduction to Differential Equations",
+        "Course Code": "MATH3230",
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: multivariable calculus and linear algebra (e.g., MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940), or permission of instructor.",
+        "Need Note": true
+    },
+    "MATH4315": {
+        "Title": "Linear Algebra with Supplements",
+        "Course Code": "MATH4315",
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.",
+        "Need Note": false
+    },
+    "MATH4560": {
+        "Title": "Geometry of Discrete Groups",
+        "Course Code": "MATH4560",
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH3340",
+                "MATH3360",
+                "MATH4340",
+                "MATH4500"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: an introduction to groups via MATH 3340, MATH 3360, MATH 4340, or MATH 4500, or permission of instructor. Students will be expected to be comfortable with proofs.",
+        "Need Note": true
+    },
+    "MATH4820": {
+        "Title": "Topics in Logic and the Foundations of Mathematics",
+        "Course Code": "MATH4820",
+        "Semester Offered": [
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PHIL2310",
+                "MATH2810",
+                "PHIL3310",
+                "MATH3840",
+                "PHIL3300"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PHIL 2310, MATH 2810/PHIL 3310, MATH 3840/PHIL 3300, or permission of instructor, plus a background in logic.",
+        "Need Note": false
+    }
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ course_code }}</title>
+</head>
+<body>
+    <h1>{{ course_code }}</h1>
+    <h2>{{ title }}</h2>
+
+    <p>Credits:
+    {% for credit in credits %}
+        <button>{{ credit }}</button>
+    {% endfor %}
+    </p>
+
+    <p>Semesters offered:
+    {% for semester in semesters %}
+        <button>{{ semester }}</button>
+    {% endfor %}
+    </p>
+
+    {% if distributions is not none %}
+        <p>Distributions:
+        {% for distribution in distributions %}
+            <button>{{ distribution }}</button>
+        {% endfor %}
+        </p>
+    {% endif %}
+
+    {% if prereq != [] %}
+        <p>Prerequisites:</p>
+        {% for group in prereq %}
+            {% for course in group %}
+            <button>{{ course }}</button>
+            {% endfor %}
+        {% endfor %}
+    {% endif %} 
+    
+    {% set subject = course_code | extract_subject %}
+    {% set number = course_code | extract_number %}
+    {% set semester = course_code | get_recent_semester %}
+    <p><a href="https://classes.cornell.edu/browse/roster/{{semester}}/class/{{subject}}/{{number}}">See on Class Roster</a></p>
+</body>

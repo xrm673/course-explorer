@@ -1,0 +1,3451 @@
+{
+    "CS1110": {
+        "Title": "Introduction to Computing: A Design and Development Perspective",
+        "Course Code": "CS1110",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1112": {
+        "Title": "Introduction to Computing: An Engineering and Science Perspective",
+        "Course Code": "CS1112",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110 or equivalent.",
+        "Need Note": false
+    },
+    "CS1132": {
+        "Title": "Short Course in MATLAB",
+        "Course Code": "CS1132",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.5
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1133": {
+        "Title": "Short Course in Python",
+        "Course Code": "CS1133",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.5
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1340": {
+        "Title": "Choices and Consequences in Computing",
+        "Course Code": "CS1340",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "SDS-AS",
+            "KCM-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1700": {
+        "Title": "Elements of Artificial Intelligence",
+        "Course Code": "CS1700",
+        "Semester Offered": [
+            "SP25",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1998": {
+        "Title": "First-year and Nontechnical Team Projects",
+        "Course Code": "CS1998",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS2043": {
+        "Title": "UNIX Tools and Scripting",
+        "Course Code": "CS2043",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.5
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1110",
+                "CS1112",
+                "CS1132",
+                "CS1133"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one programming course or equivalent programming experience.",
+        "Need Note": true
+    },
+    "CS2110": {
+        "Title": "Object-Oriented Programming and Data Structures",
+        "Course Code": "CS2110",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS1110",
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language.",
+        "Need Note": false
+    },
+    "CS2800": {
+        "Title": "Mathematical Foundations of Computing",
+        "Course Code": "CS2800",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS1110",
+                "CS1112",
+                "CS1132",
+                "CS1133"
+            ],
+            [
+                "MATH1110"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: MATH 1110 or equivilent, one programming course or permission of instructor.",
+        "Need Note": true
+    },
+    "CS3110": {
+        "Title": "Data Structures and Functional Programming",
+        "Course Code": "CS3110",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS2800"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800.",
+        "Need Note": false
+    },
+    "CS3152": {
+        "Title": "Introduction to Computer Game Architecture",
+        "Course Code": "CS3152",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "ENGRC3152"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 for programmers, or permission of the instructor. Corequisite: ENGRC 3152.",
+        "Need Note": true
+    },
+    "CS3410": {
+        "Title": "Computer System Organization and Programming",
+        "Course Code": "CS3410",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience.",
+        "Need Note": false
+    },
+    "CS3420": {
+        "Title": "Embedded Systems",
+        "Course Code": "CS3420",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECE2300",
+                "ENGRD2300"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECE 2300/ENGRD 2300.",
+        "Need Note": false
+    },
+    "CS3700": {
+        "Title": "Foundations of AI Reasoning and Decision-Making",
+        "Course Code": "CS3700",
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "ENGRD2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+        "Need Note": false
+    },
+    "CS3780": {
+        "Title": "Introduction to Machine Learning",
+        "Course Code": "CS3780",
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "BTRY3080",
+                "CS2800",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ],
+            [
+                "MATH1910",
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: probability theory (e.g. BTRY 3080, CS 2800, ECON 3130, ENGRD 2700, MATH 4710) and linear algebra (e.g. MATH 2210, MATH 2310, MATH 2940), single-variable calculus (e.g. MATH 1110, MATH 1920) and programming proficiency (e.g. CS 2110).",
+        "Need Note": true
+    },
+    "CS4090": {
+        "Title": "Teaching Experience in Computer Science",
+        "Course Code": "CS4090",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4152": {
+        "Title": "Advanced Topics in Computer Game Architecture",
+        "Course Code": "CS4152",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3152"
+            ],
+            [
+                "CS3300",
+                "CS3700",
+                "CS4620",
+                "CS5414"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "ENGRC4152"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3152, CS 3300 or CS 3700 or CS 4620 or CS 5414. Corequisite: ENGRC 4152.",
+        "Need Note": false
+    },
+    "CS4220": {
+        "Title": "Numerical Analysis: Linear and Nonlinear Problems",
+        "Course Code": "CS4220",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent.",
+        "Need Note": false
+    },
+    "CS4300": {
+        "Title": "Language and Information",
+        "Course Code": "CS4300",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: 1) linear algebra: strong performance in MATH 2940 or equivalent; 2) discrete math: strong performance in CS 2800 or equivalent. Note: the linear algebra and discrete math requirements can also be fulfilled with a strong performance in INFO 2950; and 3) programming proficiency: CS 2110 or equivalent with strong Python skills and familiarity with IPython Notebooks, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS4410": {
+        "Title": "Operating Systems",
+        "Course Code": "CS4410",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3410",
+                "CS3420"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3410 or CS 3420.",
+        "Need Note": false
+    },
+    "CS4411": {
+        "Title": "Practicum in Operating Systems",
+        "Course Code": "CS4411",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "CS4410"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: CS 4410.",
+        "Need Note": false
+    },
+    "CS4450": {
+        "Title": "Introduction to Computer Networks",
+        "Course Code": "CS4450",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4670": {
+        "Title": "Introduction to Computer Vision",
+        "Course Code": "CS4670",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2110"
+            ],
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110, CS 2800, MATH 1920 or equivalent and MATH 2310 or MATH 2940 or equivalent.",
+        "Need Note": false
+    },
+    "CS4701": {
+        "Title": "Practicum in Artificial Intelligence",
+        "Course Code": "CS4701",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3700",
+                "CS3780",
+                "CS4670",
+                "CS4740",
+                "ECE4200",
+                "ORIE3741",
+                "STSCI3740"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: at least one of the following courses: CS 3700, CS 3780, CS 4670, CS 4740, ECE 4200, ORIE 3741, STSCI 3740, or their equivalents. ",
+        "Need Note": false
+    },
+    "CS4740": {
+        "Title": "Natural Language Processing",
+        "Course Code": "CS4740",
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4744": {
+        "Title": "Computational Linguistics I",
+        "Course Code": "CS4744",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "LING1101",
+                "CS2800",
+                "PHIL2310"
+            ],
+            [
+                "CS1110",
+                "CS1112",
+                "CS1133"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: Elementary Python (ex. CS 1133), LING 1101 or CS 2800 or PHIL 2310; for CS majors: Elementary Python and CS 2800.",
+        "Need Note": true
+    },
+    "CS4754": {
+        "Title": "Re-Designing Robots",
+        "Course Code": "CS4754",
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "INFO4320"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: INFO 4320, or an equivalent mechatronics course, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS4756": {
+        "Title": "Robot Learning",
+        "Course Code": "CS4756",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "CS3780"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920) , programming proficiency (e.g. CS 2110), and CS 3780 or equivalent or permission of instructor.",
+        "Need Note": true
+    },
+    "CS4758": {
+        "Title": "Autonomous Mobile Robots",
+        "Course Code": "CS4758",
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1132"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATLAB programming.",
+        "Need Note": true
+    },
+    "CS4782": {
+        "Title": "Introduction to Deep Learning",
+        "Course Code": "CS4782",
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1110",
+                "CS1112"
+            ],
+            [
+                "CS3780",
+                "ECE4200",
+                "STSCI3740"
+            ],
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent and CS 3780 or ECE 4200 or STSCI 3740 and CS 1110 or CS 1112.",
+        "Need Note": false
+    },
+    "CS4789": {
+        "Title": "Introduction to Reinforcement Learning",
+        "Course Code": "CS4789",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3780 or equivalent.",
+        "Need Note": false
+    },
+    "CS4810": {
+        "Title": "Introduction to Theory of Computing",
+        "Course Code": "CS4810",
+        "Semester Offered": [
+            "SP25",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS4813": {
+        "Title": "Quantum Computing",
+        "Course Code": "CS4813",
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Comments Prerequisite: familiarity with basic linear algebra (e.g. MATH 2210/ 2310/ 2940), discrete math (e.g.  2800/ 2802) and probability (e.g. ENGRD 2700/MATH 4710).",
+        "Need Note": false
+    },
+    "CS4820": {
+        "Title": "Introduction to Analysis of Algorithms",
+        "Course Code": "CS4820",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3110"
+            ],
+            [
+                "CS2800"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, CS 3110. ",
+        "Need Note": false
+    },
+    "CS4850": {
+        "Title": "Probability, Vectors, and Matrices in Computing",
+        "Course Code": "CS4850",
+        "Semester Offered": [
+            "SP25",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "MATH2210",
+                "MATH2940"
+            ],
+            [
+                "MATH1910"
+            ],
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+        "Need Note": false
+    },
+    "CS4852": {
+        "Title": "Networks II: Market Design",
+        "Course Code": "CS4852",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "INFO2040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: INFO 2040, CS 2800 or equivalent.",
+        "Need Note": false
+    },
+    "CS4997": {
+        "Title": "Practical Training in Computer Science",
+        "Course Code": "CS4997",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            0.25
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4998": {
+        "Title": "Team Projects",
+        "Course Code": "CS4998",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4999": {
+        "Title": "Independent Reading and Research",
+        "Course Code": "CS4999",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5150": {
+        "Title": "Software Engineering",
+        "Course Code": "CS5150",
+        "Semester Offered": [
+            "SP25",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent experience programming in Java or C++.",
+        "Need Note": false
+    },
+    "CS5152": {
+        "Title": "Advanced Topics in Computer Game Architecture",
+        "Course Code": "CS5152",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3152"
+            ],
+            [
+                "CS3300",
+                "CS4620",
+                "CS3700",
+                "CS5414"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "ENGRC5152"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 3700 or CS 5414. Corequisite: ENGRC 5152.",
+        "Need Note": false
+    },
+    "CS5223": {
+        "Title": "Numerical Analysis: Linear and Nonlinear Problems",
+        "Course Code": "CS5223",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3220",
+                "CS4210",
+                "MATH4250"
+            ],
+            [
+                "CS1110",
+                "CS1112",
+                "CS1132",
+                "CS1133"
+            ],
+            [
+                "MATH2210",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor.",
+        "Need Note": true
+    },
+    "CS5304": {
+        "Title": "Data Science in the Wild",
+        "Course Code": "CS5304",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5342": {
+        "Title": "Trust and Safety: Platforms, Policies, Products",
+        "Course Code": "CS5342",
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5356": {
+        "Title": "Building Startup Systems",
+        "Course Code": "CS5356",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or CS 2112.",
+        "Need Note": false
+    },
+    "CS5410": {
+        "Title": "Operating Systems",
+        "Course Code": "CS5410",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3410",
+                "CS3420"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3410 or CS 3420.",
+        "Need Note": false
+    },
+    "CS5411": {
+        "Title": "Practicum in Operating Systems",
+        "Course Code": "CS5411",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "CS5410"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: CS 5410.",
+        "Need Note": false
+    },
+    "CS5430": {
+        "Title": "System Security",
+        "Course Code": "CS5430",
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4410"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4410.",
+        "Need Note": false
+    },
+    "CS5433": {
+        "Title": "Blockchains, Cryptocurrencies, and Smart Contracts",
+        "Course Code": "CS5433",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a good level of programming experience--specifically, the ability to deal with challenging programming tasks--familiarity with common algorithms and data structures, and an understanding of basic concepts in discrete mathematics.",
+        "Need Note": true
+    },
+    "CS5435": {
+        "Title": "Security and Privacy Concepts in the Wild",
+        "Course Code": "CS5435",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800",
+                "CS4820"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800 or CS 4820 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS5456": {
+        "Title": "Introduction to Computer Networks",
+        "Course Code": "CS5456",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5643": {
+        "Title": "Physically Based Animation for Computer Graphics",
+        "Course Code": "CS5643",
+        "Semester Offered": [
+            "SP25",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2940"
+            ],
+            [
+                "PHYS1112"
+            ],
+            [
+                "CS4620"
+            ],
+            [
+                "MATH1120",
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4620 or equivalent; MATH 1120,  MATH 1920, or equivalent; MATH 2210, MATH 2940, or equivalent; PHYS 1112 or equivalent.",
+        "Need Note": false
+    },
+    "CS5670": {
+        "Title": "Introduction to Computer Vision",
+        "Course Code": "CS5670",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2110"
+            ],
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110, CS 2800, MATH 1920 or equivalent and MATH 2310 or MATH 2940 or equivalent (Ithaca only).",
+        "Need Note": true
+    },
+    "CS5700": {
+        "Title": "Foundations of AI Reasoning and Decision-Making",
+        "Course Code": "CS5700",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5726": {
+        "Title": "Applied Causal Inference using Machine Learning",
+        "Course Code": "CS5726",
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ORIE5750",
+                "CS5785"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ORIE 5750 or CS 5785.",
+        "Need Note": false
+    },
+    "CS5740": {
+        "Title": "Natural Language Processing",
+        "Course Code": "CS5740",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5756": {
+        "Title": "Robot Learning",
+        "Course Code": "CS5756",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "CS3780"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3010, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920), programming proficiency (e.g. CS 2110), and CS 3780 or equivalent or permission of instructor.",
+        "Need Note": true
+    },
+    "CS5758": {
+        "Title": "Autonomous Mobile Robots",
+        "Course Code": "CS5758",
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5775": {
+        "Title": "Machine Learning Hardware and Systems",
+        "Course Code": "CS5775",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: undergraduate ECE/CS degree, programming experience, introductory ML course.",
+        "Need Note": true
+    },
+    "CS5780": {
+        "Title": "Introduction to Machine Learning",
+        "Course Code": "CS5780",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920), and programming proficiency (e.g. CS 2110).",
+        "Need Note": true
+    },
+    "CS5782": {
+        "Title": "Introduction to Deep Learning",
+        "Course Code": "CS5782",
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECE4200"
+            ],
+            [
+                "CS3780"
+            ],
+            [
+                "CS2110"
+            ],
+            [
+                "STSCI3740"
+            ],
+            [
+                "CS1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECE 4200, STSCI 3740, CS 1110, CS 3780, and CS 2110.",
+        "Need Note": false
+    },
+    "CS5789": {
+        "Title": "Introduction to Reinforcement Learning",
+        "Course Code": "CS5789",
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS5780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 5780 or equivalent.",
+        "Need Note": false
+    },
+    "CS5820": {
+        "Title": "Introduction to Analysis of Algorithms",
+        "Course Code": "CS5820",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5850": {
+        "Title": "Probability, Vectors, and Matrices in Computing",
+        "Course Code": "CS5850",
+        "Semester Offered": [
+            "SP25",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "MATH2210",
+                "MATH2940"
+            ],
+            [
+                "MATH1910"
+            ],
+            [
+                "MATH1920"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+        "Need Note": false
+    },
+    "CS5996": {
+        "Title": "Special Topics in Computer Science",
+        "Course Code": "CS5996",
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5998": {
+        "Title": "Master of Engineering Internship",
+        "Course Code": "CS5998",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            0.25
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5999": {
+        "Title": "Master of Engineering Project",
+        "Course Code": "CS5999",
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1620": {
+        "Title": "Visual Imaging in the Electronic Age",
+        "Course Code": "CS1620",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS1710": {
+        "Title": "Introduction to Cognitive Science",
+        "Course Code": "CS1710",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS2024": {
+        "Title": "C++ Programming",
+        "Course Code": "CS2024",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1110",
+                "CS1112",
+                "CS1132",
+                "CS1133"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one programming course or equivalent programming experience.",
+        "Need Note": true
+    },
+    "CS2112": {
+        "Title": "Object-Oriented Design and Data Structures - Honors",
+        "Course Code": "CS2112",
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS1112"
+            ],
+            [
+                "CS1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: excellent performance in CS 1110, CS 1112 or equivalent course in Java or C++, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS2850": {
+        "Title": "Networks",
+        "Course Code": "CS2850",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS3300": {
+        "Title": "Visual Data Analytics for the Web",
+        "Course Code": "CS3300",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110",
+                "ENGRD2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS4210": {
+        "Title": "Numerical Analysis and Differential Equations",
+        "Course Code": "CS4210",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2240",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.",
+        "Need Note": true
+    },
+    "CS4320": {
+        "Title": "Introduction to Database Systems",
+        "Course Code": "CS4320",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110, CS 2800.",
+        "Need Note": false
+    },
+    "CS4321": {
+        "Title": "Practicum in Database Systems",
+        "Course Code": "CS4321",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS4320",
+                "CS5320"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: CS 4320 or CS 5320.",
+        "Need Note": false
+    },
+    "CS4414": {
+        "Title": "Systems Programming",
+        "Course Code": "CS4414",
+        "Semester Offered": [
+            "FA24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent.",
+        "Need Note": false
+    },
+    "CS4420": {
+        "Title": "Computer Architecture",
+        "Course Code": "CS4420",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3420",
+                "ECE3140",
+                "CS3410"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3420/ECE 3140 or CS 3410.",
+        "Need Note": false
+    },
+    "CS4620": {
+        "Title": "Introduction to Computer Graphics",
+        "Course Code": "CS4620",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1910",
+                "MATH1120"
+            ],
+            [
+                "MATH2940",
+                "MATH2210",
+                "MATH2310"
+            ],
+            [
+                "CS2110",
+                "ENGRD2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.",
+        "Need Note": false
+    },
+    "CS4621": {
+        "Title": "Computer Graphics Practicum",
+        "Course Code": "CS4621",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS4620"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: CS 4620.",
+        "Need Note": false
+    },
+    "CS4745": {
+        "Title": "Computational Linguistics II",
+        "Course Code": "CS4745",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "LING4424"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: LING 4424 and one other 3000 level or above linguistics course.",
+        "Need Note": true
+    },
+    "CS4750": {
+        "Title": "Foundations of Robotics",
+        "Course Code": "CS4750",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2940"
+            ],
+            [
+                "CS2110"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "MATH1920"
+            ],
+            [
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.",
+        "Need Note": false
+    },
+    "CS4775": {
+        "Title": "Computational Genetics and Genomics",
+        "Course Code": "CS4775",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110"
+            ],
+            [
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010, CS 2110 or equivalents.",
+        "Need Note": false
+    },
+    "CS4814": {
+        "Title": "Introduction to Computational Complexity",
+        "Course Code": "CS4814",
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4820"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4820.",
+        "Need Note": false
+    },
+    "CS4830": {
+        "Title": "Introduction to Cryptography",
+        "Course Code": "CS4830",
+        "Semester Offered": [
+            "FA24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS4820"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4820.",
+        "Need Note": false
+    },
+    "CS5112": {
+        "Title": "Algorithms and Data Structures for Applications",
+        "Course Code": "CS5112",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: sophomore level understanding of basic programming, algorithms, and data structures, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS5220": {
+        "Title": "Applied High-Performance and Parallel Computing",
+        "Course Code": "CS5220",
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: course in numerical methods.",
+        "Need Note": true
+    },
+    "CS5320": {
+        "Title": "Introduction to Database Systems",
+        "Course Code": "CS5320",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110",
+                "CS2800"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or CS 2800.",
+        "Need Note": false
+    },
+    "CS5321": {
+        "Title": "Practicum in Database Systems",
+        "Course Code": "CS5321",
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS5320"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: CS 5320.",
+        "Need Note": false
+    },
+    "CS5414": {
+        "Title": "Distributed Computing Principles",
+        "Course Code": "CS5414",
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4410"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4410 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS5420": {
+        "Title": "Advanced Computer Architecture",
+        "Course Code": "CS5420",
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECE4750",
+                "CS4420"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECE 4750 or CS 4420.",
+        "Need Note": false
+    },
+    "CS5436": {
+        "Title": "Privacy in the Digital Age",
+        "Course Code": "CS5436",
+        "Semester Offered": [
+            "FA24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5620": {
+        "Title": "Introduction to Computer Graphics",
+        "Course Code": "CS5620",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH1910",
+                "MATH1120"
+            ],
+            [
+                "MATH2940",
+                "MATH2210",
+                "MATH2310"
+            ],
+            [
+                "CS2110",
+                "ENGRD2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.",
+        "Need Note": false
+    },
+    "CS5621": {
+        "Title": "Computer Graphics Practicum",
+        "Course Code": "CS5621",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "CS5620"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: CS 5620.",
+        "Need Note": false
+    },
+    "CS5650": {
+        "Title": "Virtual and Augmented Reality",
+        "Course Code": "CS5650",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5682": {
+        "Title": "HCI and Design",
+        "Course Code": "CS5682",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5727": {
+        "Title": "Optimization Methods",
+        "Course Code": "CS5727",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5750": {
+        "Title": "Foundations of Robotics",
+        "Course Code": "CS5750",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2940"
+            ],
+            [
+                "CS2110"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "MATH1920"
+            ],
+            [
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.",
+        "Need Note": false
+    },
+    "CS5781": {
+        "Title": "Machine Learning Engineering",
+        "Course Code": "CS5781",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience.",
+        "Need Note": false
+    },
+    "CS5785": {
+        "Title": "Applied Machine Learning",
+        "Course Code": "CS5785",
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS1132",
+                "CS1110",
+                "CS1112",
+                "CS1133"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800 or equivalent, basic familiarity with Matlab or Python, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS5787": {
+        "Title": "Deep Learning",
+        "Course Code": "CS5787",
+        "Semester Offered": [
+            "FA24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECE5414"
+            ],
+            [
+                "CS5785"
+            ],
+            [
+                "ORIE5750"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 5785, ECE 5414, ORIE 5750.",
+        "Need Note": false
+    },
+    "CS5814": {
+        "Title": "Introduction to Computational Complexity",
+        "Course Code": "CS5814",
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4820"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4820. ",
+        "Need Note": false
+    },
+    "CS5830": {
+        "Title": "Cryptography",
+        "Course Code": "CS5830",
+        "Semester Offered": [
+            "FA24",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS4810"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.",
+        "Need Note": true
+    },
+    "CS5854": {
+        "Title": "Networks and Markets",
+        "Course Code": "CS5854",
+        "Semester Offered": [
+            "FA24",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: basic probability.",
+        "Need Note": true
+    },
+    "CS1380": {
+        "Title": "Data Science for All",
+        "Course Code": "CS1380",
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SDS-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS2770": {
+        "Title": "Excursions in Computational Sustainability",
+        "Course Code": "CS2770",
+        "Semester Offered": [
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4110": {
+        "Title": "Programming Languages and Logics",
+        "Course Code": "CS4110",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS4700": {
+        "Title": "Foundations of Artificial Intelligence",
+        "Course Code": "CS4700",
+        "Semester Offered": [
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "ENGRD2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+        "Need Note": false
+    },
+    "CS4780": {
+        "Title": "Introduction to Machine Learning",
+        "Course Code": "CS4780",
+        "Semester Offered": [
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
+            ],
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
+                "CS2800"
+            ],
+            [
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+        "Need Note": true
+    },
+    "CS5110": {
+        "Title": "Programming Languages and Logics",
+        "Course Code": "CS5110",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS5306": {
+        "Title": "Crowdsourcing and Human Computation",
+        "Course Code": "CS5306",
+        "Semester Offered": [
+            "SP24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: advanced coursework in Computer Science.",
+        "Need Note": true
+    },
+    "CS5382": {
+        "Title": "Practical Principles for Designing Fair Algorithms",
+        "Course Code": "CS5382",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS5450": {
+        "Title": "Networked and Distributed Systems",
+        "Course Code": "CS5450",
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4410"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4410.",
+        "Need Note": false
+    },
+    "CS5678": {
+        "Title": "3D User Interfaces",
+        "Course Code": "CS5678",
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: course in 3D math (vectors, matrices, transformations) and in Intermediate programming in C# or other object-oriented programming language. Recommended prerequisite to have some coursework in Unity 3D.",
+        "Need Note": true
+    },
+    "CS4783": {
+        "Title": "Mathematical Foundations of Machine Learning",
+        "Course Code": "CS4783",
+        "Semester Offered": [
+            "FA23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4820"
+            ],
+            [
+                "CS4780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+        "Need Note": false
+    },
+    "CS4787": {
+        "Title": "Principles of Large-Scale Machine Learning Systems",
+        "Course Code": "CS4787",
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS2110"
+            ],
+            [
+                "CS4780",
+                "CS5780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4780 or CS 5780, CS 2110 or equivalents.",
+        "Need Note": false
+    },
+    "CS4812": {
+        "Title": "Quantum Information Processing",
+        "Course Code": "CS4812",
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "PBS-AS",
+            "PHS-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PHYS3316",
+                "AEP3610"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PHYS 3316 or AEP 3610.",
+        "Need Note": false
+    },
+    "CS4860": {
+        "Title": "Applied Logic",
+        "Course Code": "CS4860",
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Need Note": false
+    },
+    "CS5154": {
+        "Title": "Software Testing",
+        "Course Code": "CS5154",
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3110",
+                "CS4120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: graduate standing in CS, or CS majors who have taken CS 3110 or CS 4120, or permission of instructor required.",
+        "Need Note": false
+    },
+    "CS5424": {
+        "Title": "Developing and Designing Interactive Devices",
+        "Course Code": "CS5424",
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: basic programming experience.",
+        "Need Note": true
+    },
+    "CS5777": {
+        "Title": "Principles of Large-Scale Machine Learning Systems",
+        "Course Code": "CS5777",
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS2110"
+            ],
+            [
+                "CS4780",
+                "CS5780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4780 or CS 5780, CS 2110 or equivalents.",
+        "Need Note": false
+    },
+    "CS5783": {
+        "Title": "Mathematical Foundations of Machine Learning",
+        "Course Code": "CS5783",
+        "Semester Offered": [
+            "FA23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4820"
+            ],
+            [
+                "CS4780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+        "Need Note": false
+    },
+    "CS1300": {
+        "Title": "Introductory Design and Programming for the Web",
+        "Course Code": "CS1300",
+        "Semester Offered": [
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS2300": {
+        "Title": "Intermediate Design and Programming for the Web",
+        "Course Code": "CS2300",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1300"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1300.",
+        "Need Note": false
+    },
+    "CS2802": {
+        "Title": "Discrete Structures - Honors",
+        "Course Code": "CS2802",
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Need Note": false
+    },
+    "CS4120": {
+        "Title": "Introduction to Compilers",
+        "Course Code": "CS4120",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3110"
+            ],
+            [
+                "CS3420",
+                "CS3410"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "CS4121"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410. Corequisite: CS 4121.",
+        "Need Note": false
+    },
+    "CS4121": {
+        "Title": "Practicum in Compilers",
+        "Course Code": "CS4121",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "CS4120"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: CS 4120.",
+        "Need Note": false
+    },
+    "CS5120": {
+        "Title": "Introduction to Compilers",
+        "Course Code": "CS5120",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3110"
+            ],
+            [
+                "CS3420",
+                "CS3410"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "CS5121"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410. Corequisite: CS 5121.",
+        "Need Note": false
+    },
+    "CS5121": {
+        "Title": "Practicum in Compilers",
+        "Course Code": "CS5121",
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "CS5120"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: CS 5120.",
+        "Need Note": false
+    },
+    "CS5755": {
+        "Title": "Mobile Human Robot Interaction Design",
+        "Course Code": "CS5755",
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS1110",
+                "CS1112",
+                "CS1133"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: proficiency in Python.",
+        "Need Note": true
+    },
+    "CS5412": {
+        "Title": "Cloud Computing",
+        "Course Code": "CS5412",
+        "Semester Offered": [
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4410"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4410 or permission of instructor.",
+        "Need Note": false
+    },
+    "CS5701": {
+        "Title": "Practicum in Artificial Intelligence",
+        "Course Code": "CS5701",
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4670",
+                "CS4700",
+                "CS4740",
+                "CS4780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.",
+        "Need Note": false
+    },
+    "CS2111": {
+        "Title": "Programming Practicum",
+        "Course Code": "CS2111",
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "CS2110"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: CS 2110.",
+        "Need Note": false
+    },
+    "CS4160": {
+        "Title": "Formal Verification",
+        "Course Code": "CS4160",
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "CS3110",
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above).",
+        "Need Note": true
+    },
+    "CS5135": {
+        "Title": "Computational Integer Programming",
+        "Course Code": "CS5135",
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ORIE5380",
+                "CS5727"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming.",
+        "Need Note": false
+    },
+    "CS5160": {
+        "Title": "Formal Verification",
+        "Course Code": "CS5160",
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS3110",
+                "CS2110",
+                "CS2112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above). ",
+        "Need Note": true
+    },
+    "CS5625": {
+        "Title": "Interactive Computer Graphics",
+        "Course Code": "CS5625",
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "CS4620",
+                "CS5620"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 4620/CS 5620.",
+        "Need Note": false
+    }
+}

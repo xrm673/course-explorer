@@ -1,0 +1,99 @@
+{
+    "Name": "Computer Science",
+    "A&S": {
+        "Core": [
+            [
+                "CS1110","CS1112"
+            ],
+            [
+                "CS2110","CS2112","Equivalent"
+            ],
+            [
+                "CS2800","CS2802"
+            ],
+            [
+                "CS3110"
+            ],
+            [
+                "CS3410","CS3420"
+            ],
+            [
+                "CS3700","CS3780"
+            ],
+            [
+                "CS4410","CS4414"
+            ],
+            [
+                "CS4820"
+            ]
+        ],
+
+        "Math": [
+            [
+                "MATH1110", "MATH1910"
+            ],
+            [
+                "MATH1120", "MATH1920"
+            ],
+            [
+                "MATH2210", "MATH2940"
+            ]
+        ],
+
+        "CS Electives": {
+            "description" : "Two CS 4000+ courses (3+ credits each). CS 4090, CS 4998, and CS 4999 are NOT allowed. CS 3700 or CS 3780 allowed if not used in CS core.",
+            "format" : "level",
+            "subject" : "CS",
+            "min_level" : 4,
+            "number" : 2,
+            "included" : [
+                "CS3700","CS3780"
+            ],
+            "excluded" : [
+                "CS4090", "CS4998", "CS4999","CS5090","CS5999"
+            ]
+        },
+
+        "Practicum or Project": {
+            "description" : "Accepted courses are CS practicums (CS 4xx1), or CS 3152, CS 4152, CS 4154, CS 4740, CS 4752, CS 5150, CS 5152, CS 5412, CS 5414, CS 5431, CS 5625, or CS 5643.",
+            "format" : "CS4XX1",
+            "number" : 1,
+            "included" : [
+                "CS3152", "CS4152", "CS4154", "CS4740",
+                "CS4752", "CS5150", "CS5152", "CS5412", 
+                "CS5414", "CS5431", "CS5625", "CS5643"
+            ]
+        },
+
+        "Technical Electives": {
+            "format" : "level",
+            "subject" : "any",
+            "min_level" : 3,
+            "number" : 3,
+            "included" : [],
+            "excluded" : []
+        },
+
+        "External Specializations": {
+            "format" : "level",
+            "subject" : "any but same",
+            "min_level" : 3,
+            "number" : 3,
+            "included" : [],
+            "excluded" : [
+                "INFO3300", "INFO4300", "INFO4302",
+                "INFO5300", "LING4474"
+            ],
+            "other excluded" :["research", "independent study", "TA credits"]
+        },
+
+        "Elective": {
+            "format" : "any course",
+            "other excluded" : ["PE", "courses numbered 10xx", "Engineering AEW's", "ROTC"]
+        }
+    },
+
+    "COE": {
+
+    }
+}

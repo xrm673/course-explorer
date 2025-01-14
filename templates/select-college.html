@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select College</title>
+</head>
+<body>
+    <h1>Select Your College</h1>
+    <form method="POST">
+        <select name="college" required>
+            {% for key, value in colleges.items() %}
+                <option value="{{ key }}">{{ value['Name'] }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

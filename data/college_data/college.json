@@ -1,0 +1,27 @@
+{
+    "AAP": {
+        "Name": "College of Architecture, Art, and Planning",
+        "Majors": 
+        {
+            "ART": "Fine Arts",
+            "URS": "Urban and Regional Studies"
+        }
+    },
+    "A&S": {
+        "Name": "College of Arts and Sciences",
+        "Majors": 
+        {
+            "CS" : "Computer Science",
+            "INFO" : "Information Science",
+            "MATH" : "Mathematics"
+        }
+    },
+    "COE": {
+        "Name": "College of Engineering",
+        "Majors": 
+        {
+            "CS" : "Computer Science",
+            "ECE" : "Electrical and Computer Engineering"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+
+<body>
+    <h2>Profile:</h2>
+    <p>Graduation Year: {{ year }}</p>
+    <p>College: {{ college_data[college].Name }}</p>
+    {% if major2 is not none %}
+        <p>First Major: {{ major1 }}</p>
+        <p><a href="{{major1_code}}-{{college}}">View Requirements>>></a></p>
+        <p>Second Major: {{ major2 }}</p>
+        <p><a href="{{major2_code}}-{{college}}">View Requirements>>></a></p>
+    {% else %}
+        <p>Major: {{ major1 }}</p>
+        <p><a href="{{major1_code}}-{{college}}">View Requirements>>></a></p>
+    {% endif %}
+    <a href="/select-college">
+        <button>Reselect</button>
+    </a>
+</body>

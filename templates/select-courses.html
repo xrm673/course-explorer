@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Select Courses</title>
+<script>
+    async function searchCourses() {
+        const query = document.getElementById('search-bar').value.trim();
+        const resultsContainer = document.getElementById('search-results');
+        resultsContainer.innerHTML = '';
+
+        if (!query) return; // Do nothing for empty input
+
+        const response = await fetch(`/search-courses?query=${encodeURIComponent(query)}`);
+        const courses = await response.json();
+
+        // Populate search results
+        if (courses.length > 0) {
+            courses.forEach(course => {
+                const courseItem = document.createElement('div');
+                courseItem.innerHTML = `
+                    <label>
+                        <input 
+                            type="checkbox" 
+                            name="courses" 
+                            value="${course.course_code}" 
+                            onchange="updateSelectedCourses(this)"
+                        >
+                        <strong>${course.course_code}</strong>: ${course.title}
+                    </label>
+                    <hr>
+                `;
+                resultsContainer.appendChild(courseItem);
+            });
+        } else {
+            resultsContainer.innerHTML = '<p>No matching courses found.</p>';
+        }
+    }
+
+    function updateSelectedCourses(checkbox) {
+        const selectedContainer = document.getElementById('selected-courses');
+        const courseCode = checkbox.value;
+
+        if (checkbox.checked) {
+            // Check if the course is already added
+            if (document.getElementById(`selected-${courseCode}`)) {
+                checkbox.checked = false; // Uncheck the checkbox
+                alert(`${courseCode} is already selected.`);
+                return;
+            }
+
+            // Add selected course
+            const courseItem = document.createElement('div');
+            courseItem.id = `selected-${courseCode}`;
+            courseItem.textContent = courseCode;
+            selectedContainer.appendChild(courseItem);
+        } else {
+            // Remove unselected course
+            const courseItem = document.getElementById(`selected-${courseCode}`);
+            if (courseItem) {
+                selectedContainer.removeChild(courseItem);
+            }
+        }
+    }
+</script>
+</head>
+<body>
+    <h1>Select Your Courses</h1>
+    <form method="POST">
+        <label for="search-bar">Search for courses by code:</label>
+        <input
+            type="text"
+            id="search-bar"
+            oninput="searchCourses()"  <!-- Trigger search dynamically -->
+            placeholder="Type course code..."
+        >
+        <div id="search-results"></div>
+        <br>
+        <h2>Selected Courses:</h2>
+        <div id="selected-courses">
+            <!-- Dynamically updated with selected courses -->
+        </div>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
