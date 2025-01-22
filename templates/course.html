@@ -8,6 +8,8 @@
     <h1>{{ course_code }}</h1>
     <h2>{{ title }}</h2>
 
+    <p>Description: {{ description }}</p>
+
     <p>Credits:
     {% for credit in credits %}
         <button>{{ credit }}</button>
@@ -31,11 +33,30 @@
     {% if prereq != [] %}
         <p>Prerequisites:</p>
         {% for group in prereq %}
+        <div class="group-container">
             {% for course in group %}
             <button>{{ course }}</button>
             {% endfor %}
+        </div>
         {% endfor %}
     {% endif %} 
+
+
+    {% if requirement is not none %}
+        <p>Specific Requirements: {{requirement}} </p>
+    {% endif %}
+
+    {% if comments is not none %}
+        <p>Comments: {{comments}} </p>
+    {% endif %}
+
+    {% if recommend is not none %}
+        <p>Recommend Prerequisites: {{recommend}} </p>
+    {% endif %}
+    
+    {% if permission is not none %}
+        <p>Permission Requirement: {{permission}} </p>
+    {% endif %}    
     
     {% set subject = course_code | extract_subject %}
     {% set number = course_code | extract_number %}

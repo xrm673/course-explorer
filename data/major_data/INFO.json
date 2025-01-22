@@ -1,0 +1,55 @@
+{
+    "Name" : "Information Science",
+    "A&S" : {
+        "Core Courses" : [
+            [
+                "INFO1200","INFO1260"
+            ],
+            [
+                "INFO1300"
+            ],
+            [
+                "INFO2040"
+            ],
+            [
+                "INFO2450"
+            ],
+            [
+                "INFO2950","INFO2951"
+            ]
+        ],
+        "Programming Requirements" : [
+            [
+                "CS1110","CS1112"
+            ]
+        ],
+        "Math Requirements" : [
+            [
+                "MATH1106","MATH1110","MATH1910"
+            ]
+        ],
+        "Statistics" : {
+            "description": "Students should take one of the statistics courses listed below.",
+            "number" : 1,
+            "included" : [
+                "AEM2100", "BTRY3010", "CEE3040", "ECON3110", "ECON3130", "ENGRD2700",
+                "ILRST2100", "MATH1710", "PSYCH2500", "PUBPOL2100", "SOC3010",
+                "STSCI2100", "STSCI2150", "STSCI2200"
+            ]
+        },
+        "Electives" : {
+            "description" : "All students are required to complete three electives from the following options: INFO 2300 or INFO 2310*, CS 2110/2112, CS 3110, CS 3410, and any INFO 3000+ course including INFO 4900 (excluding INFO 4998 and INFO 4910). Electives must be taken for a letter grade, each must earn three or more credit hours, and must be completed with a grade of C- or higher (a grade of C or higher is required for courses taken abroad). Students may only fulfill one of their electives with INFO 4900. *INFO 2300 and INFO 2310 overlap in content so both courses cannot count towards the major.",
+            "format" : "level",
+            "subject" : "INFO",
+            "min_level" : 3,
+            "min_credit" : 3,
+            "number" : 3,
+            "included" : [
+                "INFO2300", "INFO2310","CS2110","CS2112","CS3110","CS3410"
+            ],
+            "excluded" : [
+                "INFO4998","INFO4910","INFO5900"
+            ]
+        }
+    }
+}

@@ -1,0 +1,792 @@
+{
+    "BTRY3020": {
+        "Title": "Statistics II",
+        "Course Code": "BTRY3020",
+        "Description": "\n            Applies linear statistical methods to quantitative problems addressed in biological and environmental research. Methods include linear regression, inference, model assumption evaluation, the likelihood approach, matrix formulation, generalized linear models, single-factor and multifactor analysis of variance (ANOVA), and a brief foray into nonlinear modeling. Carries out applied analysis in a statistical computing environment.\n        ",
+        "Combined Course": [
+            "BTRY5020",
+            "STSCI3200",
+            "STSCI5201"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 or equivalent.",
+        "Comments": "Basic knowledge of R programming.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "BTRY3080": {
+        "Title": "Probability Models and Inference",
+        "Course Code": "BTRY3080",
+        "Description": "\n            This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, the method of moments, sampling distributions and confidence intervals.\n        ",
+        "Combined Course": [
+            "ILRST3080",
+            "STSCI3080",
+            "STSCI5080"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "MATH1120"
+            ],
+            [
+                "MATH2220"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200, MATH 1120 and MATH 2220, or thier equivalents. ",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4090": {
+        "Title": "Theory of Statistics",
+        "Course Code": "BTRY4090",
+        "Description": "\n            Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include: sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.\n        ",
+        "Combined Course": [
+            "BTRY5090",
+            "STSCI4090",
+            "STSCI5090"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or MATH 4710 or equivalent and at least one introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "BTRY4100": {
+        "Title": "Multivariate Analysis",
+        "Course Code": "BTRY4100",
+        "Description": "\n            This course is on the basics of multivariate statistical analysis. The focus ison the applied side, and the students will learn by examples of multiple real-life datasets. Studentswill learn to visualize the datasets and conduct simple statistical analysis using linear/nonlinearmethods. We will also cover web-scraping and data cleaning.\n        ",
+        "Combined Course": [
+            "ILRST4100",
+            "STSCI4100",
+            "STSCI5111"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100 or equivalent.",
+        "Comments": "Linear models (STSCI 4030\u00a0or equivalent) is highly recommended.\u00a0Some programming experience in R will be helpful but it is not required. \u00a0",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4970": {
+        "Title": "Undergraduate Individual Study in Biometry and Statistics",
+        "Course Code": "BTRY4970",
+        "Description": "\n            Consists of individual tutorial study selected by the faculty. Because topics usually change from year to year, this course may be repeated for credit.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Students must register using CALS Special Studies form available online.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          Students from all Colleges must submit a College of Agriculture and Life Sciences (CALS) Special Studies Form (https://cals.cornell.edu/undergraduate-students/student-services/academic-resources/special-studies-academic-policies-and-petitions-and-forms/undergraduate-special-studies-enrollment-non-structured-credit). Upon approval, students are responsible for enrolling themselves with a permission number.\n",
+        "Need Note": false
+    },
+    "BTRY4980": {
+        "Title": "Undergraduate Supervised Teaching",
+        "Course Code": "BTRY4980",
+        "Description": "\n            Students assist in teaching a course appropriate to their previous training. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Students must register using CALS Special Studies form available online.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          Students from all Colleges must submit a College of Agriculture and Life Sciences (CALS) Special Studies Form (https://cals.cornell.edu/undergraduate-students/student-services/academic-resources/special-studies-academic-policies-and-petitions-and-forms/undergraduate-special-studies-enrollment-non-structured-credit). Upon approval, students are responsible for enrolling themselves with a permission number.\n",
+        "Need Note": false
+    },
+    "BTRY4990": {
+        "Title": "Undergraduate Research",
+        "Course Code": "BTRY4990",
+        "Description": "\n            Permits outstanding undergraduates to carry out independent study of suitable problems under appropriate supervision. Students cannot receive both pay and credit for the same hours of work.\n\u00a0\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Students must register using CALS Special Studies form available online.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Statistics and Biometry undergraduate students.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          Students from all Colleges must submit a College of Agriculture and Life Sciences (CALS) Special Studies Form (https://cals.cornell.edu/undergraduate-students/student-services/academic-resources/special-studies-academic-policies-and-petitions-and-forms/undergraduate-special-studies-enrollment-non-structured-credit). Upon approval, students are responsible for enrolling themselves with a permission number.\n",
+        "Need Note": false
+    },
+    "BTRY5020": {
+        "Title": "Statistics II",
+        "Course Code": "BTRY5020",
+        "Description": "\n            Applies linear statistical methods to quantitative problems addressed in biological and environmental research. Methods include linear regression, inference, model assumption evaluation, the likelihood approach, matrix formulation, generalized linear models, single-factor and multifactor analysis of variance (ANOVA), and a brief foray into nonlinear modeling. Carries out applied analysis in a statistical computing environment.\n        ",
+        "Combined Course": [
+            "BTRY3020",
+            "STSCI3200",
+            "STSCI5201"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 or equivalent.",
+        "Comments": "Basic knowledge of R programming.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "BTRY5090": {
+        "Title": "Theory of Statistics",
+        "Course Code": "BTRY5090",
+        "Description": "\n            Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.\n        ",
+        "Combined Course": [
+            "BTRY4090",
+            "STSCI4090",
+            "STSCI5090"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or MATH 4710, or equivalent and at least one introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "BTRY3010": {
+        "Title": "Statistics I",
+        "Course Code": "BTRY3010",
+        "Description": "\n            Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.\n        ",
+        "Combined Course": [
+            "BTRY5010",
+            "STSCI2200",
+            "STSCI5200"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one semester of calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: one semester of calculus.\n",
+        "Need Note": true
+    },
+    "BTRY3100": {
+        "Title": "Statistical Sampling",
+        "Course Code": "BTRY3100",
+        "Description": "\n            Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.\u00a0\n        ",
+        "Combined Course": [
+            "ILRST3100",
+            "STSCI3100",
+            "STSCI5100"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010 or equivalent, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: two semesters of statistics.\n",
+        "Need Note": false
+    },
+    "BTRY4030": {
+        "Title": "Linear Models with Matrices",
+        "Course Code": "BTRY4030",
+        "Description": "\n            The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.\n        ",
+        "Combined Course": [
+            "STSCI4030",
+            "STSCI5030"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ],
+            [
+                "MATH2210"
+            ],
+            [
+                "MATH1920"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ],
+            [
+                "BTRY3080"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or their equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4110": {
+        "Title": "Categorical Data",
+        "Course Code": "BTRY4110",
+        "Description": "\n            Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.\n        ",
+        "Combined Course": [
+            "ILRST4110",
+            "STSCI4110",
+            "STSCI5160"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3020",
+                "BTRY6020"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3020, BTRY 6020, or equivalent.",
+        "Comments": "BTRY 3080\u00a0or MATH 4710\u00a0also highly recommended.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY5010": {
+        "Title": "Statistics I",
+        "Course Code": "BTRY5010",
+        "Description": "\n            Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.\n        ",
+        "Combined Course": [
+            "BTRY3010",
+            "STSCI2200",
+            "STSCI5200"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one semester of calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: one semester of calculus.\n",
+        "Need Note": true
+    },
+    "BTRY3090": {
+        "Title": "Theory of Interest",
+        "Course Code": "BTRY3090",
+        "Description": "\n            This course will cover financial mathematics and financial instruments relevant to exam FM offered by the Society of Actuaries. Topics on the present and accumulated value of future cash flows will be covered including the measurement of simple and compound interest, annuities, yield rates, amortization schedules, bonds.\n        ",
+        "Combined Course": [
+            "STSCI3090"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or permission from the instructor.",
+        "Comments": "Offered in even-numbered years only.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisites: Calculus I or permission from the instructor.\n",
+        "Need Note": false
+    },
+    "BTRY4950": {
+        "Title": "Statistical Consulting",
+        "Course Code": "BTRY4950",
+        "Description": "\n            This course will give students the opportunity to apply the statistical knowledge gained in their courses to \"real-life\" problems. Students will be integrated in the Cornell Statistical Consulting Unit (CSCU) and be exposed to various areas in which statistical methods are applied. Students will gain experience in choosing appropriate statistical procedures and their implementations in various statistical software packages. They will also learn how to communicate effectively to understand the client's problem and to explain methods and results to non-statisticians.\n        ",
+        "Combined Course": [
+            "BTRY7950",
+            "STSCI4950"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3020",
+                "BTRY6010"
+            ],
+            [
+                "BTRY3010"
+            ],
+            [
+                "BTRY6020"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 and BTRY 3020, or BTRY 6010 and BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: A one year sequence of an introductory statistics course which covers probability, ANOVA, and linear regression. For example, BTRY 3010 and BTRY 3020, or BTRY 6010 and BTRY 6020.\n",
+        "Need Note": false
+    },
+    "BTRY4270": {
+        "Title": "Introduction to Survival Analysis and Loss Models",
+        "Course Code": "BTRY4270",
+        "Description": "\n            Develops and uses statistical methods appropriate for analyzing right-censored (i.e., incomplete) time-to-event data. Topics covered include nonparametric estimation (e.g., life table methods, Kaplan Meier estimator), nonparametric methods for comparing the survival experience of two or more populations, and semiparametric and parametric methods of regression for censored outcome data. Emphasis is given to applications in medicine and actuarial studies. Substantial use is made of the R statistical software package.\n        ",
+        "Combined Course": [
+            "STSCI4270",
+            "STSCI5270"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ],
+            [
+                "MATH2210"
+            ],
+            [
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or equivalent, MATH 1120 or equivalent, and MATH 2210 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4830": {
+        "Title": "Quantitative Genomics and Genetics",
+        "Course Code": "BTRY4830",
+        "Description": "\n            A rigorous treatment of analysis techniques used to understand complex genetic systems. This course covers both the fundamentals and advances in statistical methodology used to analyze disease and agriculturally relevant and evolutionarily important phenotypes. Topics include mapping quantitative trait loci (QTLs), application of microarray and related genomic data to gene mapping, and evolutionary quantitative genetics. Analysis techniques include association mapping, interval mapping, and analysis of pedigrees for both single and multiple QTL models. Application of classical inference and Bayesian analysis approaches is covered and there is an emphasis on computational methods.\n        ",
+        "Combined Course": [
+            "BTRY6830"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 and introductory statistics or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "BTRY4910": {
+        "Title": "Advanced Population Genetics",
+        "Course Code": "BTRY4910",
+        "Description": "\n            This course covers the latest development and cutting-edge research topics in population genetics, aiming to enable students to perform research in population genetics. The first part will cover coalescent theory and inference involving complex demography. The second part will discuss natural selection and methods for inferring selection. We will allude to the complexity of demographic history and natural selection and their importance in explaining genomic patterns. The third part will introduce new data types and the challenges and opportunities with these data. We will dive into genotype likelihood and will emphasize the importance of simulation in population genetics. The course will be mostly delivered through lecturing, each interspersed with short conversations about reading assignments. Coursework involves reading literature, solving problem sets, and a course project.\n        ",
+        "Combined Course": [
+            "BTRY6910"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BIOMG2800",
+                "BIOEE1780",
+                "BTRY3080",
+                "BTRY3010",
+                "BTRY4810"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BIOMG 2800 or BIOEE 1780, BTRY 3080 or BTRY 3010, BTRY 4810, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4381": {
+        "Title": "Biomedical Data Mining and Modeling",
+        "Course Code": "BTRY4381",
+        "Description": "\n            A biomedical data science course using Python and available bioinformatics tools and techniques for the analysis of molecular biological data, including biosequences, microarrays, and networks.\u00a0 This course emphasizes practical skills rather than theory. Topics include advanced Python programming, R and Bioconductor, sequence alignment, MySQL database (DBI), web programming and services (CGI), genomics and proteomics data mining and analysis, machine learning, and methods for inferring and analyzing regulatory, protein-protein interaction, and metabolite networks.\n        ",
+        "Combined Course": [
+            "BTRY6381"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: at least one introductory course in computer programming (any language) and one in statistical methods, or permission of the instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: at least one introductory course in computer programming (any language) and one in statistical methods, or permission of the instructor.\n",
+        "Need Note": true
+    },
+    "BTRY4840": {
+        "Title": "Computational Genetics and Genomics",
+        "Course Code": "BTRY4840",
+        "Description": "\n            Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.\n        ",
+        "Combined Course": [
+            "BTRY6840",
+            "CS4775"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ],
+            [
+                "CS2110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 and CS 2110 or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisites: BTRY 3010 and CS 2110 or equivalents.\n",
+        "Need Note": false
+    },
+    "BTRY4140": {
+        "Title": "Applied Design",
+        "Course Code": "BTRY4140",
+        "Description": "\n            This course begins with a discussion of some general principles of experimental design. Classical designs are covered in detail, motivated by real data applications. These include completely randomized, randomized block, balanced incomplete block, split-plot, repeated measures and fractional factorial designs. If time permits rank-based nonparametric versions of the classical designs will also be covered.\n        ",
+        "Combined Course": [
+            "ILRST4140",
+            "STSCI4140",
+            "STSCI5140"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3200"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 3200 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "BTRY4810": {
+        "Title": "Population Genetics",
+        "Course Code": "BTRY4810",
+        "Description": "\n            Population genetics is the study of the transmission of genetic variation through time and space. This course explores what the patterns and dynamics of genetic variation in populations can teach us about the processes that underlie evolution. Topics include the quantification of genetic variation, mutation, selection and fitness, genetic drift, migration, population structure, multilocus models, quantitative traits, and adaptation at the molecular level. We will also discuss efforts to connect genotype with phenotype and ultimately fitness. Emphasis is placed on the interplay between theory, computer simulations, and data from natural as well as experimental populations. Specific case studies include the evolution of drug resistance, experimental evolution of microbes and insects, breeding techniques in plants and animals, the evolution of cancer, and the genetic structure and evolution of human populations.\n        ",
+        "Combined Course": [
+            "BIOMG4810"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BIOMG2800",
+                "BIOEE1780"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BIOMG 2800, BIOEE 1780, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: BIOMG 2800, BIOEE 1780, or equivalents.\n",
+        "Need Note": false
+    }
+}

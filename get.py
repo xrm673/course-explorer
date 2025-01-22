@@ -136,19 +136,63 @@ def get_course_details(semester,course_code):
     course_page = BeautifulSoup(response.text,"html.parser")
 
     course_title = course_page.find("div", class_="title-coursedescr")
+    description = course_page.find("p", class_="catalog-descr")
+    heading = course_page.find("p", class_="heading")
     prereq = course_page.find("span", class_="catalog-prereq")
     comments = course_page.find("span",class_="catalog-comments")
     credits = course_page.find("span", class_="credits")
     distr = course_page.find("span", class_="catalog-distr")
+    permission = course_page.find("span",class_="catalog-permiss")
+    foot_note = course_page.find("li",class_="section-alt section-alt-details notes")
 
+    description_text = description.text if description else None
+    permission_text = permission.text if permission else None
     prereq_text = prereq.text if prereq else None
-    comments = comments.text if comments else None
-    if comments and comments.find("Prerequisite:") != -1:
-        prereq_text = comments
+    comments_text = comments.text if comments else None
+
+    if description_text:
+        description_text.replace('\xa0', ' ').replace("—","--").strip()
+
+    if permission_text:
+        permission_text.replace("\xa0", " ").replace("—","--")
+
+    combined_courses = None
+    if heading:
+        combined_with_list = heading.find_all("a")
+        if combined_with_list:
+            combined_courses = []
+            for combined_with in combined_with_list:
+                combined_course = combined_with.text
+                pos = combined_course.find(" ")
+                if pos != -1:
+                    combined_course = combined_course[:pos] + combined_course[pos+1:]
+                    combined_courses.append(combined_course)
+
+    foot_note_text = None
+    if foot_note:
+        foot_note = foot_note.find("p")
+        if foot_note:
+            foot_note_text = foot_note.text
+
+    recommended_prereq = None
+    if comments_text:
+        comments_text.replace("\xa0", " ").replace("—","--")
+        pos_comments = comments_text.find("Comments ")
+        comments_text = comments_text[9:]
+
+        if re.search(r"Recommended prerequisite:", comments_text, re.IGNORECASE):
+            recommended_prereq = comments_text
+            comments_text = None
+
+        elif comments_text.find("Prerequisite:") != -1:
+            prereq_text = comments_text
+            comments_text = None
+
     if prereq_text:
         prereq_text = prereq_text.replace("\xa0", " ").replace("—","--")
-        pos = prereq_text.find("Prerequisites/Corequisites ")
-        if pos == 0:
+        pos_preco = prereq_text.find("Prerequisites/Corequisites ")
+        pos_pre = prereq_text.find("Prerequisites/Corequisites ")
+        if pos_preco == 0:
             prereq_text_simplified = prereq_text[27:]
         else:
             prereq_text_simplified = prereq_text
@@ -158,16 +202,22 @@ def get_course_details(semester,course_code):
     details = {
         "Title" : course_title.text,
         "Course Code" : course_code,
+        "Description" : description_text,
+        "Combined Course" : combined_courses,
         "Semester Offered" : [semester],
         "Credits" : credits_to_list(credits.text),
         "Distribution" : extract_distr(distr.text) if distr else None,
         "Prerequisites" : [], "Corequisites" : [],
         "Prerequisites or Corequisites" : [],
         "Specific Requirements" : prereq_text_simplified,
+        "Comments" : comments_text if comments_text else None,
+        "Recommended Prerequisite" : recommended_prereq if recommended_prereq else None,
+        "Permission" : permission_text,
+        "Foot Note" : foot_note_text,
         "Need Note" : False
     }
 
-    if prereq:
+    if prereq_text:
         prereq_list = separate_prereq(prereq_text)
 
         prerequisite = parse_prerequisites(prereq_list[0])
@@ -277,6 +327,7 @@ def parse_prerequisites(prereq_text):
     "discrete math": "CS 2800",
     "discrete mathematics": "CS 2800",
     "introductory ML course": "CS 3780",
+    "numerical methods": "CS 4210 or CS 4220",
     }
 
     for topic,course in replacements.items():
@@ -509,8 +560,8 @@ def combine_all():
         json.dump(combined,json_file,indent=4)
 
 if __name__ == "__main__":
-    save_all('CS')
-    save_all('MATH')
+    save_all('STSCI')
+    save_all('ENGRD')
     combine_all()
 # "CS4744" "CS5775" "MATH4030" "INFO3140" "INFO3152" "INFO4152" "INFO5152"
 # 'CS4210' (FA24), 'CS4745' (FA24)

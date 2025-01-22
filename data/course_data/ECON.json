@@ -1,0 +1,2359 @@
+{
+    "ECON1001": {
+        "Title": "Principles of Micro-Economics Supplement",
+        "Course Code": "ECON1001",
+        "Description": "\n            Reviews lecture material presented in ECON 1110\u00a0lectures; provides problem-solving techniques, study tips, and additional problems to prepare for exams and problem sets; provides additional time for questions and discussion of concepts. Provides additional instruction for students who need reinforcement.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          College of Arts & Sciences (A&S) students receive transcript credit only; cannot be used toward graduation.\n",
+        "Need Note": false
+    },
+    "ECON1002": {
+        "Title": "Principles of Macro-Economics Supplement",
+        "Course Code": "ECON1002",
+        "Description": "\n            Reviews lecture material presented in ECON 1120\u00a0lectures; provides problem-solving techniques, study tips, and additional problems to prepare for exams and problem sets; provides additional time for questions and discussion of concepts. Provides additional instruction for students who need reinforcement.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON1110": {
+        "Title": "Introductory Microeconomics",
+        "Course Code": "ECON1110",
+        "Description": "\n            Explanation and evaluation of how the price system operates in determining what goods are produced, how goods are produced, who receives income, and how the price system is modified and influenced by private organizations and government policy.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "ECON 1110 is not a prerequisite for ECON 1120.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON1120": {
+        "Title": "Introductory Macroeconomics",
+        "Course Code": "ECON1120",
+        "Description": "\n            Analysis of aggregate economic activity in relation to the level, stability, and growth of national income. Topics may include the determination and effects of unemployment, inflation, balance of payments, deficits, and economic development, and how these may be influenced by monetary, fiscal, and other policies.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON2100": {
+        "Title": "Teaching and Learning Economics",
+        "Course Code": "ECON2100",
+        "Description": "\n            This course teaches students what they need to know in order to be excellent course assistants (CA's) in economics courses at Cornell. We will meet for an hour each week to talk about how students learn economics, and how best to help them learn. Students in this course will get concrete guidance on what to do as a CA, and we'll discuss the research behind this guidance. Students will be expected to do some reading outside class and either write a research paper on economic education or develop new teaching materials that can be incorporated into an economics course. Students will also facilitate small group activities in lecture courses (3 hours per week) and help other students in the Economics Support Center (2 hours per week).\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON2300": {
+        "Title": "International Trade and Finance",
+        "Course Code": "ECON2300",
+        "Description": "\n            Introduction to international economic principles and issues. Begins by surveying key topics such as the elements of comparative advantage, tariff and nontariff barriers, and multilateral institutions. The second part of the course treats selected topics in international finance, including exchange rates, balance of payments, and capital markets. Discusses current issues such as the effects of trade liberalization, trade and economic growth, and instability in international capital markets. Designed as a less technical introduction to concepts developed at a more advanced level in AEM 4300\u00a0and ECON 4510-ECON 4520.\n        ",
+        "Combined Course": [
+            "AEM2300"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110",
+                "ECON1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110. Recommended Prerequisite: ECON 1120.",
+        "Comments": "Cannot be applied to the Economics major.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3030": {
+        "Title": "Intermediate Microeconomic Theory",
+        "Course Code": "ECON3030",
+        "Description": "\n            The pricing processes in a private enterprise economy are analyzed under varying competitive conditions, and their role in the allocation of resources and the functional distribution of national income is considered.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "ECON1120"
+            ],
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120 and calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3040": {
+        "Title": "Intermediate Macroeconomic Theory",
+        "Course Code": "ECON3040",
+        "Description": "\n            Introduces the theory of national income and determination and economic growth in alternative models of the national economy. Examines the interaction and relation of these models to empirical aggregate economic data. Reviews national accounts, output and employment determination, price stability and economic growth, in the context of alternative government policy programs and the impact of globalization.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "ECON1120"
+            ],
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120 and calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3110": {
+        "Title": "Probability Models and Inference for the Social Sciences",
+        "Course Code": "ECON3110",
+        "Description": "\n            This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing.\n        ",
+        "Combined Course": [
+            "ILRST3110",
+            "STSCI3110"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3120": {
+        "Title": "Applied Econometrics",
+        "Course Code": "ECON3120",
+        "Description": "\n            Introduction to the theory and application of econometric techniques. Emphasis is on both development of techniques and applications of econometrics to economic questions. Topics include estimation and inference in bivariate and multiple regression models, instrumental variables, regression with qualitative information, heteroskedasticity, and serial correlation. Students are expected to apply techniques through regular empirical exercises with economic data.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3110",
+                "ECON3130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3110 or ECON 3130.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3140": {
+        "Title": "Econometrics",
+        "Course Code": "ECON3140",
+        "Description": "\n            Introduction to the theory and application of econometric techniques. Emphasis is on foundations and development of econometric models, focusing on how a theoretical economic model can be placed into a statistical framework where data is used for the purposes of prediction/forecasting, measurement, and/or testing of economic theory. Topics include estimation and inference in bivariate and multiple regression models, instrumental variables, regression with qualitative information, heteroskedasticity, serial correlation.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3130.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3280": {
+        "Title": "Introduction to Political Economy for Public Policy",
+        "Course Code": "ECON3280",
+        "Description": "\n            This course will provide an overview of recent empirical research in political economy, which applies the toolbox of economic and econometric analysis to the study of politics. The focus will be on the politics of the policymaking process.\u00a0 It will cover the following topics: (1) Voters' behavior; (2) Politicians' behavior; (3) Information and mass media; (4) Political distortions and capture; (5) Political institutions. The course will be based on the reading of research papers and the in-depth discussion of their implications for public policy.\n        ",
+        "Combined Course": [
+            "ILRLE3280"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000"
+            ],
+            [
+                "ECON1110"
+            ],
+            [
+                "ILRLE2400"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110 or equivalent, PUBPOL 2000, and ILRLE 2400 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3430": {
+        "Title": "Compensation, Incentives, and Productivity",
+        "Course Code": "ECON3430",
+        "Description": "\n            Examines topics in labor economics of particular relevance to individual managers and firms. Representative topics include recruitment, screening, and hiring strategies; compensation (including retirement pensions and other benefits); training, turnover, and the theory of human capital; incentive schemes and promotions; layoffs, downsizing, and buyouts; teamwork; and internal labor markets. Focuses on labor-related business problems using the analytic tools of economic theory and should appeal to students with strong quantitative skills who are contemplating careers in general business, consulting, and human resource management as well as in economics.\n        ",
+        "Combined Course": [
+            "ILRLE4430"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ILRLE2400"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRLE 2400 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3475": {
+        "Title": "Visualizing Economics: Introducing Basic Economic Concepts with Visual Arts",
+        "Course Code": "ECON3475",
+        "Description": "\n            This course proposes a new and innovative approach to learning about economics. If you want to learn in a different manner, if you are attracted to visualizations in general, this course is for you. This course will challenge preconceptions about what economics is. The goal is to use visual arts to illustrate basic economic concepts that are general, and demonstrate how these tools can be used to analyze and understand a variety of human and social phenomena. The idea of using arts to teach a non-arts related topic stems from recent research in neurology suggesting that creative arts aid learning and memorizing. The course focuses on the core concepts and ideas in economics and is meant to be widely accessible.\n        ",
+        "Combined Course": [
+            "ILRLE3475"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECON1120"
+            ],
+            [
+                "ILRLE2400",
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRLE 2400 or ECON 1110 and ECON 1120.",
+        "Comments": "No background in arts is needed.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3550": {
+        "Title": "Economics of Developing Countries",
+        "Course Code": "ECON3550",
+        "Description": "\n            The goal of this course is to expand students' understanding of the economics of developing countries. We will address questions like: why do some countries grow quickly and others slowly? What factors prevent countries, households, and individuals from escaping the cycle of poverty? How do policymakers balance economic growth and environmental sustainability? Why don't financial markets work well in most developing countries, and do informal institutions fill the gap? How do we analyze the challenges facing small-scale farming households, and how do decisions by those households influence migration, labor markets, and the growth of industry? How do we evaluate policies and programs in order to understand what works for development? The approach in this course will be primarily microeconomic, although a basic understanding of macroeconomics is important for some topics. Emphasis will be on theory, real-world examples, and reading and interpreting research and policy papers.\n        ",
+        "Combined Course": [
+            "AEM4315"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1120"
+            ],
+            [
+                "ECON3030"
+            ],
+            [
+                "ECON3120",
+                "ECON3140"
+            ],
+            [
+                "ECON1110"
+            ],
+            [
+                "ECON3110",
+                "ECON3130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120, ECON 3030, ECON 3110 or ECON 3130 and ECON 3120 or ECON 3140; or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3670": {
+        "Title": "Behavioral Economics and Public Policy",
+        "Course Code": "ECON3670",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PUBPOL3130",
+            "PUBPOL5130"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000",
+                "ECON3030"
+            ],
+            [
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 3100 or a course in basic econometrics, and PUBPOL 2000 or ECON 3030. Some courses in other departments may be substituted, but they need to be cleared first by instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3711": {
+        "Title": "The Economics and Regulation of Risky Health Behaviors",
+        "Course Code": "ECON3711",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PUBPOL4281",
+            "PUBPOL5281"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000",
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000 or ECON 3030.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3770": {
+        "Title": "Inequality in U.S. Higher Education",
+        "Course Code": "ECON3770",
+        "Description": "\n            Is the U.S. college system a great equalizer or a cause of growing inequality? Improved access to higher education has brought millions of Americans into the middle class, and yet rising selectivity has meant that a disproportionate share of the economic elite come from a few top colleges. This course will explore the three big parts of the college experience --- (1) admissions and the college-going decision; (2) education while in college; and (3) college completion and labor market entry --- and ask how each part contributes to inequality in economic outcomes. Lectures and readings will focus on simple economic theories of higher education as well as the empirical methods used to test these theories.\n        ",
+        "Combined Course": [
+            "ILRLE3445"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SCD-AS",
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ILRLE2400"
+            ],
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRLE 2400, ECON 3030 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3825": {
+        "Title": "Networks II: Market Design",
+        "Course Code": "ECON3825",
+        "Description": "\n            Networks II builds on its prerequisite course and continues to examine how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects these worlds. In this course, we will construct mathematical models for and analyze networked settings, allowing us to both make predictions about behavior in such systems, as well as reason about how to design such systems to exhibit some desirable behavior. Throughout, we will draw on real-world examples such as social networks, peer-to-peer filesharing, Internet markets, and crowdsourcing, that illustrate these phenomena.\n        ",
+        "Combined Course": [
+            "CS4852",
+            "INFO4220",
+            "INFO6220"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "INFO2040"
+            ],
+            [
+                "CS2800"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: INFO 2040, CS 2800 or equivalent.",
+        "Comments": "Knowledge of basic probability and statistics expected.\u00a0Please visit the course website and see the FAQ if you do not satisfy the prerequisites (especially INFO 2040), for further detail.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "ECON3860": {
+        "Title": "Resource Economics",
+        "Course Code": "ECON3860",
+        "Description": "\n            AEM 4500/ECON 3860\u00a0introduces students to the economics of renewable and nonrenewable natural resources. Topics\u00a0covered include the valuation and use of land; water economics, management, and\u00a0conservation; the extraction and management of nonrenewable resources such as minerals, rare earth elements, and energy resources; renewable and nonrenewable sources of energy; forest management; fishery economics; groundwater; natural resource markets, demand, and supply; and sustainability. Students will learn how to use dynamic models to analyze decision-making over time, and to solve dynamic optimization problems analytically and numerically. Students will also learn how to analyze and explain the intuition and logic behind the theory and\u00a0concepts. Students will apply the methods, quantitative tools, and\u00a0concepts to analyze natural resource issues at global and local levels; to introspectively reflect on their own lives and future aspirations; and to draw lessons and implications for leadership, management, and policy. A solid background in\u00a0calculus is required.\n        ",
+        "Combined Course": [
+            "AEM4500",
+            "AEM5500"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ],
+            [
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110, ECON 3030.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3865": {
+        "Title": "Environmental Economics",
+        "Course Code": "ECON3865",
+        "Description": "\n            This class will focus on the role of the environment in the theory and practice of economics. It will make use of microeconomic analysis at the intermediate level and will incorporate real-world examples. It examines market failure, externalities, benefit-cost analysis, nonmarket valuation techniques, and cost-effective policy instruments.\n        ",
+        "Combined Course": [
+            "AEM4510",
+            "AEM5510"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ],
+            [
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110, ECON 3030.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: undergraduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4020": {
+        "Title": "Game Theory I",
+        "Course Code": "ECON4020",
+        "Description": "\n            Studies mathematical models of conflict and cooperation in situations of uncertainty (about nature and about decision makers).\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SMR-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3130"
+            ],
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 and ECON 3130, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4210": {
+        "Title": "Money and Credit",
+        "Course Code": "ECON4210",
+        "Description": "\n            A systematic treatment of the determinants of the money supply and the volume of credit. Economic analysis of credit markets and financial institutions in the United States.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110",
+                "ECON1120"
+            ],
+            [
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120 and ECON 3040, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4270": {
+        "Title": "State and Local Public Finance",
+        "Course Code": "ECON4270",
+        "Description": "\n            This course provides an introduction to state and local public finance. The course has two goals: first, to provide institutional detail about U.S. state and local governments and their policies, and, second, to use economic theory to analyze public policy issues that arise in the state and local government setting. The course is divided into eight parts. Parts I and II provide background by reviewing key theoretical concepts in public finance and public choice: Part I covers the normative economic theory of the role of government in a market economy and Part II covers some standard positive theories of policy-making. Part III introduces the theory of fiscal federalism, which seeks to provide guidance on the appropriate role of state and local governments. Parts IV and V discuss different ways in which the provision of state and local goods and services are financed: Part IV deals with non-tax sources of finance and Part V covers commonly used taxes. Part VI explains the budget process of state and local governments. Part VII describes how three of the most important state and local government responsibilities are organized: education, transportation, and health and welfare. Finally, Part VIII discusses state and local government policies towards residential and business development.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4280": {
+        "Title": "Applied Political Economy",
+        "Course Code": "ECON4280",
+        "Description": "\n            This course will provide an overview of recent empirical research in political economy, which applies the toolbox of economic and econometric analysis to the study of politics. It will cover the following topics: (1) Voters' behavior; (2) Politicians' behavior; (3) Information and mass media; (4) Political distortions and capture; (5) Political institutions. The course will be based on the reading of research papers and the in-depth discussion of their theories, methods, results, and implications.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3110"
+            ],
+            [
+                "ECON3030"
+            ],
+            [
+                "ECON3120",
+                "ECON3140"
+            ],
+            [
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030, ECON 3040, ECON 3110 and either ECON 3120 or ECON 3140.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4600": {
+        "Title": "Economics of Risk and Insurance: Decision Making Under Risk and Insurance Demand",
+        "Course Code": "ECON4600",
+        "Description": "\n            The course will cover foundations of modern theory of decision making under risk. The first part of the course will cover the functioning of financial markets with focus on asset pricing. The main part of the course will focus on how consumers perceive and evaluate risk, as well as issues arising from asymmetric information, such as adverse selection and moral hazard. The latter part of the course will discuss the functioning of various insurance markets and welfare implications of potential policy interventions.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ],
+            [
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 and ECON 3040.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4620": {
+        "Title": "Industrial Organization: A Computational Approach",
+        "Course Code": "ECON4620",
+        "Description": "\n            This course takes a game theoretic and computational approach to the study of firms, markets, and competition. Topics include firms' pricing, product, and investment decisions in the face of competition. For each topic, the course covers theory and both analytical and computational approaches.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: some coding experience.\u00a0Students may take this course regardless of whether or not they have previously taken ECON 4610.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4660": {
+        "Title": "Behavioral Economics",
+        "Course Code": "ECON4660",
+        "Description": "\n            This course introduces students to behavioral economics, a subfield of economics that incorporates insights from psychology and other social sciences into economics. The course reviews some of the standard assumptions made in economics, and examines evidence on how human behavior systematically departs from these assumptions. The course then investigates alternative models of human decision making, and assesses to what extent these alternative models help improve economic analyses.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4903": {
+        "Title": "Quantitative Analysis of Economic Data",
+        "Course Code": "ECON4903",
+        "Description": "\n            The course will appeal to students who have strong quantitative skills and would like to see applications of economic theory to analyze issues prominent in major public debates. Currently, we offer a very limited number of advanced courses that require students to do independent research, discuss their ideas in teams, present their work, and write a research proposal.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3120"
+            ],
+            [
+                "ECON3110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3110 and ECON 3120, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment preference given to: juniors and seniors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4997": {
+        "Title": "Cross-Cultural Work Experiences",
+        "Course Code": "ECON4997",
+        "Description": "\n            This independent study course offers economics majors (i.e., undergraduates whose applications to affiliate with the economics major have been approved) an opportunity to reflect on concepts from economics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the economics major.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "For more information, see the CPT website.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: international undergraduate economics majors whose application to affiliate has been approved.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          Enrollment limited to: Economics majors working in the summer in a country other than that of their citizenship. International students may use this course as part of Curricular Practical Training (CPT). Prior to registering for the course, students must obtain a summer internship offer and international Students MUST submit the completed CPT application to the International Students and Scholars Office (ISSO). Once the application is approved the updated I-20 work authorization will be available at the ISSO.\n",
+        "Need Note": false
+    },
+    "ECON4999": {
+        "Title": "Independent Study in Economics",
+        "Course Code": "ECON4999",
+        "Description": "\n            Independent study.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ECON2040": {
+        "Title": "Networks",
+        "Course Code": "ECON2040",
+        "Description": "\n            This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.\n        ",
+        "Combined Course": [
+            "CS2850",
+            "INFO2040",
+            "SOC2090"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3130": {
+        "Title": "Statistics and Probability",
+        "Course Code": "ECON3130",
+        "Description": "\n            Provides an introduction to statistical inference and to principles of probability. It includes descriptive statistics, principles of probability, discrete and continuous distributions, and hypothesis testing (of sample means, proportions, variance). Regression analysis and correlation are introduced.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110",
+                "ECON1120"
+            ],
+            [
+                "MATH1110",
+                "MATH1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110 - MATH 1120 and ECON 1110 or ECON 1120.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3171": {
+        "Title": "Causal Reasoning and Policy Evaluation I",
+        "Course Code": "ECON3171",
+        "Description": "\n            This course covers methods used by social scientists to identify causal relationships in data, with a focus on evaluating the effects of real-world policies. Many social science analyses--including in the economics fields of public, labor, health, and development-aim to answer these types of policy-related causal questions: What is the effect of having health insurance on someone's health? Does the death penalty reduce crime? Will lowering class sizes increase students' academic achievement? The goal of this course is to train you to become both a high-quality consumer and producer of this type of research. You will learn about several research designs and data analysis methods for identifying causal relationships in data, read and assess empirical papers that apply these methods, and apply these methods to datasets yourself.\n        ",
+        "Combined Course": [
+            "PUBPOL4101"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 3100 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3250": {
+        "Title": "Economics of the U.S. Social Safety Net",
+        "Course Code": "ECON3250",
+        "Description": "\n            This course provides an overview of the major programs that make up the social safety net in the United States. We will review the economic rationale behind social programs, identify the economic consequences of these programs, and assess the empirical research on these topics. A major emphasis of the course will be on understanding the strengths and limitations of the core methodologies used in the existing economics literature.\n        ",
+        "Combined Course": [
+            "PUBPOL3080",
+            "PUBPOL5080"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SCD-AS",
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3465": {
+        "Title": "Bridging the Divide: Labor Market Reforms and Place-Based Policies",
+        "Course Code": "ECON3465",
+        "Description": "\n            Should policy interventions target inequality between workers or disparities between places? Inequality has risen in most developed countries in recent decades. While top incomes have grown significantly, incomes at the bottom of the distribution have increased much less. In light of these trends, this course examines the role of labor market and place-based policies in reducing inequality, and discusses the trade-offs that arise between reducing inequality and promoting economic activity.\n        ",
+        "Combined Course": [
+            "ILRLE3465"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1120"
+            ],
+            [
+                "ECON1110"
+            ],
+            [
+                "ILRLE2400"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120, and ILRLE 2400 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3486": {
+        "Title": "Field Experiments in Economics and Business",
+        "Course Code": "ECON3486",
+        "Description": "\n            Field experiments are ubiquitous in both academic economics and the corporate world. They are highly effective tools for both researchers and business leaders to assess the effectiveness of different interventions and are used to test theories, inform policy and enhance business strategies. Modern digital tools have made it increasingly easy to conduct field experiments and collect high-quality data on a large scale. This course will cover the foundational methods of designing and analyzing field experiments, and discuss seminal field experimental work in economics and business. As part of this course, students will conduct their own online field experiment.\n        ",
+        "Combined Course": [
+            "ILRLE3486"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ILRLE2400",
+                "ECON1110",
+                "ECON1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRLE 2400 or ECON 1110 & ECON 1120.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3545": {
+        "Title": "Money and Finance in the Digital Age",
+        "Course Code": "ECON3545",
+        "Description": "\n            This course will provide an overview of new financial technologies (Fintech), cryptocurrencies, central bank digital currencies, and decentralized finance (DeFi). The implications of these novel technologies for the future of financial markets, central banking, and international finance will be examined. The course will also cover basic analytical models in open economy macroeconomics and international finance, focusing on capital flows and exchange rate dynamics.\n        ",
+        "Combined Course": [
+            "AEM4545"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECON3120",
+                "ECON3140"
+            ],
+            [
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3040 and ECON 3120 or ECON 3140 or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3610": {
+        "Title": "The Economics of Consumer Policy",
+        "Course Code": "ECON3610",
+        "Description": "\n            Familiarizes students with the economic analysis of consumer policy issues. Uses the tools of microeconomic analysis to investigate the interaction between government and the marketplace, with an emphasis on how that interaction affects consumers. Examines the rationale for and effects of regulation of industry. Considers alternative theories of regulation, including the capture, economic, and public interest theories. Applies those theories to specific types of regulation, including economic regulation of specific industries (e.g., telecommunications, electricity, trucking, railroads, postal services) as well as to broader social regulation (e.g., health, safety, environmental). The effects of regulatory reform in numerous industries are also examined. An attempt is made to examine current topics relating to consumer policy.\n        ",
+        "Combined Course": [
+            "PUBPOL3400",
+            "PUBPOL5400"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000 or equivalent or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3720": {
+        "Title": "The Economics of Health Care Markets",
+        "Course Code": "ECON3720",
+        "Description": "\n            Health care systems and health policy are undergoing rapid change as medical technology advances and costs rise. Debates concerning the delivery, regulation and financing of health care have intensified. This course uses basic economic tools to analyze central questions in health care today, as well as fundamental issues in health policy: For example, what is the current role of the government in the health sector, and what should it be? What is the social insurance role of the government, and how is it played out in policies that impact the health of the population? How is health insurance structured, and what are the implications of having employers be the providers of private health insurance? This course is about applying economic tools of policy analysis to gain insight into the workings of the health care system and to analyze current issues in health policy. It is mainly a U.S. institutions-based course, with some international comparisons. It should be of interest to students preparing for all kinds of careers in health care, and to others with an interest in important public policy issues.\n        ",
+        "Combined Course": [
+            "PUBPOL4370",
+            "PUBPOL5370"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000",
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000, PUBPOL 3100, or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: multiple regression and intermediate microeconomics.\n",
+        "Need Note": false
+    },
+    "ECON3760": {
+        "Title": "Economics of Education",
+        "Course Code": "ECON3760",
+        "Description": "\n            The economics of education is about understanding how and why people make decisions to invest in education, the effect of education on long-term social and economic outcomes, the behavior of those institutions that \"produce\" education, and how best to design and implement public policies affecting the level and distribution of education resources. The basic tools of economics provide a framework to evaluate education policies including K-12 school finance, student financial aid, and college admissions. Throughout the course, there will be an emphasis on examining empirical tests of the economic theory and measuring the effects of policy initiatives on educational outcomes.\u00a0\n        ",
+        "Combined Course": [
+            "PUBPOL3550"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000"
+            ],
+            [
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000, PUBPOL 3100.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3801": {
+        "Title": "Introduction to Game Theory and Strategic Thinking",
+        "Course Code": "ECON3801",
+        "Description": "\n            Some knowledge of game-theory is essential in today's age of complex decision-making, diplomacy, and corporate strategizing. This course is an introduction to the basic principles of game theory and rational choice. The course is designed for students with an interest in economics, political strategy, moral philosophy, and algorithmic reasoning.\u00a0Important ideas and concepts, with real-life illustrations, will be discussed.\u00a0Over the semester students will learn the essential ideas of Nash, Schelling and others, different conceptualizations of equilibrium, such as the Nash equilibrium and subgame perfection, and how they apply to different contexts, such as competition among firms, war, and diplomacy. The course will help us understand everyday phenomena, such as addiction, procrastination and moral dilemmas, and show how reasoning can be a critical input for personal happiness. Students will be introduced to some unresolved paradoxes of rational behavior and encouraged to try to solve them on their own.\n        ",
+        "Combined Course": [
+            "COGST3801"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3805": {
+        "Title": "Competition Law and Policy",
+        "Course Code": "ECON3805",
+        "Description": "\n            This course will examine issues that arise when a country attempts to implement and maintain a \"competition policy\" as a way of promoting economic growth and efficiency. The basic reading material will start with actual cases (most of them arising under U.S. antitrust law), and use those cases to probe the legal, economic and broad policy issues that the cases raise.\n        ",
+        "Combined Course": [
+            "LAW4021"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110 or its equivalent.",
+        "Comments": "This course requires no legal training or background. Law students interested in the subject should take LAW 6101.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: undergrads.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3910": {
+        "Title": "Health, Poverty, and Inequality: A Global Perspective",
+        "Course Code": "ECON3910",
+        "Description": "\n            Course focuses on global health challenges, and how they are related to poverty and inequality.\n        ",
+        "Combined Course": [
+            "NS4570"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SCD-AS",
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: introductory microeconomics and statistics or permission of instructor.",
+        "Comments": "Offered in even-numbered years only.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: Introductory microeconomics and statistics or permission of instructor. If you have questions about enrollment, please contact the Division of Nutritional Sciences (DNS) Student Services office, dnsstudentservices@cornell.edu.\n",
+        "Need Note": true
+    },
+    "ECON4010": {
+        "Title": "Economics of Organizations",
+        "Course Code": "ECON4010",
+        "Description": "\n            Why do most economic activities happen within managed organizations (i.e., firms) and not in markets (i.e., purchased from others)? More fundamentally, what is a firm? This course provides an introduction to *organizational economics* that seeks to understand the nature and workings of organizations\u2014a collection of different people with dispersed information, responsibilities and non-aligned interests. You will learn about the theories of the boundaries of the firm that help unravel the neoclassical economics' \"blackbox\" view of the firm and the theories on the provision of incentives that ultimately shape firms. While the class takes a predominantly theoretical approach, you will also learn how the theories are in conversation with empirical evidence.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3130",
+                "ECON3110"
+            ],
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 and either ECON 3130 or ECON 3110.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4140": {
+        "Title": "Methods and Computation in Program Evaluation",
+        "Course Code": "ECON4140",
+        "Description": "\n            Introduces fundamental frameworks for program evaluation and causal inference in empirical research and the industry, and studies how modern predictive machine learning methods can be applied to get more credible estimates of causal effects. Problems are formulated and discussed in terms of formal econometric models, but the focus will be the applied and practical perspectives, especially in economics. Requires statistic and econometric knowledge at the level of ECON 3140 or equivalent, and programing experience in R or Python.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3140"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3140 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4290": {
+        "Title": "Economic Analysis of Politics",
+        "Course Code": "ECON4290",
+        "Description": "\n            This is an advanced course intended for upper level economics undergraduates who enjoy learning about and analyzing economic models. The course provides an introduction to the economic analysis of politics. Part I discusses collective choice and introduces some core ideas from social choice theory. Part II provides an overview of economic theories of political behavior. Part III discusses how political decisions are distorted away from those that would be made by the benevolent governments from public economics textbooks. Part IV offers economic perspectives on a number of contemporary issues in American politics.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3110",
+                "ECON3130"
+            ],
+            [
+                "ECON3030",
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030, ECON 3040, and ECON 3110, or ECON 3130.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4410": {
+        "Title": "Quantitative Models for the Labor Market",
+        "Course Code": "ECON4410",
+        "Description": "\n            In this course we will study two major features of modern economies. The first is the large dispersion across households in income and wealth, the second is the existence of persistent unemployment. We will be interested in understanding the models and tools that economists have developed to represent these phenomena, as well as in using these models to analyze the welfare implications of various government interventions. Topics to be covered include: Dynamic programming. Solution Methods of General Equilibrium models. Heterogeneous-agent macroeconomic models. Search, matching and equilibrium unemployment.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3140"
+            ],
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030, ECON 3140 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4545": {
+        "Title": "Advanced International Finance and Macroeconomics",
+        "Course Code": "ECON4545",
+        "Description": "\n            This course introduces and develops the leading modern theories of economies open to trade in financial assets and real goods. The goal is to understand how cross-country linkages in influence macroeconomic developments within individual countries; how financial markets distribute risk and wealth around the world; and how trade changes the effectiveness of national monetary and fiscal policies. In exploring these questions, we emphasize the role that exchange rates and exchange rate policy take in shaping the consequences of international linkages. We apply our theories to current and recent events, including growing geoeconomic conflict between Eastern and Western countries, hyperinflation in Argentina, Brexit, and recent Euro-area debt crises.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3110",
+                "ECON3130"
+            ],
+            [
+                "ECON3120",
+                "ECON3140"
+            ],
+            [
+                "ECON3040"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite:  ECON 3040, either ECON 3110 or ECON 3130, and either ECON 3120 or ECON 3140.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4610": {
+        "Title": "Industrial Organization I",
+        "Course Code": "ECON4610",
+        "Description": "\n            This course takes a game theoretic approach to the study of markets and market power. Topics include pricing, collusion, entry, product differentiation, advertising, and bargaining.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4907": {
+        "Title": "The Economics of Asymmetric Information and Contracts",
+        "Course Code": "ECON4907",
+        "Description": "\n            This course provides an introduction to the economics of asymmetric information, contracts and mechanism design. Topics covered include: bilateral contracting problems with moral hazard and/or adverse selection, bargaining with asymmetric information, the design of optimal auctions and other multilateral mechanisms, signaling and incomplete contacts. Prerequisites include intermediate microeconomics and statistics. The student is expected to be comfortable with basic probability (random variables, expectation, independence, and conditional probability) and calculus.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3130"
+            ],
+            [
+                "ECON3030"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3030 and ECON 3130, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment preference given to: juniors and seniors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4998": {
+        "Title": "Cross-Cultural Work Experiences",
+        "Course Code": "ECON4998",
+        "Description": "\n            This independent study course offers economics majors (i.e., undergraduates whose applications to affiliate with the economics major have been approved) an opportunity to reflect on concepts from economics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the economics major.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "For more information, see the CPT website.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: International undergraduate economics majors whose application to affiliate has been approved.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ECON3300": {
+        "Title": "Development of Economic Thought and Institutions",
+        "Course Code": "ECON3300",
+        "Description": "\n            Examines the causes and consequences of sustained economic growth, and the development of economics as a discipline, from pre-industrial mercantilist thought through the economics of John Maynard Keynes. Stresses the relationship between the consequences of 19th-century economic growth and the evolution of economic thought.\n        ",
+        "Combined Course": [
+            "ILRLE3440"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "HA-AS",
+            "HST-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1120"
+            ],
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110 and ECON 1120, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3710": {
+        "Title": "The Economics of Risky Health Behaviors",
+        "Course Code": "ECON3710",
+        "Description": "\n            Risky health behaviors such as cigarette smoking, alcohol abuse, risky sex, drug use, poor diet and physical inactivity (leading to obesity), and self-harm are responsible for hundreds of thousands of preventable deaths and impose billions of dollars in medical care costs each year in the United States. This course teaches the economic approach to studying risky health behaviors. The research literature on the economic causes and correlates of risky health behaviors will be studied in detail. Numerous policies to modify risky health behaviors, such as the minimum legal drinking age and recreational marijuana use laws, will be debated in class. A policy wargame is conducted, with students creating advertisements, giving oral presentations, and lobbying policymakers to advocate a specific policy position.\n\u00a0\n        ",
+        "Combined Course": [
+            "PUBPOL4280",
+            "PUBPOL5290"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3120",
+                "ECON3140"
+            ],
+            [
+                "PUBPOL2000",
+                "ECON3030"
+            ],
+            [
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000 or ECON 3030 and PUBPOL 3100, ECON 3120 or ECON 3140.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in Washington, DC.\n",
+        "Need Note": false
+    },
+    "ECON3255": {
+        "Title": "Economics of Crime",
+        "Course Code": "ECON3255",
+        "Description": "\n            This course surveys topics in crime and crime prevention, with a focus on thinking critically about empirical evidence. The first part of the course briefly introduces an economic model of crime and reviews relevant empirical methods. The remainder of the course is spent discussing a range of crime-related topics, including policing, incarceration, employment, drugs & alcohol, firearms, education, and health. Students will consider trade-offs to different crime prevention policies and gain experience framing and summarizing evidence for policymakers.\n        ",
+        "Combined Course": [
+            "PUBPOL3600"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PUBPOL2000"
+            ],
+            [
+                "PUBPOL3100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PUBPOL 2000 and PUBPOL 3100 or equivalent courses in the Economics Department.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3340": {
+        "Title": "The Evolution of Social Policy in Britain and America",
+        "Course Code": "ECON3340",
+        "Description": "\n            Surveys the history of social policy in Great Britain and the United States from 1800 to the adoption of the British welfare state after World War II. Topics include the role of poor relief in the early 19th century; the changing relationship between public relief and private charity; the adoption of social insurance programs and protective labor legislation for children and women; government intervention in the Great Depression; and the beginnings of the welfare state.\n        ",
+        "Combined Course": [
+            "ILRLE4440"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ILRLE2400"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRLE 2400 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3440": {
+        "Title": "Women in the Economy",
+        "Course Code": "ECON3440",
+        "Description": "\n            Examines the changing economic roles of women and men in the labor market and in the family. Topics include a historical overview of changing gender roles, the determinants of the gender division of labor in the family, trends in female and male labor-force participation, gender differences in occupations and earnings, the consequences of women's employment for the family, and a consideration of women's status in other countries.\n        ",
+        "Combined Course": [
+            "FGSS4460",
+            "ILRLE4450"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SCD-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110",
+                "ILRLE2400"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110 or ILRLE 2400, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3460": {
+        "Title": "The Economics of Collective Bargaining in Sports",
+        "Course Code": "ECON3460",
+        "Description": "\n            Surveys economic and industrial issues in the sports industry. Topics include salary determination, including free agency, salary caps, salary arbitration; competitive balance and financial health of sports leagues; antitrust issues in sports; labor disputes, union history, and contract administration issues in sports leagues; discrimination in sports; and performance incentives.\n        ",
+        "Combined Course": [
+            "ILRLR4030"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3800": {
+        "Title": "Economics and the Law",
+        "Course Code": "ECON3800",
+        "Description": "\n            Examines, through the lens of economic analysis, legal principles drawn from various branches of law, including contracts, torts, and property.\u00a0\n        ",
+        "Combined Course": [
+            "LAW3800"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3830": {
+        "Title": "Economics of Consumer Protection and the Law",
+        "Course Code": "ECON3830",
+        "Description": "\n            The course will focus on how legal rules and regulations impact consumers in the marketplace. A significant portion of this course will focus on how developments in tort law, contract law, property law, and regulatory law influence social welfare and serve to protect consumers in their interactions with the marketplace. The course will also focus on how the federal regulatory agencies function and analyze the effectiveness of these agencies in protecting consumers. The course will focus specifically on the Food and Drug Administration and the Federal Trade Commission. In addition to students interested in public policy and economics, the course can be helpful to students who are interested in attending law school as students will get exposed to many of the concepts they will address in a first year law school curriculum.\n        ",
+        "Combined Course": [
+            "PUBPOL3410"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: coursework in introductory microeconomics and intermediate microeconomics.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3850": {
+        "Title": "Economics and Environmental Policy",
+        "Course Code": "ECON3850",
+        "Description": "\n            Introduction to the use of economics as a tool in forming and evaluating environmental policy, with a focus on how economists measure effects of environmental quality and regulation. Topics include: externalities in an environmental context; regulation methods such as command and control, Pigouvian taxation, and cap and trade; methods for measuring the costs and benefits of environmental policy; overview of current environmental legislation; environmental quality and health; regulation and environmental justice.\n        ",
+        "Combined Course": [
+            "PUBPOL3670",
+            "PUBPOL5970"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON1110",
+                "PAM2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110. Recommended prerequisite: PAM 2100 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3855": {
+        "Title": "Urban Economics",
+        "Course Code": "ECON3855",
+        "Description": "\n            This course introduces the concepts and methods used by economists to study not only cities, regions and their relationships with each other, but, more generally, the spatial aspects and outcomes of decision-making by households and firms.\u00a0Areas examined include determinants of urban growth and decline, land and housing markets, transportation issues, segregation and poverty, and the allocation and distribution of urban public services.\u00a0\n        ",
+        "Combined Course": [
+            "CRP4040",
+            "CRP5040"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SCD-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: microeconomics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON4130": {
+        "Title": "Statistical Decision Theory",
+        "Course Code": "ECON4130",
+        "Description": "\n            Statistical Decision Theory provides a normative framework to think about how to best use data to aid decision making under uncertainty. The goal of this course is to provide an undergraduate introduction to Statistical Decision Theory. At the end of the course, the students will be able to de\ufb01ne Statistical Models, Statistical Decision Problems, Statistical Decision Rules, Risk Functions, and to describe di\ufb00erent optimality criteria for statistical decision making (Bayes risk minimization, the minimax principle, and the minimax regret principle). The course will present di\ufb00erent applications to Economics, Econometrics, and Machine Learning.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SDS-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4260": {
+        "Title": "Public Finance: The Microeconomics of Government",
+        "Course Code": "ECON4260",
+        "Description": "\n            Analyzes the role of government in a free market economy. Topics include public goods, market failures, allocation mechanisms, optimal taxation, effects of taxation, and benefit-cost analysis. Current topics of an applied nature vary from semester to semester.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "ECON3030"
+            ],
+            [
+                "ECON1110",
+                "ECON1120"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 1110, ECON 1120 and ECON 3030, or equivalents, and one semester of calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ECON3485": {
+        "Title": "New Technologies and the Labor Market",
+        "Course Code": "ECON3485",
+        "Description": "\n            This course examines economic approaches to how new technologies impact the labour market. We will study how robots and digital technologies affect the nature of jobs and tasks, how technological developments affect the nature and flexibility of work contracts, as well as how firms and workers search and find each other. We will discuss the emergence of flexible work arrangements (gig economy, teleworking). The goal is to learn how economists approach and analyse these phenomena, both theoretically and empirically.\u00a0\n        ",
+        "Combined Course": [
+            "ILRLE3460"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON3875": {
+        "Title": "Policy Analysis: Welfare Theory, Agriculture, and Trade",
+        "Course Code": "ECON3875",
+        "Description": "\n            The first half of the course surveys the theory of welfare economics as a foundation for public policy analysis. Major issues addressed include the problem of social welfare measurement, the choice of welfare criteria, and the choice of market or nonmarket allocation. Basic concepts covered include measurement of welfare change, including the compensation principle, consumer and producer surplus, willingness-to-pay measures, externalities, and the general theory of second-best optima. The second half focuses on public policy analysis as applied to domestic agricultural policy and international trade. The domestic policy component examines major U.S. farm commodity programs and related food and macroeconomic policies and analyzes their effects on producers, consumers, and other groups. The international trade component examines the structure of world agricultural trade, analytical concepts of trade policy analysis, and the principal trade policies employed by countries in international markets.\n        ",
+        "Combined Course": [
+            "AEM6300"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "AEM6080"
+            ],
+            [
+                "ECON3030",
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: AEM 6080, and ECON 3030, or equivalent intermediate microeconomic theory course incorporating calculus.",
+        "Comments": "Formerly Econ 4840. Not offered every year.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: Either PAM 2000, ECON 3010, ECON 3030 (formerly 3130), or equivalent.\n",
+        "Need Note": true
+    },
+    "ECON3870": {
+        "Title": "Business and Economics of Energy",
+        "Course Code": "ECON3870",
+        "Description": "\n            This course will investigate energy issues from an economic and business perspective using a quantitative approach. In the first part of the course, students will learn how to think about energy through an economic and business lens. The second part of the course will focus on topical energy market issues such as imperfect competition, bidding in electricity markets, markets for oil and gas, and environmental regulation.\n        ",
+        "Combined Course": [
+            "AEM4515",
+            "AEM5515"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1110",
+                "AEM2100"
+            ],
+            [
+                "AEM2600"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110, AEM 2100, and AEM 2600, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4022": {
+        "Title": "Game Theory II",
+        "Course Code": "ECON4022",
+        "Description": "\n            This course is meant to be a second game theory course for those students, who have had exposure to game theory. The class will be organized topically, and some topic choice will depend upon student interest.\u00a0About half the term will be devoted to evolutionary game theory --- static theory, deterministic dynamics, and stochastic dynamics.\u00a0Other core topics include potential games and strategic complementarities. Additional topics may be selected from among cooperative game theory, refinements of Nash equilibrium, and estimation in games.\n        ",
+        "Combined Course": [
+            "ECON6822"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "INFO2040",
+                "ECON2040",
+                "SOC2090",
+                "ECON3030",
+                "ECON3130",
+                "ECON4020",
+                "ORIE4350",
+                "ECON6110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: INFO 2040, ECON 2040, SOC 2090, ECON 3030, ECON 3130, ECON 4020, ORIE 4350, ECON 6110, or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4110": {
+        "Title": "Cross Section and Panel Econometrics",
+        "Course Code": "ECON4110",
+        "Description": "\n            Introduction to cross-section and panel econometrics. Topics include multiple-regression analysis with qualitative information, simple and advanced panel data methods, instrumental variables estimation, simultaneous equation models.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SDS-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "ECON3140"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3140, or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ECON4991": {
+        "Title": "Honors Program",
+        "Course Code": "ECON4991",
+        "Description": "\n            The Undergraduate Honors Program in Economics is designed to offer students who have demonstrated academic excellence in the major an opportunity to pursue an independent research project and graduate with Latin honors. The program runs for the student's entire senior year, and the research is conducted under the close supervision of a faculty advisor. ECON 4991 is a 4-credit hour course and honors program students must register for this course for a Letter Grade. In this course the student completes the honors thesis based on the proposal developed in ECON 4990. ECON 4991 can be used as one of the courses required to complete the economics major. Students who successfully complete the two-course program (ECON 4990\u00a0- ECON 4991) are eligible for Latin honors. The level of honors awarded\u2014none, cum laude, magna cum laude, or summa cum laude\u2014is based on thesis quality as well as performance in the major and other factors. Students are expected to be in residence at Cornell during the semester.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECON4990"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: satisfactory completion of a thesis proposal in ECON 4990.",
+        "Comments": "Students should consult the director of undergraduate studies for details. Admission is competitive. Interested students should apply to the program in the spring semester of their junior year.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    }
+}

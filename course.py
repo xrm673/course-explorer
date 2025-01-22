@@ -41,15 +41,34 @@ def get_level(course_code):
     level = int(course_number[0])
     return level
 
-def get_semester_offered(course_code,course_data):
-    subject = get_subject(course_code)
-    return course_data[subject][course_code]["Semester Offered"]
+def get_max_credit(course_data,course_code):
+    if contain_course(course_data,course_code):
+        subject = get_subject(course_code)
+        credits = course_data[subject][course_code]["Credits"]
+        max_credit = 0
+        for credit in credits:
+            if credit > max_credit:
+                max_credit = credit
+        return max_credit
+    return None
 
-def available_next_semester(course_code,course_data):
-    semesters = get_semester_offered(course_code,course_data)
-    if semesters[0] == NEXT_SEMESTER:
+def get_semester_offered(course_data,course_code):
+    if contain_course(course_data,course_code):
+        subject = get_subject(course_code)
+        return course_data[subject][course_code]["Semester Offered"]
+    return None
+
+def available_next_semester(course_data,course_code):
+    semesters = get_semester_offered(course_data,course_code)
+    if semesters and semesters[0] == NEXT_SEMESTER:
         return True
     return False
+
+def get_combined_courses(course_data,course_code):
+    subject = get_subject(course_code)
+    if contain_course(course_data,course_code):
+        return course_data[subject][course_code]["Combined Course"]
+    return None
 
 def get_prereq(course_data,course_code):
     subject = get_subject(course_code)
@@ -67,6 +86,15 @@ def get_coreq(course_data,course_code):
     else:
         return None
 
+def get_pre_coreq(course_data,course_code):
+    subject = get_subject(course_code)
+    if contain_course(course_data,course_code):
+        prereq_or_coreq = course_data[subject][course_code][("Prerequisites or "
+        "Corequisites")]
+        return prereq_or_coreq
+    else:
+        return None
+
 def get_all_prereq(self):
     """
     Return a list of Course objects in topological order.
@@ -77,6 +105,12 @@ def get_all_prereq(self):
     """
     pass
 
+def get_distribution(course_data,course_code):
+    subject = get_subject(course_code)
+    if contain_course(course_data,course_code):
+        return course_data[subject][course_code]["Distribution"]
+    return None
+
 #eligibility
 def check_eligibility(course_data,courses_taken,course_code):
     """
@@ -85,12 +119,25 @@ def check_eligibility(course_data,courses_taken,course_code):
     if course_is_special(course_code):
         return special.special_eligibility(courses_taken,course_code)
     subject = get_subject(course_code)
+    level = get_level(course_code)
+    combined = get_combined_courses(course_data,course_code)
+
     prereq = get_prereq(course_data,course_code)
     coreq = get_coreq(course_data,course_code)
+    preco = get_pre_coreq(course_data,course_code)
+
+    if combined and (not prereq) and level > 4:
+        prereq = get_prereq(course_data,combined[0])
+
     prereq_not_fulfilled = []
     coreq_not_fulfilled = []
+    preco_not_fulfilled = []
+
     if prereq:
         prereq_not_fulfilled = not_fulfilled_2dlist(courses_taken,prereq)
+    if course_code == "CS3110":
+        print(f"3110 prereq: {prereq_not_fulfilled}")
+
     if coreq:
         for group in coreq:
             fulfilled = False
@@ -105,7 +152,29 @@ def check_eligibility(course_data,courses_taken,course_code):
                     break
             if not fulfilled:
                 coreq_not_fulfilled += coreq_not_fulfilled_sub
-    if prereq_not_fulfilled == [] and coreq_not_fulfilled == []:
+
+    if preco:
+        preco_not_fulfilled = not_fulfilled_2dlist(courses_taken,preco)
+        if preco_not_fulfilled != []:
+            for group in preco:
+                fulfilled = False
+                for preco_course in group:
+                    preco_requirement = get_prereq(course_data,preco_course)
+                    if course_code == "CS3110":
+                        print(f"3110 preco: {preco_requirement}")
+                    if not preco_requirement:
+                        fulfilled = True
+                        break
+                    preco_not_fulfilled_sub = not_fulfilled_2dlist(courses_taken,preco_requirement)
+                    if preco_not_fulfilled_sub == []:
+                        fulfilled = True
+                        break
+                if not fulfilled:
+                    preco_not_fulfilled += preco_not_fulfilled_sub
+    if course_code == "CS3110":
+        print(f"3110 preco: {preco_not_fulfilled}")
+
+    if prereq_not_fulfilled == [] and coreq_not_fulfilled == [] and preco_not_fulfilled == []:
         return True,[]
     return False,prereq_not_fulfilled + coreq_not_fulfilled
 
@@ -132,11 +201,58 @@ def not_fulfilled_2dlist(courses_taken,requirement):
 
     return result
 
+def course_taken(course_data,courses_taken,course_code):
+    if course_code in courses_taken:
+        return True
+    combined_courses = get_combined_courses(course_data,course_code)
+    if combined_courses:
+        for combined_course in combined_courses:
+            if combined_course in courses_taken:
+                return True
+    return False
+
+def fulfilled_2dlist(courses_taken, requirement):
+    if not requirement:
+        return []
+
+    result = []
+    used_sublists = set()  # Track which sublists have been fulfilled
+
+    for course_code in courses_taken:
+        for i, sublist in enumerate(requirement):
+            if i not in used_sublists and course_code in sublist:
+                result.append(course_code)
+                used_sublists.add(i)  # Mark this sublist as fulfilled
+                break  # Stop checking other sublists for this course_code
+    return result
+
 # helper for check_eligibility
 def course_is_special(course_code):
     if course_code in ["CS4744","CS5775","MATH4030","INFO3140","INFO3152",
-    "INFO4152","INFO5152","CS4210","CS4745"]:
+    "INFO4152","INFO5152","CS4210","CS4745","CS5306"]:
         return True
+    return False
+
+def is_cornell_tech(course_data,course_code):
+    subject = get_subject(course_code)
+    if contain_course(course_data,course_code):
+        permission = course_data[subject][course_code]["Permission"]
+        foot_note = course_data[subject][course_code]["Foot Note"]
+        if permission and "Cornell Tech" in permission:
+            return True
+        if foot_note and "Cornell Tech" in foot_note:
+            return True
+    return False
+
+def is_mps(course_data,course_code):
+    subject = get_subject(course_code)
+    if contain_course(course_data,course_code):
+        permission = course_data[subject][course_code]["Permission"]
+        foot_note = course_data[subject][course_code]["Foot Note"]
+        if permission and "MPS" in permission:
+            return True
+        if foot_note and "MPS" in foot_note:
+            return True
     return False
 
 

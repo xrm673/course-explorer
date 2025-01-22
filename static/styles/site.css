@@ -1,10 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+    display: flex;
+    justify-content: center;
     background-color: #f4f4f9;
-    color: #333;
+    margin: 0;
+    font-family: Arial, sans-serif;
 }
 
 h1, h2, h4 {
@@ -28,11 +27,32 @@ h4 {
     color: #007bff;
 }
 
+/* Main content container */
+.main-content {
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    margin: 20px;
+    gap: 10px; /* Space between the main content and the side bar */
+    height: 100vh; 
+    overflow: hidden;
+}
+
+/* Main requirements section */
+.major-requirement {
+    flex: 3; /* Take up 3x the space compared to the side bar */
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
 /* Grid styling for course groups */
 .course-groups {
     list-style: none;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Responsive grid */
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
     gap: 20px;
     padding: 20px;
 }
@@ -51,8 +71,115 @@ h4 {
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 
+.group-taken {
+    background-color: #d4edda; /* Light green for the group */
+    border-color: #c3e6cb; /* Green border */
+    color: #155724; /* Dark green text */
+}
+
+.group-taken:hover {
+    background-color: #c3e6cb; /* Slightly darker green on hover */
+    border-color: #a1d6b2;
+    transform: translateY(-5px);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Individual course block */
+.course-block-A {
+    text-align: center;
+    padding: 20px; /* Increased padding for more content space */
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    position: relative; /* Needed for positioning the Taken button */
+    transition: transform 0.2s, box-shadow 0.2s;
+    min-height: 110px; /* Set a minimum height to prevent text clipping */
+}
+
+.course-block-A:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+}
+
+.course-block-A p {
+    font-size: 14px;
+    margin-top: 8px;
+    color: #555;
+}
+
+/* Button styling */
+.default-course-A {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.default-course-A:hover {
+    background-color: #c82333;
+}
+
+.taken-course-A {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.taken-course-A:hover {
+    background-color: #5a6268;
+}
+
+.eligible-course-A {
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.eligible-course-A:hover {
+    background-color: #218838;
+}
+
+/* Position the Taken button */
+.taken-btn-A {
+    position: absolute; /* Position the button absolutely relative to the .larger-course-block */
+    bottom: 10px; /* Space from the bottom */
+    right: 10px; /* Space from the right */
+    background-color: #d4edda; /* Yellow background */
+    color: #333; /* Dark text */
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for Taken button */
+.taken-btn-A:hover {
+    background-color: #c3e6cb; /* Darker yellow on hover */
+    color: #fff;
+}
+
+.course-list-B {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Flexible grid */
+    gap: 20px;
+    padding: 10px;
+}
+
 /* Course grid */
-.course-grid {
+.course-grid-B {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Flexible grid */
     gap: 20px;
@@ -60,7 +187,7 @@ h4 {
 }
 
 /* Larger container for courses */
-.larger-course-block {
+.course-block-B {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -69,69 +196,23 @@ h4 {
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.larger-course-block:hover {
+.course-block-B:hover {
     transform: scale(1.02);
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
 }
 
-/* Individual course block */
-.course-block {
-    text-align: center;
-    padding: 15px;
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.course-block:hover {
-    transform: scale(1.05);
-    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-}
-
-.course-block p {
-    font-size: 14px;
-    margin-top: 8px;
-    color: #555;
-}
-
-/* Button styling */
-.course-block button {
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 1rem;
-    transition: background-color 0.3s;
-}
-
-.course-block button:hover {
-    background-color: #0056b3;
-}
-
-/* button.taken-course {
-    background-color: #28a745;
-    color: #fff;
-} */
-
-/* button.taken-course:hover {
-    background-color: #218838;
-} */
-
-.taken-course {
-    background-color: #28a745;
+.taken-course-B {
+    background-color: #6c757d;
     color: white;
 }
 
-.eligible-course {
-    background-color: orange; /* Highlight eligible courses in orange */
+.eligible-course-B {
+    background-color: #28a745; /* Highlight eligible courses in orange */
     color: white;
 }
 
-.default-course {
-    background-color: #007bff; /* Default blue for courses */
+.default-course-B {
+    background-color: #dc3545; /* Default blue for courses */
     color: white;
 }
 
@@ -158,13 +239,109 @@ h4 {
     transform: scale(1.1);
 }
 
+/* Ensure the larger course block has relative positioning */
+.course-block-B {
+    position: relative; /* Set position to relative for positioning child elements */
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Position the Taken button */
+.taken-btn-B {
+    position: absolute; /* Position the button absolutely relative to the .larger-course-block */
+    bottom: 5px; /* Space from the bottom */
+    right: 10px; /* Space from the right */
+    background-color: #d4edda; /* Yellow background */
+    color: #333; /* Dark text */
+    border: none;
+    padding: 6px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for Taken button */
+.taken-btn-B:hover {
+    background-color: #c3e6cb; /* Darker yellow on hover */
+    color: #fff;
+}
+
+/* Side bar styling */
+.side-bar {
+    flex: 0 0 200px; /* Set a fixed width */
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark text */
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow-y: auto; /* Allow scrolling if content overflows */
+    max-height: calc(100vh - 40px); /* Fit within the viewport minus margins */
+    text-align: center;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+/* Side bar header */
+.side-bar h2 {
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+/* Side bar button grid */
+.course-grid-S {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two buttons per row */
+    gap: 10px; /* Adjust spacing between buttons */
+}
+
+/* Style for the course-item container */
+.course-item {
+    position: relative; /* Allow absolute positioning of the cross button */
+    display: block;
+    background-color: #6c757d; /* Green background for the course item */
+    color: white;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 10px; /* Space between course items */
+    width: 100%; /* Ensure it fills the container */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+}
+
+/* Styling for the remove (cross) button */
+.remove-course {
+    position: absolute; /* Position the cross button absolutely */
+    top: 1px; /* Align at the top */
+    right: 1px; /* Align at the right */
+    background: none;
+    border: none;
+    color: yellow; /* Red color for the cross */
+    font-size: 12px;
+    cursor: pointer;
+}
+
+/* Hover effect for the remove button */
+.remove-course:hover {
+    color: rgb(232, 232, 120); /* Darker red on hover */
+}
+
+.course-code-S {
+    display: block;
+    margin-top: 6px;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
     h1, h2, h4 {
         font-size: 1.2rem;
     }
 
-    .course-grid {
+    .course-grid-B {
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 15px;
     }

@@ -1,0 +1,46 @@
+{
+    "Name" : "Art History",
+    "A&S" : {
+        "Core Courses" : [
+            ["ARTH1100"],
+            ["ARTH2000"],
+            ["ARTH4101"]
+        ],
+        "2000 Level" : {
+            "format" : "level",
+            "subject" : "ARTH",
+            "level" : 2,
+            "min_credit" : 3,
+            "number" : 1,
+            "included" : [],
+            "excluded" : []
+        },
+        "3000 Level" : {
+            "format" : "level",
+            "subject" : "ARTH",
+            "level" : 3,
+            "min_credit" : 3,
+            "number" : 1,
+            "included" : [],
+            "excluded" : []
+        },
+        "4000 Level" : {
+            "format" : "level",
+            "subject" : "ARTH",
+            "level" : 4,
+            "min_credit" : 3,
+            "number" : 2,
+            "included" : [],
+            "excluded" : []
+        },
+        "3000+" : {
+            "format" : "level",
+            "subject" : "ARTH",
+            "min_level" : 3,
+            "min_credit" : 3,
+            "number" : 3,
+            "included" : [],
+            "excluded" : []
+        }
+    }
+}

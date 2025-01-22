@@ -22,6 +22,8 @@ def special_eligibility(courses_taken,course_code):
     #     return check_CS4210(courses_taken)
     # elif course_code == "CS4745":
     #     return check_CS4745(courses_taken)
+    # elif course_code == "CS5306":
+    #     return check_CS5306(courses_taken)
 
 def check_CS4744(courses_taken):
     pass
@@ -48,4 +50,7 @@ def check_CS4210(courses_taken):
     pass
 
 def check_CS4745(courses_taken):
+    pass
+
+def check_CS5306(courses_taken):
     pass

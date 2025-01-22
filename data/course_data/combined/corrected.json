@@ -11639,9 +11639,7 @@
             ],
             "Prerequisites": [
                 [
-                    "CS1110"
-                ],
-                [
+                    "CS1110",
                     "CS1112"
                 ]
             ],
@@ -13627,9 +13625,10 @@
             ],
             "Prerequisites": [
                 [
-                    "CS3110",
-                    "CS2110",
-                    "CS2112"
+                    "CS3110"
+                ],
+                [
+                    "CS2800"
                 ]
             ],
             "Corequisites": [],
@@ -13686,9 +13685,10 @@
             "Distribution": null,
             "Prerequisites": [
                 [
-                    "CS3110",
-                    "CS2110",
-                    "CS2112"
+                    "CS3110"
+                ],
+                [
+                    "CS2800"
                 ]
             ],
             "Corequisites": [],
@@ -13898,8 +13898,7 @@
             ],
             "Prerequisites": [
                 [
-                    "ECON1110",
-                    "ECON1120"
+                    "ECON1110"
                 ]
             ],
             "Corequisites": [],
@@ -14536,7 +14535,9 @@
             ],
             "Prerequisites": [
                 [
-                    "ECON1110",
+                    "ECON1110"
+                ],
+                [
                     "ECON1120"
                 ],
                 [

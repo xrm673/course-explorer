@@ -1,13 +1,15 @@
 {
     "Name": "Computer Science",
     "A&S": {
-        "Core": [
+        "Introductory Programming" : [
             [
                 "CS1110","CS1112"
             ],
             [
                 "CS2110","CS2112","Equivalent"
-            ],
+            ]
+        ],
+        "Core Courses": [
             [
                 "CS2800","CS2802"
             ],
@@ -45,6 +47,7 @@
             "format" : "level",
             "subject" : "CS",
             "min_level" : 4,
+            "min_credit" : 3,
             "number" : 2,
             "included" : [
                 "CS3700","CS3780"

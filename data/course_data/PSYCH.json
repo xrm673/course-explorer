@@ -1,0 +1,2472 @@
+{
+    "PSYCH1101": {
+        "Title": "Introduction to Psychology",
+        "Course Code": "PSYCH1101",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1120": {
+        "Title": "FWS:Personality & Social Psychology",
+        "Course Code": "PSYCH1120",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "PSYCH1130": {
+        "Title": "FWS: Behavioral Evolutionary Psychology",
+        "Course Code": "PSYCH1130",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "PSYCH1140": {
+        "Title": "FWS: Perception, Cognition, and Development",
+        "Course Code": "PSYCH1140",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "PSYCH2050": {
+        "Title": "Perception",
+        "Course Code": "PSYCH2050",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST2050",
+            "HD2050"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2090": {
+        "Title": "Developmental Psychology",
+        "Course Code": "PSYCH2090",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST2090",
+            "COGST7090",
+            "HD2090",
+            "PSYCH7090"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2091": {
+        "Title": "WIM: Developmental Psychology",
+        "Course Code": "PSYCH2091",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2100": {
+        "Title": "The Science of Human Stupidity",
+        "Course Code": "PSYCH2100",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2150": {
+        "Title": "Psychology of Language",
+        "Course Code": "PSYCH2150",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST2150",
+            "LING2215"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2300": {
+        "Title": "How the Brain Makes the Mind",
+        "Course Code": "PSYCH2300",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST2350",
+            "HD2310"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2415": {
+        "Title": "Introduction to Moral Psychology",
+        "Course Code": "PSYCH2415",
+        "Description": "\n            This course is an introduction to the moral mind from philosophical and psychological perspectives. Many traditional philosophical problems about morality are being illuminated by current work in cognitive science. In this course, we will look at several of these problems. In each case, we will begin with a presentation of the philosophical problems, and we will proceed to examine recent empirical work on the topic. A wide range of topics will be covered, including moral judgment, agency, the self, and punishment.\n        ",
+        "Combined Course": [
+            "COGST2415",
+            "PHIL2415"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2650": {
+        "Title": "Psychology and Law",
+        "Course Code": "PSYCH2650",
+        "Description": "\n            This course explores how cognitive, social & clinical psychology are used in law. Law makes many assumptions about human psychology, and lawyers and judges regularly rely on psychological research in their cases. The course examines the psychology underlying criminal confessions; children's testimony; the insanity defense; risk assessment; judge and jury decision making; criminal punishment; constitutional law; and common law (tort, contract, and property) disputes. The course assesses the use and misuse of psychology in these subjects.\n\u00a0\n        ",
+        "Combined Course": [
+            "HD2650",
+            "LAW2650"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2800": {
+        "Title": "Introduction to Social Psychology",
+        "Course Code": "PSYCH2800",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "HD2810"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2801": {
+        "Title": "Introduction to Social Psychology: Writing in the Majors",
+        "Course Code": "PSYCH2801",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2940": {
+        "Title": "Better Decisions for Life, Love and Money",
+        "Course Code": "PSYCH2940",
+        "Description": "\n            Effective judgments and decisions are critical to success in every avenue of life. This course will explore research on the principles of sound judgment and decision making, and on the ways in which people's judgments and decisions are prone to bias and error. The course aims to improve students' critical thinking skills and to enable them to make better judgments and decisions in an increasingly complicated world. The course is taught by a team of psychologists and economists who draw on recent research in psychology and behavioral economics that can benefit the lives of students.\n        ",
+        "Combined Course": [
+            "AEM2020"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2945": {
+        "Title": "Data Science for Social Scientists II",
+        "Course Code": "PSYCH2945",
+        "Description": "\n            This is a course on applications of data science in social science using R. We will cover fundamentals of statistical and causal inference, exploratory data analysis and data reduction, supervised learning, and recent, prominent applications of machine learning in social science.\n        ",
+        "Combined Course": [
+            "HD2940"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3130": {
+        "Title": "Language and Power",
+        "Course Code": "PSYCH3130",
+        "Description": "\n            In this course, we will explore how language interacts with power: how does language\u00a0reflect, shape, threaten and reinforce power relations in human society? From childhood\u00a0through old age, language is an ever-present source of symbolic power. We use it to\u00a0develop and express our identities, to position ourselves in hierarchies, and to establish\u00a0group membership and exclusion throughout life. Language shapes ourselves, our\u00a0families, our social lives, and our institutions. Understanding how people use language\u00a0can provide a window into hidden aspects of both individuals and the social world.\n        ",
+        "Combined Course": [
+            "COGST3150",
+            "HD3150",
+            "LING3150"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3140": {
+        "Title": "Computational Psychology",
+        "Course Code": "PSYCH3140",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST3140",
+            "COGST6140",
+            "INFO3140",
+            "PSYCH6140"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3150": {
+        "Title": "Obesity and the Regulation of Body Weight",
+        "Course Code": "PSYCH3150",
+        "Description": "\n            Multidisciplinary discussion of the causes, effects, and treatments of human obesity. Topics include the biopsychology of eating behavior, the genetics of obesity, the role of activity and energy metabolism, the psychosocial determinants of obesity, anorexia nervosa, therapy and its effectiveness, and social discrimination.Multidisciplinary discussion of the causes, effects, and treatments of human obesity. Topics include the biopsychology of eating behavior, the genetics of obesity, the role of activity and energy metabolism, the psychosocial determinants of obesity, anorexia nervosa, therapy and its effectiveness, and social discrimination.\n        ",
+        "Combined Course": [
+            "NS3150",
+            "NS5150"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: 1) NS 1150, NS 1220, or one semester Intro Biology lecture (BIOMG 1350, BIOG 1440, or equivalent), and 2) Biochemistry (NS 3200, BIOMG 3300, or equivalent). Enrollment limited to: seniors and juniors; others by permission of instructor.\nPlease reach out to Division of Nutritional Sciences (DNS) Student Services dnsstudentservices@cornell.edu with any questions.\n",
+        "Need Note": false
+    },
+    "PSYCH3220": {
+        "Title": "Hormones and Behavior",
+        "Course Code": "PSYCH3220",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "BIONB3220",
+            "HD3220",
+            "PSYCH7220"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3310": {
+        "Title": "Developmental Psychopathology",
+        "Course Code": "PSYCH3310",
+        "Description": "\n            Why do some children grow up well-adjusted and others do not? This course applies a developmental framework to understanding psychological disorders. We will consider the common disorders of childhood and adolescence; the individual contexts which promote risk versus resiliency; trends and trajectories in disorders over time; and the complex ethical issues associated with the diagnosis and treatment of disorders early in life.\n        ",
+        "Combined Course": [
+            "HD3300"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3420": {
+        "Title": "Human Perception: Application to Computer Graphics, Art, and Visual Display",
+        "Course Code": "PSYCH3420",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST3420",
+            "VISST3342"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3450": {
+        "Title": "On Being Social",
+        "Course Code": "PSYCH3450",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "HD3455",
+            "PSYCH6450"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment is via Application: https://cornell.ca1.qualtrics.com/jfe/form/SV_etIZVRRfyufGfCm\n",
+        "Need Note": false
+    },
+    "PSYCH4110": {
+        "Title": "Writing, Inquiry, and Communicating in STEM",
+        "Course Code": "PSYCH4110",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6110"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4190": {
+        "Title": "STEAM, Outreach and Community Engagement",
+        "Course Code": "PSYCH4190",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6190"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4230": {
+        "Title": "Navigation, Memory, and Context: What Does the Hippocampus Do?",
+        "Course Code": "PSYCH4230",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST4230",
+            "PSYCH6230"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4320": {
+        "Title": "Topics in Cognitive Science",
+        "Course Code": "PSYCH4320",
+        "Description": "\n            A seminar series examining current and classical ideas in human sciences and the humanities.\u00a0Themes vary from semester to semester.\n        ",
+        "Combined Course": [
+            "BIONB4330",
+            "COGST4310",
+            "COGST6311"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4390": {
+        "Title": "Neural Circuits for Social Behavior",
+        "Course Code": "PSYCH4390",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4510": {
+        "Title": "Research Seminar on the Relational Mind",
+        "Course Code": "PSYCH4510",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6510"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4560": {
+        "Title": "Black Girlhood Studies: Rememory, Representation, and Re-Imagination",
+        "Course Code": "PSYCH4560",
+        "Description": "\n            How has history shaped our notion of Black girlhood? What is our collective understanding of Black girlhood? How do we see and understand Black girls? Black Girlhood Studies is a multidisciplinary field that draws on education, literature, psychological, and sociological perspectives as tools to see and honor Black girls' lived experiences. In this seminar course, we will use a mixture of lectures and facilitated discussions to provide an overview of Black girlhood as it relates to historical and current-day social, political, and cultural constructions of Black girlhood within and beyond the United States. We will also interrogate how Black girls deconstruct and interrupt these social constructions by engaging in scholarly works, popular press articles, poetry, music, film, and novels. Throughout the course, we will make space to imagine a world where Black girls' ways of knowing, being, and experiencing the world are honored.\u00a0\n\u00a0\n        ",
+        "Combined Course": [
+            "ASRC4561",
+            "FGSS4561",
+            "HD4560"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Application required. See https://forms.gle/uECvEmNeCTnN82Km8 to apply.\n",
+        "Need Note": false
+    },
+    "PSYCH4600": {
+        "Title": "Neural Representations",
+        "Course Code": "PSYCH4600",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6600"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4670": {
+        "Title": "Advanced Seminar in Mood Disorders",
+        "Course Code": "PSYCH4670",
+        "Description": "\n            Each year, more than 100 million people worldwide develop clinically recognizable depression. Because of its prevalence, depression is sometimes called \"the common cold of psychopathology.\" This course provides a wide-ranging examination of the theories, methods, and major controversies in mood disorders research, including coverage of social, cognitive, and biological perspectives.\n        ",
+        "Combined Course": [
+            "HD4670"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4700": {
+        "Title": "Undergraduate Research in Psychology",
+        "Course Code": "PSYCH4700",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "PSYCH4710": {
+        "Title": "Advanced Undergraduate Research in Psychology",
+        "Course Code": "PSYCH4710",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0,
+            5.0,
+            6.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          To apply: first discuss the Independent Study with the course supervisor, and then complete the online Independent Study form at https://data.arts.cornell.edu/as-stus/indep_study_intro.cfm.\n",
+        "Need Note": false
+    },
+    "PSYCH4800": {
+        "Title": "Social Psychology of Race and Racism",
+        "Course Code": "PSYCH4800",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6800"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment preference given to: seniors and juniors.\n",
+        "Need Note": false
+    },
+    "PSYCH4860": {
+        "Title": "Special Topics in Social Psychology",
+        "Course Code": "PSYCH4860",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6860"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4940": {
+        "Title": "Moral Psychology in Action",
+        "Course Code": "PSYCH4940",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "COGST4940",
+            "HD4940",
+            "PHIL3915"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH5760": {
+        "Title": "Quantitative Methods II",
+        "Course Code": "PSYCH5760",
+        "Description": "\n            This second part of the graduate statistics sequence is intended to teach more advanced techniques of modern quantitative data analysis, with a focus on the analysis of non-randomized studies. We will cover a variety of models, including models with linear and non-linear effects, model with random effects, and models for limited dependent variables.\n\u00a0\n        ",
+        "Combined Course": [
+            "HD5760"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1102": {
+        "Title": "Introduction to Cognitive Science",
+        "Course Code": "PSYCH1102",
+        "Description": "\n            This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.\u00a0\n        ",
+        "Combined Course": [
+            "COGST1101",
+            "CS1710",
+            "HD1102",
+            "LING1170",
+            "PHIL1620"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "A 1 credit Writing in the Majors sections is available, PSYCH 1104.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1104": {
+        "Title": "WIM: Introduction to Cognitive Science",
+        "Course Code": "PSYCH1104",
+        "Description": "\n            This section is highly recommended for students who are interested in learning about the topics covered in the main course through writing and discussion.\u00a0\n        ",
+        "Combined Course": [
+            "COGST1104",
+            "LING1104",
+            "PHIL1621"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "PSYCH1102"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: PSYCH 1102.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1131": {
+        "Title": "Introduction to Human Development",
+        "Course Code": "PSYCH1131",
+        "Description": "\n            Introduction to Human Development provides a broad and foundational overview of field of human development, starting from conception and ending through process of death and dying. The course will start with an outline and explanation of the lifespan perspective in human development. The biological beginnings of life and prenatal development will serve as the start of the discussion of human development, followed by an exploration of physical, cognitive, and socioemotional development at each subsequent stage within the lifespan (e.g., infancy, early childhood, middle & late childhood, etc.). Discussion of each developmental stage will highlight major research findings and their real-world application.\n        ",
+        "Combined Course": [
+            "HD1130"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1500": {
+        "Title": "Introduction to Environmental Psychology",
+        "Course Code": "PSYCH1500",
+        "Description": "\n            Environmental Psychology is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams.\n        ",
+        "Combined Course": [
+            "COGST1500",
+            "COGST1501",
+            "DEA1500",
+            "DEA1501",
+            "PSYCH1501"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1501": {
+        "Title": "Introduction to Environmental Psychology - Writing in the Major",
+        "Course Code": "PSYCH1501",
+        "Description": "\n            Human-Environment Relations is an interdisciplinary field concerned with how the physical environment and human behavior interrelate. Most of the course focuses on how residential environments and urban and natural settings affect human health and well-being. Students also examine how human attitudes and behaviors affect environmental quality. Issues of environmental justice and culture are included throughout. Hands-on projects plus exams. Lecture and discussion sections. WIM section attends a regular lecture but also meets weekly with a graduate writing instructor. The two principal objectives of WIM section:\n        ",
+        "Combined Course": [
+            "COGST1500",
+            "COGST1501",
+            "DEA1500",
+            "DEA1501",
+            "PSYCH1500"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2230": {
+        "Title": "Intro to Behavioral Neuroscience",
+        "Course Code": "PSYCH2230",
+        "Description": "\n            Introduction to psychology from a biological perspective, which focuses on brain mechanisms of behavior. Topics include the structure and function of the nervous system, physiological approaches to understanding behavior, hormones and behavior, biological bases of sensation and perception, learning and memory, cognition, emotion, and communication.\n        ",
+        "Combined Course": [
+            "COGST2230",
+            "HD2230"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          May be used to satisfy the psychology major, breadth requirement and alternative prerequisite for biopsychology courses.\n",
+        "Need Note": false
+    },
+    "PSYCH2400": {
+        "Title": "Introduction to Community Psychology",
+        "Course Code": "PSYCH2400",
+        "Description": "\n            What counts as a community? How do communities shape who we are? How can we engage in action to transform the communities we are a part of? These questions guide our inquiry in this introductory community psychology course. Community psychology examines the interrelationship between individual wellbeing and the multiple social structures and contexts with which individuals interact. Community psychologists are united by a shared commitment to understanding individuals using a multidisciplinary perspective, including developmental psychology, education, and sociology. Beyond seeking to understand, community psychologists also emphasize values, applied and participatory research, and action to promote the well-being of entire communities from a strengths-based perspective. This lecture-based course will provide an overview of theory, research, and action in community psychology. We will focus on (a) essential community psychology theories, (b) methodological strategies for studying alongside communities, and (c) practical applications related to understanding social and environmental contexts as essential components of the human experience. Throughout the course, we will discuss the role of communities in shaping our understandings of diversity, equity, and social justice.\u00a0\n\u00a0\n        ",
+        "Combined Course": [
+            "HD2400"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "CA-AG",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: PSYCH 1101\u00a0or HD 1130\u00a0or equivalent.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2450": {
+        "Title": "Pursuing Happiness",
+        "Course Code": "PSYCH2450",
+        "Description": "\n            The Pursuit of Happiness is even mentioned in the Declaration of Independence, but what does this mean? This course will explore the kinds of happiness found in human experience, including financial success, public service, romantic and family life, political and cultural identity, as well as the power of music, literature, art and film to affect mood and self-awareness.\u00a0\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "ETM-AS",
+            "CA-AG",
+            "KCM-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2500": {
+        "Title": "Statistics and Research Design",
+        "Course Code": "PSYCH2500",
+        "Description": "\n            In a complex environment with many sources of variability, how can one tell with confidence whether a particular observed effect is real? And how much confidence is appropriate? This course introduces the principles of statistical description and inference as strategies to answer these questions, with emphasis on methods of principal relevance to psychology, neuroscience, and the behavioral sciences.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SSC-AS",
+            "MQL-AG",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Calculus is not required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Calculus is not required.\n",
+        "Need Note": false
+    },
+    "PSYCH2580": {
+        "Title": "Six Pretty Good Books: Explorations in Social Science",
+        "Course Code": "PSYCH2580",
+        "Description": "\n            This course is modeled after \"Great Books\" literature courses in the humanities, but with two important differences: we read non-fiction books in the social sciences rather than the humanities, written by highly prominent contemporary social scientists. The course title refers to the fact that the books are new, hence their potential greatness has yet to be confirmed by the test of time. We choose living authors to give students a unique opportunity: to interact with each of the six authors in Q&A sessions via live or recorded video conferencing.\u00a0\n        ",
+        "Combined Course": [
+            "HD2580",
+            "ILRGL2580",
+            "SOC2580"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2750": {
+        "Title": "Introduction to Personality",
+        "Course Code": "PSYCH2750",
+        "Description": "\n            What is \"personality\"? How is it scientifically studied and measured? To what extent, do biological, social, and cultural factors shape personality? Is personality an expression of our genetic make up and biology, the culmination of social influences, the interplay of both, or the result of random events? In this course, we will review the major theoretical paradigms of personality psychology, discuss contemporary research, theory, and methodology, and learn about key historical debates in the study of \"personality\".\n        ",
+        "Combined Course": [
+            "HD2600"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "SSC-AS",
+            "KCM-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Recommended prerequisite: introductory psychology or human development course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2830": {
+        "Title": "Research Methods in Human Development",
+        "Course Code": "PSYCH2830",
+        "Description": "\n            This course will introduce students to the basics of research design and will review several methodologies in the study of human development. The focus of the course will be on descriptive and experimental methods. Students will learn the advantages and challenges to different methodological approaches. The course also places an emphasis on developing students' scientific writing and strengthening their understanding of statistics.\n        ",
+        "Combined Course": [
+            "HD2830"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "HD1150"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: HD 1150.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Priority given to: HD and PSYCH majors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2930": {
+        "Title": "Introduction to Data Science for Social Scientists",
+        "Course Code": "PSYCH2930",
+        "Description": "\n            Intro to Data Science for Social Scientists using R.\n        ",
+        "Combined Course": [
+            "HD2930"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3020": {
+        "Title": "Methods in Neuroscience",
+        "Course Code": "PSYCH3020",
+        "Description": "\n            This course will expose students to a wide range of commonly used methods in neuroscience research (theory behind the method, common applications of the method, how data are collected and analyzed using the method, strengths and weaknesses of the method, etc.). The goal for students is that by the end of the course, they will be able to read and critically evaluate primary literature from many areas of neuroscience and to understand how the methods used in the study helped the researchers come to their conclusions. This course will explore methods including (but not necessarily limited to): microscopy, methods to visualize neuronal structure and function, electrophysiology, methods to measure neural activity, methods to measure and manipulate expression of genes/mRNA/protein, machine learning methods for behavioral\u00a0analysis, and whole brain imaging methods in humans and non-human animals.\n        ",
+        "Combined Course": [
+            "PSYCH6020"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3135": {
+        "Title": "The Psychology of Good and Evil",
+        "Course Code": "PSYCH3135",
+        "Description": "\n            Morality seems to be a universal feature of humananity. People across time, place and culture have a strong sense that certain things are right or wrong, that some people are good and some are evil. Where does this moral sense come from? Why do some people disagree so strongly about what is right and wrong? How did evolution shape this moral sense? How does it develop? Are there any universal aspects of moral psychology? The goals of this course are to offer an introduction to the psychological science behind what humans know as morality.\n        ",
+        "Combined Course": [
+            "COGST3135"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "SSC-AS",
+            "KCM-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [
+            [
+                "PSYCH1101"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PSYCH 1101.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3190": {
+        "Title": "Memory and the Law",
+        "Course Code": "PSYCH3190",
+        "Description": "\n            Focuses on how the scientific study of human memory interfaces with the theory and practice of law.\n        ",
+        "Combined Course": [
+            "COGST3190",
+            "HD3190",
+            "HD6190"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3240": {
+        "Title": "Behavioral Neuroscience Laboratory",
+        "Course Code": "PSYCH3240",
+        "Description": "\n            This course is designed to provide an introduction to experimental research on the neural basis of behavior and cognition in animals. Topics will include basic neuroanatomy and neurophysiology, neural and hormonal control of behavior, and learning and memory. Students will gain extensive hands on experience with a variety of laboratory techniques, and animal species, and behaviors.\n        ",
+        "Combined Course": [
+            "BIONB3240",
+            "COGST3240"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [
+            [
+                "PSYCH2230",
+                "BIONB2220"
+            ]
+        ],
+        "Specific Requirements": "Prerequisite or corequisite: PSYCH 2230 or BIONB 2220.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3300": {
+        "Title": "Introduction to Computational Neuroscience",
+        "Course Code": "PSYCH3300",
+        "Description": "\n            Covers the basic ideas and techniques involved in computational neuroscience. Surveys diverse topics, including neural dynamics of small networks of cells, neural coding, learning in neural networks and in brain structures, memory models of the hippocampus, sensory coding, and others.\n        ",
+        "Combined Course": [
+            "BIONB3300",
+            "BME3300",
+            "COGST3300",
+            "PSYCH3300"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BIONB2220"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BIONB 2220 or permission of instructor.",
+        "Comments": "Lab will provide additional computer simulation exercises. Offered in even-numbered years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3820": {
+        "Title": "Prejudice and Stereotyping",
+        "Course Code": "PSYCH3820",
+        "Description": "\n            Social group membership - based on race and ethnicity, class, sexual orientation, sex, gender and gender identity, etc. and their intersection- can profoundly influence one's experience of the world and each other.\u00a0 Through this course we will cover the basic experimental social psychology research on thoughts and beliefs (stereotypes), evaluative attitudes (prejudice), and behaviors (discrimination) that are based on group membership. We will explore how empirical research developed from primarily examining explicit (blatant) prejudice in the 20th century to recent examinations of implicit forms of stereotyping and prejudice. We will explore how stereotyping and prejudice can arise from basic perceptual and categorical processes, discuss strategies for minimizing expressed bias in interpersonal situations, and examine the experience of high status - and the consequences of losing it. The ultimate aim is to enhance your ability to evaluate and analyze the scientific merit of this research and apply it to real world social issues.\n        ",
+        "Combined Course": [
+            "HD3820"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SCD-AS",
+            "SSC-AS",
+            "D-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4270": {
+        "Title": "Evolution of Language",
+        "Course Code": "PSYCH4270",
+        "Description": "\n            Seminar surveying a cross-section of modern theories, methods, and research pertaining to the origin and evolution of language. Considers evidence from psychology, the cognitive neurosciences, theoretical biology, comparative psychology, and computational modeling of evolutionary processes. Topics for discussion may include: What is special about language? What can we learn from comparative perspectives on neurobiology and behavior? Can apes really learn language? Did language come about through natural selection or cultural evolution?\n        ",
+        "Combined Course": [
+            "COGST4270",
+            "PSYCH6270"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: any one course in psychology or human development.",
+        "Comments": "Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: juniors and seniors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "PSYCH4331": {
+        "Title": "Event Cognition: How Minds, Brains and Bodies Experience Events",
+        "Course Code": "PSYCH4331",
+        "Description": "\n            People experience and remember complex and dynamic environments as events. This seminar draws on work from cognitive neuroscience to characterize how people shape experience into events, and how these processes support adaptive behavior. The course will start with discussions of historical and modern perspectives about the relationships between minds, bodies, and experience. We will then cover topics ranging from the perception of motion and causality to social learning and interaction. The primary goals are for you to be able to (1) read and evaluate research in psychology, cognitive science, and neuroscience, and (2) describe and understand the implications of this research for how minds and bodies are adapted to everyday situations.\n        ",
+        "Combined Course": [
+            "COGST4331",
+            "COGST6331",
+            "HD4331",
+            "PSYCH6331"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: a course in PSYCH, COGST, HD or NBB.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "PSYCH4420": {
+        "Title": "The Psychology and Ethics of 21st Century Technology",
+        "Course Code": "PSYCH4420",
+        "Description": "\n            New technologies are changing our world at a rapid pace. In many cases, the society does not fully understand the impact of technology and is not prepared for the speed of the change that is occurring. This course will explore a few of these new technologies and investigate their effects on the users and on the society at large. The topics that will be explored include face recognition, virtual reality, violence in media, general AI, and the technological singularity. We will look at the ways in which these technologies affect our lives, with a focus on education, entertainment, employment, politics, and the future of humanity.\n        ",
+        "Combined Course": [
+            "COGST4420"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "KCM-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite:\u00a0PSYCH 3420.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4430": {
+        "Title": "Confronting Climate Change",
+        "Course Code": "PSYCH4430",
+        "Description": "\n            This course on the climate crisis acquaints students with the psychological factors underlying ecocide and anthropogenic climate change and the possible avenues for its mitigation, with a particular focus on climate justice and Indigenous knowledges and ways of relating to nature. In parallel with reading and discussing primary literature on these topics, students work on research projects, complementing theory with practice and placing it in the local geopolitical context.\n        ",
+        "Combined Course": [
+            "COGST4435"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4550": {
+        "Title": "The Psychology of Wisdom",
+        "Course Code": "PSYCH4550",
+        "Description": "\n            This course will cover the psychology of wisdom.\u00a0 Among the topics to be covered are the definition of wisdom, theories and models of wisdom, development of wisdom, measurement of wisdom, relations of wisdom to other characteristics, state versus trait characteristics of wisdom, teaching for wisdom, wisdom and leadership, wisdom and society.\n        ",
+        "Combined Course": [
+            "HD4550",
+            "HD6550"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "CA-AG",
+            "D-AG",
+            "HA-AG",
+            "KCM-AG",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4580": {
+        "Title": "The Science of Social Behavior",
+        "Course Code": "PSYCH4580",
+        "Description": "\n            This is a capstone seminar for seniors who are interested in graduate or professional study in scientific disciplines that focus on human behavior and social interaction. The intent is to provide seniors with an opportunity to summon, integrate, and apply insights that they have acquired over the course of their undergraduate education, and give prospective graduate students the opportunity to lead discussions in\u00a0a large introductory lecture course, \"Six Pretty Good Books\". Each seminar member is part of a two or three-person team that leads the discussion together, under the supervision of a graduate teaching assistant. Seminar meetings are devoted to building lesson plans for leading an effective discussion of each of the six books. The authors vary from year to year but include Malcolm Gladwell, Michelle\u00a0Alexander, Nate Silver, and Nicholas Christakis. All authors have agreed to participate in a \"Q&A\" session with the students which seminar members are required to attend.\n        ",
+        "Combined Course": [
+            "HD4580",
+            "ILRGL4580",
+            "SOC4580"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "HD2580",
+                "ILRGL2580",
+                "PSYCH2580",
+                "SOC2580"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: HD 2580 or ILRGL 2580 or PSYCH 2580 or SOC 2580.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4810": {
+        "Title": "Advanced Social Psychology",
+        "Course Code": "PSYCH4810",
+        "Description": "\n            The focus of this course is on discussion and critical analysis of selected articles from very recent issues of the most selective social psychological journals.\u00a0 Readings are chosen for their importance,\u00a0their coverage of contemporary topics in social psychology, and their potential for generating stimulating discussion . Students write brief \"thought papers\" before each class in which they offer suggestions for class discussion based on their close reading of the day's assigned articles. They also write a term paper (details at first class meeting).\n        ",
+        "Combined Course": [
+            "PSYCH6810"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SSC-AS",
+            "SBA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment preference given to: senior psychology majors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH5750": {
+        "Title": "Quantitative Methods I",
+        "Course Code": "PSYCH5750",
+        "Description": "\n            This course is a rigorous introduction to graduate statistics for social sciences. We will briefly review descriptive statistics and probability theory. We will discuss fundamental inferential frameworks at length, with a focus on Frequentist and Bayesian statistics. \u00a0The remainder of the semester will be focused on the analysis of randomized studies.\n        ",
+        "Combined Course": [
+            "HD5750"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Recommended prerequisite: college level introductory statistics.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2225": {
+        "Title": "Psychological Assessment",
+        "Course Code": "PSYCH2225",
+        "Description": "\n            This course will explore the basic methods, concepts, and challenges in the development and use of psychological tests. We will cover the conceptual, scientific, and methodological principles that guide test development. We will explore assessment of intelligence, psychopathology, and personality. We will discuss multimodal psychological evaluations and how they can be used to inform decision making (for instance forensic, ADHD, learning disability, compensation and pension evaluations, and determining eligibility for services) in addition to ethics. Throughout the course, students should gain an understanding of the scientific manner in which psychological tests are constructed, the different types of psychological testing, and the utility of psychological testing.\n        ",
+        "Combined Course": [
+            "HD2225"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2620": {
+        "Title": "Moral Development",
+        "Course Code": "PSYCH2620",
+        "Description": "\n            Why and how do humans become moral beings? And what is a moral being anyways? Humans have written about these questions for as long as they have written about any deep question. Over the past century, however, empirical scientists have joined the investigation into moral development. This course will use empirical evidence to evaluate major theories of morality and its development. In the process, we will learn about topics like: cultural differences and similarities in moral orientations, the origins of helping and harming, and the development of moral reasoning and emotions childhood to adulthood.\n        ",
+        "Combined Course": [
+            "HD2620"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "KCM-HE"
+        ],
+        "Prerequisites": [
+            [
+                "HD1150",
+                "HD1170",
+                "HD1130",
+                "PSYCH1101"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: HD 1150 or HD 1170 or HD 1130 or PSYCH 1101.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3250": {
+        "Title": "Adult Psychopathology",
+        "Course Code": "PSYCH3250",
+        "Description": "\n            A theoretical and empirical approach to the biological, psychological, and social (including cultural and historical) aspects of adult psychopathology. Readings range from Freud to topics in psychopharmacology. The major mental illnesses are covered, including schizophrenia as well as mood, anxiety, and personality disorders. Childhood disorders are not covered.\n        ",
+        "Combined Course": [
+            "HD3700"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "SBA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: any one course in psychology or human development.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: sophomores, juniors, and seniors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "PSYCH3320": {
+        "Title": "Biopsychology of Learning and Memory",
+        "Course Code": "PSYCH3320",
+        "Description": "\n            Surveys the approaches that have been or are currently being used in order to understand the biological bases for learning and memory. Topics include invertebrate, \"simple system\" approaches, avian song learning, hippocampal and cerebellar function, research using MRI in humans. Many of the readings are from primary literature.\n        ",
+        "Combined Course": [
+            "BIONB3280"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "BIO-AS",
+            "PBS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "BIONB2220"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one year of biology, and either a biopsychology course or BIONB 2220.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "PSYCH4220": {
+        "Title": "The Psychology of Misinformation",
+        "Course Code": "PSYCH4220",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2820": {
+        "Title": "Community Outreach",
+        "Course Code": "PSYCH2820",
+        "Description": "\n            Provides students with information and perspectives essential to volunteer fieldwork with human and social service programs in the community. Readings are drawn from the field of community psychology and include analyses of successful programs, such as Head Start, as well as a review of the methods by which those programs are developed and assessed. Although students are not required to volunteer, the instructor provides students with a list of local agencies open to student placements.\n        ",
+        "Combined Course": [
+            "HD2820"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3040": {
+        "Title": "Cognitive Neuroscience of Language",
+        "Course Code": "PSYCH3040",
+        "Description": "\n            This course explores the cognitive neuroscience of language, with a focus on the neural mechanisms underlying language processing and its relationship with other cognitive processes. We will explore how the brain processes and represents language, how language is acquired, and how language is impaired in various neurological and developmental disorders.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "KCM-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "COGST1101",
+                "HD1130",
+                "LING1101",
+                "PSYCH1101",
+                "PSYCH2150"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: COGST 1101, HD 1130, LING 1101, PSYCH 1101, or PSYCH 2150.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3350": {
+        "Title": "The Psychology of Attention",
+        "Course Code": "PSYCH3350",
+        "Description": "\n            This course will survey core topics on attention, exploring how it influences what people perceive, what they are aware of, what they remember, and how well they can perform tasks. Original articles presenting behavioral and neuroscientific research on attention will be discussed. In-class demonstrations and presentations will further provide students with a broad understanding of attention and the ability to critically apply attention concepts to their everyday lives.\n        ",
+        "Combined Course": [
+            "COGST3350",
+            "PSYCH6350"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ETM-AS",
+            "SBA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4150": {
+        "Title": "Culture, Cognition, Humanities",
+        "Course Code": "PSYCH4150",
+        "Description": "\n            Seminar on the essential features and qualities of culture and how it impacts human endeavors. Because understanding culture necessarily requires interaction across multiple areas of study, this interdisciplinary seminar will be based on discussions of recent research at the interface of cognitive science and the humanities. Topics may include: animal cultures, the evolution of language, the symbolic revolution, knowledge acquisitions, play, rituals and the arts.\u00a0\n        ",
+        "Combined Course": [
+            "COGST4150",
+            "COGST6150",
+            "COML4229"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "ETM-AS",
+            "KCM-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: juniors and seniors, or by permission.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4210": {
+        "Title": "Native American Psychology",
+        "Course Code": "PSYCH4210",
+        "Description": "\n            This course will provide an overview of the psychology of Native Americans; accounting for current theories and research on the experiences, behavior, and identities of Native Americans. The course will offer students an immersive, in-depth experience of the topics and themes that scholars are investigating in Native American Psychology.\n        ",
+        "Combined Course": [
+            "HD4210"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "CA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Required prerequisite: PSYCH 1101 or HD 1150.  Recommended prerequisite: PSYCH 2800, PSYCH 2090, HD 1170.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2020": {
+        "Title": "Experimental Psychology: Learning",
+        "Course Code": "PSYCH2020",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "HD2020"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3280": {
+        "Title": "Field Practicum II",
+        "Course Code": "PSYCH3280",
+        "Description": "\n            Continues the field practicum experience from PSYCH 3270.\n        ",
+        "Combined Course": [
+            "HD3280"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PSYCH3270"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PSYCH 3270.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3325": {
+        "Title": "Theory and Practice of Contemporary Clinical Psychology",
+        "Course Code": "PSYCH3325",
+        "Description": "\n            This course will explore and examine different areas of clinical psychology comprising several areas. The first part of the course will focus on how psychopathology develops. The second part will focus on assessment and treatment of psychopathology. The third part will examine different aspects of today's practice of clinical psychology. The goal of the course is to introduce advanced students who have already taken several psychology courses to the field of clinical psychology.\n        ",
+        "Combined Course": [
+            "HD3325"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4830": {
+        "Title": "Social Neuroscience",
+        "Course Code": "PSYCH4830",
+        "Description": "\n            This course examines how theories and methods of neuroscience are used to address classic social psychological questions\u00a0from new and informative angles. The goal is to give students the tools to become critical consumers of the social neuroscience literature, broaden their thinking about connections between the mind, brain, and behavior in a social context, and apply these ideas to their own future research in psychology.\n        ",
+        "Combined Course": [
+            "PSYCH6830"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "KCM-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PSYCH2800"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PSYCH 2800.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Priority given to: senior Psychology majors.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH2350": {
+        "Title": "Multilingualism and Multiculturalism in Early Childhood",
+        "Course Code": "PSYCH2350",
+        "Description": "\n            Children who grow up in multilingual environments have a profoundly different experience compared to monolingual children. In this course, we examine the nature and impact of this experience on the socio-emotional, cognitive, and linguistic development of young children, focusing on the complex multilingual and multicultural reality in Israel as our main case study. Specifically, we explore the multilingual development of children from several minority and immigrant groups in Israel: Arabs, Former Soviet Union (FSU) and Ethiopian immigrants, Israeli-born children of labor migrants, deaf communities, among others.\n        ",
+        "Combined Course": [
+            "HD2350"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "KCM-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Fall 2022 will be the final offerring of this course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3270": {
+        "Title": "Field Practicum I",
+        "Course Code": "PSYCH3270",
+        "Description": "\n            Composed of three components that form an intensive undergraduate field practicum. First, students spend three to six hours a week at local mental health agencies, schools, or nursing facilities working directly with children, adolescents, or adults; supervision is provided by host agency staff. Second, the instructor provides additional weekly individual, clinical supervision for each student. Third, seminar meetings cover issues of adult and developmental psychopathology, clinical technique, case studies, and current research issues. Students write one short paper, two final take-home exams, and present an account of their field experience in class.\n        ",
+        "Combined Course": [
+            "HD3270"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PSYCH3250"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PSYCH 3250.",
+        "Comments": "Students must commit to taking PSYCH 3280\u00a0in spring semester.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4382": {
+        "Title": "Language and Thought",
+        "Course Code": "PSYCH4382",
+        "Description": "\n            The intricate relations between language and thought have stirred a heated debate from ancient philosophy to the era of modern science. Does language precede thought or vice versa? Do different languages create a different understanding of one's physical and social environment?\u00a0\u00a0In this course we will examine some leading theories and empirical studies on the interconnections between these two complex abilities of the mind; and explore their developmental trajectories and interactions from infancy to adulthood.\n        ",
+        "Combined Course": [
+            "HD4380"
+        ],
+        "Semester Offered": [
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SBA-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Spring 2023 will be the final offerring of this course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4500": {
+        "Title": "Psychology at the Sciencenter!",
+        "Course Code": "PSYCH4500",
+        "Description": "\n            This course will give an opportunity to learn how to communicate concepts and knowledge from the psychological sciences. We will examine the challenges associated with science communications, including ways to engage the perspectives of diverse audiences, and evaluation of the effects of the interaction on the audience's knowledge and attitudes. Most of our activities will focus on the development of exhibits for the Sciencenter of Ithaca. We will develop exhibit prototypes, evaluate the public's engagement and learning from them, and use the feedback to refine our prototypes. The goal will be to effectively convey current understanding of psychological processes to the general public, with an emphasis on engaging young children.\n        ",
+        "Combined Course": [
+            "PSYCH6500"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SBA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH1200": {
+        "Title": "Conversations in Moral Psychology",
+        "Course Code": "PSYCH1200",
+        "Description": "\n            Who gets to decide what is right and wrong? Are there any universal moral rules? Do moral norms benefit some more than others? What are the implications when age, gender, race, ethnicity, education, income, social status, and other individual differences interact with morality? This course is designed for students who are ready to dive to the core of morality. This format of the course is a series of guest talks and active discussions.\n        ",
+        "Combined Course": [
+            "PHIL1918"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH3160": {
+        "Title": "Auditory Perception: The Music Lab",
+        "Course Code": "PSYCH3160",
+        "Description": "\n            Lab course designed to introduce students to experimental methods in auditory perception and cognition. Students complete a short computer-based course on experimental design and statistical analysis. Each student conducts an independent research project. This includes a review of the relevant literature, the collection and analysis of data, and a presentation of the findings. The projects are most frequently on a topic related to music but may also be related to speech or environmental sounds.\n        ",
+        "Combined Course": [
+            "PSYCH7160"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "KCM-AS",
+            "SSC-AS"
+        ],
+        "Prerequisites": [
+            [
+                "PSYCH1102",
+                "PSYCH2090"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: PSYCH 1102, or PSYCH 2090 (or any course related to sound and hearing).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "PSYCH4850": {
+        "Title": "The Self",
+        "Course Code": "PSYCH4850",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "PSYCH6850"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "PSYCH4910": {
+        "Title": "Research Methods in Psychology",
+        "Course Code": "PSYCH4910",
+        "Description": "\n            Research methods are the tools that allow psychologists to test the validity of hypotheses. This course provides a survey of the methods used by scientists in personality and social psychology as well as related behavioral sciences to empirically test hypotheses. Specifically, this course will discuss the following topics: (1) philosophy of science; (2) research designs and methods; (3) data collection, analysis, and validity; (4) report writing; and (5) recurrent and emerging trends and issues in the field of research methods and quantitative analysis. The final project consists of writing a research proposal and giving a short oral presentation.\n        ",
+        "Combined Course": [
+            "COGST4910",
+            "COGST6910",
+            "PSYCH6910"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    }
+}

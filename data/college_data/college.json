@@ -9,8 +9,12 @@
     },
     "A&S": {
         "Name": "College of Arts and Sciences",
+        "Subjects" : [
+            "CS","INFO","MATH"
+        ],
         "Majors": 
         {
+            "ARTH" : "Art History",
             "CS" : "Computer Science",
             "INFO" : "Information Science",
             "MATH" : "Mathematics"

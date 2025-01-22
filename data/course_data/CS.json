@@ -2,6 +2,8 @@
     "CS1110": {
         "Title": "Introduction to Computing: A Design and Development Perspective",
         "Course Code": "CS1110",
+        "Description": "\n            Programming and problem solving using Python. Emphasizes principles of software development, style, and testing. Topics include procedures and functions, iteration, recursion, arrays and vectors, strings, an operational model of procedure and function calls, algorithms, exceptions, object-oriented programming. Weekly labs provide guided practice on the computer, with staff present to help.\u00a0\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -21,11 +23,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Assumes basic high school mathematics. No calculus or programming experience required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Students in CS 1110 can register for an optional 1.0-credit Academic Excellence Workshop (AEW) to support their learning. AEWs are collaborative two-hour weekly problem-solving sessions led by peer educators who have previously taken this course. AEWs are designed to enhance understanding and deeper comprehension; you do not need to be an Engineering student to enroll. Grading is S/U. Search \u201cENGRG 1010\u201d in the course catalog to learn more and enroll.\n",
         "Need Note": false
     },
     "CS1112": {
         "Title": "Introduction to Computing: An Engineering and Science Perspective",
         "Course Code": "CS1112",
+        "Description": "\n            Programming and problem solving using Python. Emphasizes the systematic development of algorithms and programs. Topics include iteration, functions, arrays, strings, recursion, object-oriented programming, algorithms, and data handling and visualization. Assignments are designed to build an appreciation for complexity, dimension, randomness, simulation, and the role of approximation in engineering and science. Weekly discussion section provides guided practice on the computer, with staff present to help.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -49,11 +57,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110 or equivalent.",
+        "Comments": "No prior programming experience is required. Some knowledge of Calculus is required. Co-enrollment in MATH 1110\u00a0is acceptable assuming that student is comfortable with the concepts of series summation and derivatives. Students looking to learn Python rather than learn how to program should take CS 1133\u00a0instead.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Not open to: students affiliated with computer-science major.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Students in CS 1112 can register for an optional 1.0-credit Academic Excellence Workshop (AEW) to support their learning. AEWs are collaborative two-hour weekly problem-solving sessions led by peer educators who have previously taken this course. AEWs are designed to enhance understanding and deeper comprehension; you do not need to be an Engineering student to enroll. Grading is S/U. Search \u201cENGRG 1012\u201d in the course catalog to learn more and enroll.\n",
         "Need Note": false
     },
     "CS1132": {
         "Title": "Short Course in MATLAB",
         "Course Code": "CS1132",
+        "Description": "\n            Introduction to the MATLAB programming language. Covers the basic programming constructs of MATLAB, including assignment, conditionals, iteration, functions, arrays, vectorized computation, and scientific graphics. Designed for students who need MATLAB for research or other courses. Does not assume any previous programming experience.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -70,11 +84,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS1133": {
         "Title": "Short Course in Python",
         "Course Code": "CS1133",
+        "Description": "\n            Introduction to the Python programming language. Covers the basic programming constructs of Python, including assignment, conditionals, iteration, functions, object-oriented design, arrays, and vectorized computation. Designed for students who need Python for research or other courses. Does not assume any previous programming experience.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -92,11 +112,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS1340": {
         "Title": "Choices and Consequences in Computing",
         "Course Code": "CS1340",
+        "Description": "\n            Computing requires difficult choices that can have serious implications for real people. This course covers a range of ethical, societal, and policy implications of computing and information. It draws on recent developments in digital technology and their impact on society, situating these in the context of fundamental principles from computing, policy, ethics, and the social sciences. A particular emphasis will be placed on large areas in which advances in computing have consistently raised societal challenges: privacy of individual data; fairness in algorithmic decision-making; dissemination of online content; and accountability in the design of computing systems. As this is an area in which the pace of technological development raises new challenges on a regular basis, the broader goal of the course is to enable students to develop their own analyses of new situations as they emerge at the interface of computing and societal interests.\n        ",
+        "Combined Course": [
+            "INFO1260"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -115,11 +143,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS1700": {
         "Title": "Elements of Artificial Intelligence",
         "Course Code": "CS1700",
+        "Description": "\n            This course provides a non-programming introduction to the key ideas of Artificial Intelligence (AI), intended for students without significant technical background in computing.\u00a0 Students will leave with an understanding of the core technical ideas that power modern AI, in such areas as machine learning and neural networks, computer vision, natural processing, game AI, and robotics, as well as our evolving appreciation of the societal implications of work in this area.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP23"
@@ -132,11 +166,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS1998": {
         "Title": "First-year and Nontechnical Team Projects",
         "Course Code": "CS1998",
+        "Description": "\n            First-year and Nontechnical Team Projects.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -155,11 +195,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cortland University (CU) App Dev training program students.  \nFor more information, see https://www.cornellappdev.com/courses/ios.\n",
         "Need Note": false
     },
     "CS2043": {
         "Title": "UNIX Tools and Scripting",
         "Course Code": "CS2043",
+        "Description": "\n            UNIX and UNIX-like systems are increasingly being used on personal computers, mobile phones, web servers, and many other systems. They represent a wonderful family of programming environments useful both to computer scientists and to people in many other fields, such as computational biology and computational linguistics, in which data is naturally represented by strings. This course takes students from shell basics and piping, to regular-expression processing tools, to shell scripting and Python. Other topics to be covered include handling concurrent and remote resources, manipulating streams and files, and managing software installations.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -181,11 +227,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: one programming course or equivalent programming experience.",
+        "Comments": "No previous knowledge of UNIX or expertise in any particular language is assumed.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS2110": {
         "Title": "Object-Oriented Programming and Data Structures",
         "Course Code": "CS2110",
+        "Description": "\n            Intermediate programming in a high-level language and introduction to software engineering. Topics include object-oriented programming (objects, classes, subtypes, encapsulation, polymorphism), program correctness (specifications, invariants, testing), algorithm analysis (asymptotic complexity, big \"O\" notation), recursion, data structures (lists, trees, stacks, queues, heaps, hash tables, graphs), iteration\u00a0and searching/sorting, graph algorithms, and concurrent and event-driven programming\u00a0(graphical user interfaces, synchronization). Java is the principal programming language.\n        ",
+        "Combined Course": [
+            "ENGRD2110"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -210,11 +264,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 1110 or CS 1112 or equivalent course on programming in a procedural language.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Students in CS 2110 can register for an optional 1.0-credit Academic Excellence Workshop (AEW) to support their learning. AEWs are collaborative two-hour weekly problem-solving sessions led by peer educators who have previously taken this course. AEWs are designed to enhance understanding and deeper comprehension; you do not need to be an Engineering student to enroll. Grading is S/U. Search \u201cENGRG 1011\u201d in the course catalog to learn more and enroll.\n",
         "Need Note": false
     },
     "CS2800": {
         "Title": "Mathematical Foundations of Computing",
         "Course Code": "CS2800",
+        "Description": "\n            Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and\npredicate calculus; sets, functions, and relations; graphs; combinatorics and discrete mathematics; basic probability theory; andfinite-state machines. These topics are discussed in the context ofapplications to many areas of computer science.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -244,11 +304,17 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: MATH 1110 or equivilent, one programming course or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Students in CS 2800 can register for an optional 1.0-credit Academic Excellence Workshop (AEW) to support their learning. AEWs are collaborative two-hour weekly problem-solving sessions led by peer educators who have previously taken this course. AEWs are designed to enhance understanding and deeper comprehension; you do not need to be an Engineering student to enroll. Grading is S/U. Search \u201cENGRG 1028\u201d in the course catalog to learn more and enroll.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS3110": {
         "Title": "Data Structures and Functional Programming",
         "Course Code": "CS3110",
+        "Description": "\n            Advanced programming course that emphasizes functional programming techniques and data structures. Programming topics include recursive and higher-order procedures, models of programming language evaluation and compilation, type systems, and polymorphism. Data structures and algorithms covered include graph algorithms, balanced trees, memory heaps, and garbage collection. Also covers techniques for analyzing program performance and correctness.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -276,11 +342,19 @@
             ]
         ],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience. Prerequisite or corequisite: CS 2800.",
+        "Comments": "Should not be taken concurrently with CS 3410\u00a0or CS 3420.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Students in CS 3110 can register for an optional 1.0-credit Academic Excellence Workshop (AEW) to support their learning. AEWs are collaborative, two-hour weekly problem-solving sessions led by peer educators who have previously taken this course. AEWs are designed to enhance understanding and deeper comprehension; you do not need to be an Engineering student to enroll. Grading is S/U. Search \u201cENGRG 1031\u201d in the course catalog to learn more and enroll.\n",
         "Need Note": false
     },
     "CS3152": {
         "Title": "Introduction to Computer Game Architecture",
         "Course Code": "CS3152",
+        "Description": "\n            A project-based course in which programmers and designers collaborate to make a computer game. This course investigates the theory and practice of developing computer games from a blend of technical, aesthetic, and cultural perspectives. Technical aspects of game architecture include software engineering, artificial intelligence, game physics, computer graphics, and networking. Aesthetic and cultural include art and modeling, sound and music, game balance, and player experience.\n        ",
+        "Combined Course": [
+            "INFO3152"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -305,11 +379,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 for programmers, or permission of the instructor. Corequisite: ENGRC 3152.",
+        "Comments": "This course is for students who are interested in the programming aspects of game development. Artists and designers should take\u00a0INFO 3152.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Application required. See https://gdiac.cs.cornell.edu/gdiac/applications/ to apply.\n",
         "Need Note": true
     },
     "CS3410": {
         "Title": "Computer System Organization and Programming",
         "Course Code": "CS3410",
+        "Description": "\n            Introduction to computer organization, systems programming and the hardware/ software interface. Topics include instruction sets, computer arithmetic, datapath design, data formats, addressing modes, memory hierarchies including caches and virtual memory, I/O devices, bus-based I/O systems, and multicore architectures. Students learn assembly language programming and design a pipelined RISC processor.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -332,11 +412,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: CS 2024. Should not take CS 3110\u00a0concurrently.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS3420": {
         "Title": "Embedded Systems",
         "Course Code": "CS3420",
+        "Description": "\n            An introduction to the design of embedded systems, with an emphasis on understanding the interaction between hardware, software, and the physical world. Topics covered include assembly language programming, interrupts, I/O, concurrency management, scheduling, resource management, and real-time constraints.\n        ",
+        "Combined Course": [
+            "ECE3140"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -356,11 +444,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: ECE 2300/ENGRD 2300.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: ECE 2400/ENGRD 2140.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS3700": {
         "Title": "Foundations of AI Reasoning and Decision-Making",
         "Course Code": "CS3700",
+        "Description": "\n            Introduction to major topics in artificial intelligence, including heuristic search, game-playing, knowledge representation and reasoning, planning, probabilistic inference, sequential decision-making and reinforcement learning.\n        ",
+        "Combined Course": [
+            "CS5700"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24"
@@ -383,11 +479,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS3780": {
         "Title": "Introduction to Machine Learning",
         "Course Code": "CS3780",
+        "Description": "\n            The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.\n        ",
+        "Combined Course": [
+            "CS5780"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24"
@@ -400,6 +504,10 @@
             "OPHLS-AG"
         ],
         "Prerequisites": [
+            [
+                "MATH1910",
+                "MATH1120"
+            ],
             [
                 "MATH2210",
                 "MATH2230",
@@ -416,20 +524,22 @@
             [
                 "CS2110",
                 "CS2112"
-            ],
-            [
-                "MATH1910",
-                "MATH1120"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: probability theory (e.g. BTRY 3080, CS 2800, ECON 3130, ENGRD 2700, MATH 4710) and linear algebra (e.g. MATH 2210, MATH 2310, MATH 2940), single-variable calculus (e.g. MATH 1110, MATH 1920) and programming proficiency (e.g. CS 2110).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students. All others should add themselves to the waitlist in January during add/drop.\n",
         "Need Note": true
     },
     "CS4090": {
         "Title": "Teaching Experience in Computer Science",
         "Course Code": "CS4090",
+        "Description": "\n            Earn course credit for working as a consultant or ugrad TA in a computer science course.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -450,11 +560,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Not open to: students in the College of Arts and Sciences.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "CS4152": {
         "Title": "Advanced Topics in Computer Game Architecture",
         "Course Code": "CS4152",
+        "Description": "\n            Project-based follow-up course to CS 3152. Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions.\n        ",
+        "Combined Course": [
+            "CS5152",
+            "INFO4152",
+            "INFO5152"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -485,11 +605,20 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3152, CS 3300 or CS 3700 or CS 4620 or CS 5414. Corequisite: ENGRC 4152.",
+        "Comments": "This course is for students who are interested in the programming aspects of game development. Artists and designers should take INFO 4152.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Application required. See https://gdiac.cs.cornell.edu/gdiac/applications/ to apply.\n",
         "Need Note": false
     },
     "CS4220": {
         "Title": "Numerical Analysis: Linear and Nonlinear Problems",
         "Course Code": "CS4220",
+        "Description": "\n            Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.\n        ",
+        "Combined Course": [
+            "CS5223",
+            "MATH4260"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -511,11 +640,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent.",
+        "Comments": "MATH 4250/CS 4210\u00a0and MATH 4260/CS 4220 provide a comprehensive introduction to numerical analysis; these classes can be taken independently from each other and in either order. Knowledge of programming, and multivariable calculus. Students must also be comfortable writing proofs.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, and multivariable calculus. Students must also be comfortable writing proofs.\n",
         "Need Note": false
     },
     "CS4300": {
         "Title": "Language and Information",
         "Course Code": "CS4300",
+        "Description": "\n            How to make sense of the vast amounts of information available online, and how to relate it and to the social context in which it appears? This course introduces basic tools for retrieving and analyzing unstructured textual information from the web and social media. Applications include information retrieval (with human feedback),\u00a0sentiment analysis, and social analysis of text. The coursework will include\u00a0programming projects that play on the interaction between knowledge and social factors.\n        ",
+        "Combined Course": [
+            "INFO4300"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -530,27 +667,35 @@
         ],
         "Prerequisites": [
             [
-                "MATH2210",
-                "MATH2230",
-                "MATH2310",
-                "MATH2940"
+                "CS2110",
+                "CS2112"
             ],
             [
                 "CS2800"
             ],
             [
-                "CS2110",
-                "CS2112"
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: 1) linear algebra: strong performance in MATH 2940 or equivalent; 2) discrete math: strong performance in CS 2800 or equivalent. Note: the linear algebra and discrete math requirements can also be fulfilled with a strong performance in INFO 2950; and 3) programming proficiency: CS 2110 or equivalent with strong Python skills and familiarity with IPython Notebooks, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science majors.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS4410": {
         "Title": "Operating Systems",
         "Course Code": "CS4410",
+        "Description": "\n            Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.\n        ",
+        "Combined Course": [
+            "CS5410"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -574,11 +719,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3410 or CS 3420.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4411": {
         "Title": "Practicum in Operating Systems",
         "Course Code": "CS4411",
+        "Description": "\n            Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.\n        ",
+        "Combined Course": [
+            "CS5411"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -599,11 +752,19 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: CS 4410.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite or corequisite: CS 4410.\n",
         "Need Note": false
     },
     "CS4450": {
         "Title": "Introduction to Computer Networks",
         "Course Code": "CS4450",
+        "Description": "\n            This course introduces the basic architectural and design principles of computer networking including the design of communication protocols, congestion control, routing and switching, Internet, data center networks and wireless networks.\n        ",
+        "Combined Course": [
+            "CS5456"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -621,11 +782,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: CS 4410.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4670": {
         "Title": "Introduction to Computer Vision",
         "Course Code": "CS4670",
+        "Description": "\n            An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world-the 3D shape of an environment, the motion of objects, the names of people or things-through analysis of digital images or videos. \u00a0The course covers a range of topics, including 3D reconstruction, image segmentation, object recognition, and vision algorithms fro the Internet, as well as key algorithmic, optimization, and machine learning techniques, such as graph cuts, non-linear least squares, and deep learning. \u00a0This course emphasizes hands-on experience with computer vision, and several large programming projects.\n        ",
+        "Combined Course": [
+            "CS5670"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -643,11 +812,11 @@
                 "CS2800"
             ],
             [
-                "MATH2310",
-                "MATH2940"
+                "CS2110"
             ],
             [
-                "CS2110"
+                "MATH2310",
+                "MATH2940"
             ],
             [
                 "MATH1920"
@@ -656,11 +825,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110, CS 2800, MATH 1920 or equivalent and MATH 2310 or MATH 2940 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4701": {
         "Title": "Practicum in Artificial Intelligence",
         "Course Code": "CS4701",
+        "Description": "\n            Artificial Intelligence project class. Topic choice is student driven and (small) teams are encouraged, but each individual team member must do substantial implementation with significant average weekly time commitment. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, machine learning, genetic algorithms, planning, natural language processing, computer vision.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -688,11 +863,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: at least one of the following courses: CS 3700, CS 3780, CS 4670, CS 4740, ECE 4200, ORIE 3741, STSCI 3740, or their equivalents. ",
+        "Comments": "\u00a0Should be taken only by students with significant experience in Artificial Intelligence (ex: CS 3700,\u00a0CS 3780, CS 4740, or CS 4670).",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer and Information Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4740": {
         "Title": "Natural Language Processing",
         "Course Code": "CS4740",
+        "Description": "\n            This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today's most exciting technological achievements, including machine translation, question answering and automatic conversational assistants. The course will introduce core problems and methodologies in NLP, including machine learning, problem design, and evaluation methods.\n        ",
+        "Combined Course": [
+            "COGST4740",
+            "CS5740",
+            "LING4474"
+        ],
         "Semester Offered": [
             "SP25",
             "FA23",
@@ -708,11 +893,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4744": {
         "Title": "Computational Linguistics I",
         "Course Code": "CS4744",
+        "Description": "\n            Computational models of natural languages. Topics are drawn from: tree syntax and context free grammar, finite state generative morpho-phonology, feature structure grammars, logical semantics, tabular parsing, Hidden Markov models, categorial and minimalist grammars, text corpora, information-theoretic sentence processing, discourse relations, and pronominal coreference.\n        ",
+        "Combined Course": [
+            "COGST4240",
+            "LING4424",
+            "LING6424"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -727,24 +922,33 @@
         ],
         "Prerequisites": [
             [
-                "LING1101",
-                "CS2800",
-                "PHIL2310"
-            ],
-            [
                 "CS1110",
                 "CS1112",
                 "CS1133"
+            ],
+            [
+                "LING1101",
+                "CS2800",
+                "PHIL2310"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: Elementary Python (ex. CS 1133), LING 1101 or CS 2800 or PHIL 2310; for CS majors: Elementary Python and CS 2800.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: CS 1133, LING 1101 or CS 2800 or PHIL 2310.\n",
         "Need Note": true
     },
     "CS4754": {
         "Title": "Re-Designing Robots",
         "Course Code": "CS4754",
+        "Description": "\n            This course provides an introduction to human robot interaction. Students will be working alone and in teams to design and examine novel ways for robots to interact with people. In parallel to the design projects students will be introduced to current research on human-robot interaction. Topics include: video interaction analysis, prototyping, and evaluation. This course will require students to re-design a physical robot using basic mechatronics skills with Arduino or similar platforms. Focus of the class will be on designing the interaction with the robot through experimentation with a physical system.\n        ",
+        "Combined Course": [
+            "INFO4410",
+            "INFO6420"
+        ],
         "Semester Offered": [
             "SP25"
         ],
@@ -760,11 +964,19 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: INFO 4320, or an equivalent mechatronics course, or permission of instructor.",
+        "Comments": "Ph.D. students should enroll in INFO 6420.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          To enroll in this course, please complete the following application: https://forms.gle/UiKY5MWrioLxZ21o9.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS4756": {
         "Title": "Robot Learning",
         "Course Code": "CS4756",
+        "Description": "\n            How do we get robots out of the labs and into the real world with all it's complexities?\nRobots must solve two fundamental problems -- (1) Perception: Sense the world using different modalities and (2) Decision making: Act in the world by reasoning over decisions and their consequences. Machine learning promises to solve both problems in a scalable way using data. However, it has fallen short when it comes to robotics.\nThis course dives deep into robot learning, looks at fundamental algorithms and challenges, and case-studies of real-world applications from self-driving to manipulation.\n        ",
+        "Combined Course": [
+            "CS5756"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -777,18 +989,7 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "BTRY3080",
-                "ECON3130",
-                "ENGRD2700",
-                "MATH4710"
-            ],
-            [
-                "MATH1920",
-                "MATH2220",
-                "MATH2240"
-            ],
-            [
-                "CS3780"
+                "CS2800"
             ],
             [
                 "MATH2210",
@@ -797,21 +998,44 @@
                 "MATH2940"
             ],
             [
-                "CS2800"
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
             ],
             [
                 "CS2110",
                 "CS2112"
+            ],
+            [
+                "CS3780"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920) , programming proficiency (e.g. CS 2110), and CS 3780 or equivalent or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS4758": {
         "Title": "Autonomous Mobile Robots",
         "Course Code": "CS4758",
+        "Description": "\n            Creating robots capable of performing complex tasks autonomously requires one to address a variety of different challenges such as sensing, perception, control, planning, mechanical design, and interaction with humans. In recent years many advances have been made toward creating such systems, both in the research community (different robot challenges and competitions) and in industry (industrial, military, and domestic robots). This course gives an overview of the challenges and techniques used for creating autonomous mobile robots. Topics include sensing, localization, mapping, path planning, motion planning, obstacle and collision avoidance, and multi-robot control.\n        ",
+        "Combined Course": [
+            "CS5758",
+            "ECE4180",
+            "ECE5772",
+            "MAE4180",
+            "MAE5180"
+        ],
         "Semester Offered": [
             "SP25",
             "SP23",
@@ -829,11 +1053,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATLAB programming.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "CS4782": {
         "Title": "Introduction to Deep Learning",
         "Course Code": "CS4782",
+        "Description": "\n            This class is an introductory course to deep learning. It covers the fundamental principles behind training and inference of deep networks, the specific architecture design choices applicable for different data modalities, discriminative and generative settings, and the ethical and societal implications of such models.\n        ",
+        "Combined Course": [
+            "CS5782"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24"
@@ -848,22 +1080,30 @@
                 "CS1112"
             ],
             [
+                "CS2110"
+            ],
+            [
                 "CS3780",
                 "ECE4200",
                 "STSCI3740"
-            ],
-            [
-                "CS2110"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent and CS 3780 or ECE 4200 or STSCI 3740 and CS 1110 or CS 1112.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4789": {
         "Title": "Introduction to Reinforcement Learning",
         "Course Code": "CS4789",
+        "Description": "\n            Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and the Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications.\u00a0We will study and implement classic Reinforcement Learning algorithms.\n        ",
+        "Combined Course": [
+            "CS5789"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -882,11 +1122,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3780 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4810": {
         "Title": "Introduction to Theory of Computing",
         "Course Code": "CS4810",
+        "Description": "\n            An introduction to the classical theory of computing: automata theory, formal languages, and effective computability. Topics include finite-state machines, regular languages, regular expressions, grammars, context-free languages, pushdown automata, Turing machines, recursive and recursively enumerable sets, diagonalization, reductions, undecidability, G\u00f6del's incompleteness theorem. A complete list of topics can be found on the schedule page (subject to change). As time permits, we will explore some more modern advances such as coalgebraic methods, abstract interpretation, and concurrency.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP22"
@@ -905,11 +1151,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4813": {
         "Title": "Quantum Computing",
         "Course Code": "CS4813",
+        "Description": "\n            Quantum computing is an interdisciplinary field that lies at the intersection of computer science, mathematics, and physics. This computational paradigm relies on principles of quantum mechanics, such as superposition and entanglement, to obtain powerful algorithms.\u00a0This course aims to provide a self-contained, comprehensive introduction to quantum computing, focusing on the design and analysis of quantum algorithms, as well as covering topics in quantum information and quantum cryptography.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25"
         ],
@@ -917,15 +1169,33 @@
             3.0
         ],
         "Distribution": null,
-        "Prerequisites": [],
+        "Prerequisites": [
+            [
+                "CS2800"
+            ],
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: familiarity with basic linear algebra (e.g. MATH 2210/ 2310/ 2940), discrete math (e.g.  2800/ 2802) and probability (e.g. ENGRD 2700/MATH 4710).",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: familiarity with basic linear algebra (e.g. MATH 2210/ 2310/ 2940), discrete math (e.g.  2800/ 2802) and probability (e.g. ENGRD 2700/MATH 4710).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
     },
     "CS4820": {
         "Title": "Introduction to Analysis of Algorithms",
         "Course Code": "CS4820",
+        "Description": "\n            Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases , approximation algorithms, local search heuristics, and online algorithms).\n        ",
+        "Combined Course": [
+            "CS5820"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -943,20 +1213,28 @@
         ],
         "Prerequisites": [
             [
-                "CS3110"
+                "CS2800"
             ],
             [
-                "CS2800"
+                "CS3110"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, CS 3110. ",
+        "Comments": "Students who got an A- \u200b(or, when taken in Spring 2020, C- or S)\u00a0or better in both\u00a0CS 2800\u00a0and\u00a0CS 2110\u00a0are welcome to take CS 4820 without CS 3110.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4850": {
         "Title": "Probability, Vectors, and Matrices in Computing",
         "Course Code": "CS4850",
+        "Description": "\n            Covers the mathematical foundations for access to information. Topics include high dimensional space, random graphs, singular value decomposition, Markov processes, learning theory, and algorithms for massive data.\n        ",
+        "Combined Course": [
+            "CS5850"
+        ],
         "Semester Offered": [
             "SP25",
             "SP22"
@@ -969,27 +1247,37 @@
         ],
         "Prerequisites": [
             [
-                "CS2800"
-            ],
-            [
                 "MATH2210",
                 "MATH2940"
             ],
             [
-                "MATH1910"
+                "CS2800"
             ],
             [
                 "MATH1920"
+            ],
+            [
+                "MATH1910"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4852": {
         "Title": "Networks II: Market Design",
         "Course Code": "CS4852",
+        "Description": "\n            Networks II builds on its prerequisite course and continues to examine how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects these worlds. In this course, we will construct mathematical models for and analyze networked settings, allowing us to both make predictions about behavior in such systems, as well as reason about how to design such systems to exhibit some desirable behavior. Throughout, we will draw on real-world examples such as social networks, peer-to-peer filesharing, Internet markets, and crowdsourcing, that illustrate these phenomena.\n        ",
+        "Combined Course": [
+            "ECON3825",
+            "INFO4220",
+            "INFO6220"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1002,20 +1290,26 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS2800"
+                "INFO2040"
             ],
             [
-                "INFO2040"
+                "CS2800"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: INFO 2040, CS 2800 or equivalent.",
+        "Comments": "Knowledge of basic probability and statistics expected.\u00a0Please visit the course website and see the FAQ if you do not satisfy the prerequisites (especially INFO 2040), for further detail.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4997": {
         "Title": "Practical Training in Computer Science",
         "Course Code": "CS4997",
+        "Description": "\n            This independent study course offers CS majors (i.e., undergraduates whose applications to affiliate with the CS major have been approved)\u00a0an opportunity to reflect on concepts from computer science as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the computer science major.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1033,11 +1327,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: undergraduate CS majors whose application to affiliate has been approved and who require work authorization for an employer other than Cornell.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "CS4998": {
         "Title": "Team Projects",
         "Course Code": "CS4998",
+        "Description": "\n            Advanced independent work in computer science as part of a student-led team project.\u00a0\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1058,11 +1358,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Students must make individual arrangements with a faculty sponsor.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4999": {
         "Title": "Independent Reading and Research",
         "Course Code": "CS4999",
+        "Description": "\n            Independent reading and research for undergraduates.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1083,11 +1389,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "CS5150": {
         "Title": "Software Engineering",
         "Course Code": "CS5150",
+        "Description": "\n            Introduction to the practical problems of specifying, designing, building, testing, and delivering reliable software systems. Special topics include professionalism, project management, and the legal framework for software development. As a central part of the course, student teams carry out projects for real clients, using concepts of agile software development. Each project includes all aspects of software development from a feasibility study to final delivery.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP22"
@@ -1104,11 +1416,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent experience programming in Java or C++.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5152": {
         "Title": "Advanced Topics in Computer Game Architecture",
         "Course Code": "CS5152",
+        "Description": "\n            Students work in a multidisciplinary team to develop a game that incorporates innovative game technology. Advanced topics include 3D game development, mobile platforms, multiplayer gaming, and nontraditional input devices. There is a special emphasis on developing games that can be submitted to festivals and competitions.\n        ",
+        "Combined Course": [
+            "CS4152",
+            "INFO4152",
+            "INFO5152"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1121,13 +1443,13 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS3152"
-            ],
-            [
                 "CS3300",
                 "CS4620",
                 "CS3700",
                 "CS5414"
+            ],
+            [
+                "CS3152"
             ]
         ],
         "Corequisites": [
@@ -1137,11 +1459,20 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3152, CS 3300 or CS 4620 or CS 3700 or CS 5414. Corequisite: ENGRC 5152.",
+        "Comments": "This course is for students who are interested in the programming aspects of game development. Artists and designers should take INFO 5152.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Application required. See https://gdiac.cs.cornell.edu/gdiac/applications/ to apply.\n",
         "Need Note": false
     },
     "CS5223": {
         "Title": "Numerical Analysis: Linear and Nonlinear Problems",
         "Course Code": "CS5223",
+        "Description": "\n            Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.\n        ",
+        "Combined Course": [
+            "CS4220",
+            "MATH4260"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1153,6 +1484,10 @@
         ],
         "Distribution": null,
         "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2940"
+            ],
             [
                 "CS3220",
                 "CS4210",
@@ -1163,20 +1498,24 @@
                 "CS1112",
                 "CS1132",
                 "CS1133"
-            ],
-            [
-                "MATH2210",
-                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "CS5304": {
         "Title": "Data Science in the Wild",
         "Course Code": "CS5304",
+        "Description": "\n            Massive amounts of data are collected by many companies and organizations and the task of a data scientist is to extract actionable knowledge from the data \u2013 for scientific needs, to improve public health, to promote businesses, for social studies and for various other purposes. This course will focus on the practical aspects of the field and will attempt to provide a comprehensive set of tools for extracting knowledge from data.\n        ",
+        "Combined Course": [
+            "INFO5304"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1191,11 +1530,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5342": {
         "Title": "Trust and Safety: Platforms, Policies, Products",
         "Course Code": "CS5342",
+        "Description": "\n            Trust & Safety is an emerging field that focuses on reducing the harm from interpersonal abuse in digital spaces. The abuse types involved - harassment, misinformation, unwanted sexual content - are often \"lawful but awful,\" requiring developers to build their own socio-technical frameworks of what is appropriate behavior in their platform.\u00a0In this course, we will look at digital abuse through an analysis of historical incidents. We will study how the field developed standards across algorithmic response, product design and manual removals. Students will join teams to describe an emerging online abuse type, develop appropriate moderation pipelines (e.g., using modern machine learning such as LLMs), and detail associated policies, all in an environment mimicking the realities seen in practice.\u00a0This course might expose students to disturbing material.\n        ",
+        "Combined Course": [
+            "INFO5320"
+        ],
         "Semester Offered": [
             "SP25"
         ],
@@ -1207,11 +1554,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5356": {
         "Title": "Building Startup Systems",
         "Course Code": "CS5356",
+        "Description": "\n            This course aims to bridge the gap between academic studies of computer science and production software engineering. The course provides a fast-paced introduction to key tools and techniques that can facilitate the building of prototypes and of actual working systems. It introduces technologies for building Web applications and mobile applications, systems for effective storage of data, and tools that support and ease code writing, such as distributed version-control systems, editors and debuggers.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1219,8 +1572,6 @@
             "SP22"
         ],
         "Credits": [
-            1.0,
-            2.0,
             3.0
         ],
         "Distribution": null,
@@ -1233,11 +1584,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or CS 2112.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to Cornell Tech Students.\n",
         "Need Note": false
     },
     "CS5410": {
         "Title": "Operating Systems",
         "Course Code": "CS5410",
+        "Description": "\n            Introduction to the design of systems programs, with emphasis on multiprogrammed operating systems. Topics include concurrency, synchronization, deadlocks, memory management, protection, input-output methods, networking, file systems and security. The impact of network and distributed computing environments on operating systems is also discussed.\n        ",
+        "Combined Course": [
+            "CS4410"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1259,11 +1618,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3410 or CS 3420.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.), Computer Science (CS) students, and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5411": {
         "Title": "Practicum in Operating Systems",
         "Course Code": "CS5411",
+        "Description": "\n            Studies the practical aspects of operating systems through the design and implementation of an operating system kernel that supports multiprogramming, virtual memory, and various input-output devices. All the programming for the project is in a high-level language.\n        ",
+        "Combined Course": [
+            "CS4411"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1284,11 +1651,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: CS 5410.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5430": {
         "Title": "System Security",
         "Course Code": "CS5430",
+        "Description": "\n            Surveys security for computers and communications networks, including policy issues (e.g., the national debates on cryptography policy) as well as technical approaches for implementing properties that comprise trustworthiness for a computing system: confidentiality, integrity, availability, and assurance. Discusses cryptographic protocols and other mechanisms for implementing authorization and authentication in hardware and in software.\u00a0\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA23",
@@ -1306,11 +1679,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4410.",
+        "Comments": "Familiarity with Java, C, or C# programming languages expected.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5433": {
         "Title": "Blockchains, Cryptocurrencies, and Smart Contracts",
         "Course Code": "CS5433",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1323,21 +1702,27 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS2800"
-            ],
-            [
                 "CS2110",
                 "CS2112"
+            ],
+            [
+                "CS2800"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a good level of programming experience--specifically, the ability to deal with challenging programming tasks--familiarity with common algorithms and data structures, and an understanding of basic concepts in discrete mathematics.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": true
     },
     "CS5435": {
         "Title": "Security and Privacy Concepts in the Wild",
         "Course Code": "CS5435",
+        "Description": "\n            This course is a broad overview of modern computer security and digital privacy. It aims to impart technical and social understanding of how and why security and privacy matter, how to think adversarially, and how (and how not) to design secure systems and products. Topics include authentication, Web and mobile security, network, OS, and low-level software security, elements of applied cryptography, privacy protection technologies, censorship resistance, and security and privacy of emerging platforms, illustrated by studying real-world systems and attacks. Key learning objectives include understanding the role of threat modeling in the design and evaluation of modern computing systems, how exploitation of computing systems works, and approaches to finding and remediating vulnerabilities.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1356,11 +1741,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800 or CS 4820 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5456": {
         "Title": "Introduction to Computer Networks",
         "Course Code": "CS5456",
+        "Description": "\n            This course introduces the basic architectural and design principles of computer networking including the design of communication protocols, congestion control, routing and switching, Internet, data center networks and wireless networks.\n        ",
+        "Combined Course": [
+            "CS4450"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1376,11 +1769,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: CS 4410.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.), Computer Science (CS) students, and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5643": {
         "Title": "Physically Based Animation for Computer Graphics",
         "Course Code": "CS5643",
+        "Description": "\n            This course introduces students to fundamental physically based modeling techniques used in computer graphics for animation of rigid and deformable solids, virtual characters, fluids and gases, and other systems. Students learn the techniques by implementing a series of interactive computer programs that apply a range of representative simulation methods to simple, primarily 2D systems, and by proposing and implementing a final project.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP23"
@@ -1395,24 +1794,32 @@
                 "MATH2940"
             ],
             [
-                "PHYS1112"
+                "MATH1120",
+                "MATH1920"
             ],
             [
                 "CS4620"
             ],
             [
-                "MATH1120",
-                "MATH1920"
+                "PHYS1112"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4620 or equivalent; MATH 1120,  MATH 1920, or equivalent; MATH 2210, MATH 2940, or equivalent; PHYS 1112 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5670": {
         "Title": "Introduction to Computer Vision",
         "Course Code": "CS5670",
+        "Description": "\n            An in-depth introduction to computer vision. The goal of computer vision is to compute properties of our world - including the 3D shape of an environment, the motion of objects, and the names of things - through analysis of digital images or videos. The course covers a range of topics, including low-level vision, 3D reconstruction, and object recognition, as well as key algorithmic, optimization, and machine learning techniques, including deep learning. This course emphasizes hands-on experience with computer vision and includes several programming projects.\n        ",
+        "Combined Course": [
+            "CS4670"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1428,11 +1835,11 @@
                 "CS2800"
             ],
             [
-                "MATH2310",
-                "MATH2940"
+                "CS2110"
             ],
             [
-                "CS2110"
+                "MATH2310",
+                "MATH2940"
             ],
             [
                 "MATH1920"
@@ -1441,11 +1848,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110, CS 2800, MATH 1920 or equivalent and MATH 2310 or MATH 2940 or equivalent (Ithaca only).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.), Computer Science (CS) students, and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS5700": {
         "Title": "Foundations of AI Reasoning and Decision-Making",
         "Course Code": "CS5700",
+        "Description": "\n            Introduction to major topics in artificial intelligence, including heuristic search, game-playing, knowledge representation and reasoning, planning, probabilistic inference, sequential decision-making and reinforcement learning.\n        ",
+        "Combined Course": [
+            "CS3700"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1463,11 +1878,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5726": {
         "Title": "Applied Causal Inference using Machine Learning",
         "Course Code": "CS5726",
+        "Description": "\n            Provides an applied treatment of modern causal inference using machine learning to handle high-dimensionality and nonparametric estimation. Formulates key causal questions in the languages of structural equation modeling and potential outcomes. Presents methods for estimating and constructing confidence intervals on causal and structural parameters using machine learning, including de-biased machine learning, and for learning how to predict heterogeneous treatment effects. Introduces tools from machine learning and deep learning developed for prediction purposes and discusses how to adapt them to causal inference. Emphasizes the applied and practical perspectives with real-world-data examples and assignments. Requires basic knowledge of statistics and machine learning and programming experience in R or Python.\n        ",
+        "Combined Course": [
+            "ORIE5751"
+        ],
         "Semester Offered": [
             "SP25",
             "SP23",
@@ -1486,11 +1909,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: ORIE 5750 or CS 5785.",
+        "Comments": "Working knowledge of calculus, probability, and linear algebra as well as a modern scripting language such as Python.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5740": {
         "Title": "Natural Language Processing",
         "Course Code": "CS5740",
+        "Description": "\n            This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today's most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. The course will introduce core problems and methodologies in NLP, including machine learning, problem design, and evaluation methods.\u00a0\n        ",
+        "Combined Course": [
+            "COGST4740",
+            "CS4740",
+            "LING4474"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1505,11 +1938,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Fall (Ithaca) (4 credits):",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5756": {
         "Title": "Robot Learning",
         "Course Code": "CS5756",
+        "Description": "\n            How do we get robots out of the labs and into the real world with all it's complexities?\nRobots must solve two fundamental problems -- (1) Perception: Sense the world using different modalities and (2) Decision making: Act in the world by reasoning over decisions and their consequences. Machine learning promises to solve both problems in a scalable way using data. However, it has fallen short when it comes to robotics.\nThis course dives deep into robot learning, looks at fundamental algorithms and challenges, and case-studies of real-world applications from self-driving to manipulation.\n        ",
+        "Combined Course": [
+            "CS4756"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1522,18 +1963,7 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "BTRY3080",
-                "ECON3130",
-                "ENGRD2700",
-                "MATH4710"
-            ],
-            [
-                "MATH1920",
-                "MATH2220",
-                "MATH2240"
-            ],
-            [
-                "CS3780"
+                "CS2800"
             ],
             [
                 "MATH2210",
@@ -1542,21 +1972,44 @@
                 "MATH2940"
             ],
             [
-                "CS2800"
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
             ],
             [
                 "CS2110",
                 "CS2112"
+            ],
+            [
+                "CS3780"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3010, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920), programming proficiency (e.g. CS 2110), and CS 3780 or equivalent or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.), Computer Science (CS) students, and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS5758": {
         "Title": "Autonomous Mobile Robots",
         "Course Code": "CS5758",
+        "Description": "\n            Creating robots capable of performing complex tasks autonomously requires one to address a variety of different challenges such as sensing, perception, control, planning, mechanical design, and interaction with humans. In recent years many advances have been made toward creating such systems, both in the research community (different robot challenges and competitions) and in industry (industrial, military, and domestic robots). This course gives an overview of the challenges and techniques used for creating autonomous mobile robots. Topics include sensing, localization, mapping, path planning, motion planning, obstacle and collision avoidance, and multi-robot control.\n        ",
+        "Combined Course": [
+            "CS4758",
+            "ECE4180",
+            "ECE5772",
+            "MAE4180",
+            "MAE5180"
+        ],
         "Semester Offered": [
             "SP25",
             "SP23",
@@ -1570,11 +2023,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5775": {
         "Title": "Machine Learning Hardware and Systems",
         "Course Code": "CS5775",
+        "Description": "\n            This Master's level course will take a hardware-centric view of machine learning systems. From constrained embedded microcontrollers to large distributed multi-GPU systems, we will investigate how these platforms run machine learning algorithms. We will look at different levels of the hardware/software/algorithm stack to make modern machine learning systems possible. This includes understanding different hardware acceleration paradigms, common hardware optimizations such as low-precision arithmetic and sparsity, compilation methodologies, model compression methods such as pruning and distillation, and multi-device federated and distributed training. Through hands-on assignments and an open-ended project, students will develop a holistic view of what it takes to train and deploy a deep neural network.\n        ",
+        "Combined Course": [
+            "ECE5545"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1592,11 +2053,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: undergraduate ECE/CS degree, programming experience, introductory ML course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to Cornell Tech Students.\n",
         "Need Note": true
     },
     "CS5780": {
         "Title": "Introduction to Machine Learning",
         "Course Code": "CS5780",
+        "Description": "\n            The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include: regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.\n        ",
+        "Combined Course": [
+            "CS3780"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1612,15 +2081,7 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "BTRY3080",
-                "ECON3130",
-                "ENGRD2700",
-                "MATH4710"
-            ],
-            [
-                "MATH1920",
-                "MATH2220",
-                "MATH2240"
+                "CS2800"
             ],
             [
                 "MATH2210",
@@ -1629,7 +2090,15 @@
                 "MATH2940"
             ],
             [
-                "CS2800"
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
             ],
             [
                 "CS2110",
@@ -1639,11 +2108,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700), linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920), and programming proficiency (e.g. CS 2110).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.), Computer Science (CS) students, and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS5782": {
         "Title": "Introduction to Deep Learning",
         "Course Code": "CS5782",
+        "Description": "\n            This class is an introductory course to deep learning. It covers the fundamental principles behind training and inference of deep networks, the specific architecture design choices applicable for different data modalities, discriminative and generative settings, and the ethical and societal implications of such models.\n        ",
+        "Combined Course": [
+            "CS4782"
+        ],
         "Semester Offered": [
             "SP25"
         ],
@@ -1653,29 +2130,37 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "ECE4200"
-            ],
-            [
-                "CS3780"
+                "CS1110"
             ],
             [
                 "CS2110"
             ],
             [
+                "CS3780"
+            ],
+            [
                 "STSCI3740"
             ],
             [
-                "CS1110"
+                "ECE4200"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: ECE 4200, STSCI 3740, CS 1110, CS 3780, and CS 2110.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5789": {
         "Title": "Introduction to Reinforcement Learning",
         "Course Code": "CS5789",
+        "Description": "\n            Reinforcement Learning is one of the most popular paradigms for modelling interactive learning and sequential decision making in dynamical environments. This course introduces the basics of Reinforcement Learning and Markov Decision Process. The course will cover algorithms for planning and learning in Markov Decision Processes. We will discuss potential applications of Reinforcement Learning and their implications. We will study and implement classic Reinforcement Learning algorithms.\n        ",
+        "Combined Course": [
+            "CS4789"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1694,11 +2179,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 5780 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.) Computer Science (CS) students and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5820": {
         "Title": "Introduction to Analysis of Algorithms",
         "Course Code": "CS5820",
+        "Description": "\n            Develops techniques used in the design and analysis of algorithms, with an emphasis on problems arising in computing applications. Example applications are drawn from systems and networks, artificial intelligence, computer vision, data mining, and computational biology. This course covers four major algorithm design techniques (greedy algorithms, divide-and-conquer, dynamic programming, and network flow), undecidability and NP-completeness, and algorithmic techniques for intractable problems (including identification of structured special cases, approximation algorithms, local search heuristics, and online algorithms).\n        ",
+        "Combined Course": [
+            "CS4820"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1716,11 +2209,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Engineering (M.Eng.) Computer Science (CS) students and Computer Science Early Admit students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5850": {
         "Title": "Probability, Vectors, and Matrices in Computing",
         "Course Code": "CS5850",
+        "Description": "\n            Covers the mathematical foundations for access to information. Topics include high dimensional space, random graphs, singular value decomposition, Markov processes, learning theory, and algorithms for massive data.\n        ",
+        "Combined Course": [
+            "CS4850"
+        ],
         "Semester Offered": [
             "SP25",
             "SP22"
@@ -1731,27 +2232,33 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS2800"
-            ],
-            [
                 "MATH2210",
                 "MATH2940"
             ],
             [
-                "MATH1910"
+                "CS2800"
             ],
             [
                 "MATH1920"
+            ],
+            [
+                "MATH1910"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, MATH 1910, MATH 1920, MATH 2210 or MATH 2940.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5996": {
         "Title": "Special Topics in Computer Science",
         "Course Code": "CS5996",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25"
         ],
@@ -1763,11 +2270,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5998": {
         "Title": "Master of Engineering Internship",
         "Course Code": "CS5998",
+        "Description": "\n            Off-campus internship with industry in which a student gains knowledge and experience in the field of computer science.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1785,11 +2298,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: CS M.Eng. students.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "CS5999": {
         "Title": "Master of Engineering Project",
         "Course Code": "CS5999",
+        "Description": "\n            Independent or group project under the direction of a CS field member or researcher. Projects involve the development of a computer science application (software or hardware) useful in exploring and/or solving an engineering problem with a computer science focus.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1812,11 +2331,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: CS M.Eng. students.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "CS1620": {
         "Title": "Visual Imaging in the Electronic Age",
         "Course Code": "CS1620",
+        "Description": "\n            Interdisciplinary survey course designed to introduce students in the creative arts, science, and engineering to the concepts of 2D and 3D digital pictorial representation and display. It is a concept course that concentrates on \"why\" rather than \"how.\" Topics include perspective representations, display technology, how television works, bandwidth concepts, digital photography, computer graphics modeling and rendering, color perception, 3D data acquisition, volumetric imaging, and historical precedents, primarily from the art world.\n        ",
+        "Combined Course": [
+            "ARCH3702",
+            "ART2907",
+            "ENGRI1620"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -1829,11 +2358,23 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: CS 1110 or equivalent. Engineering students can take CS 1110 concurrently.\n",
         "Need Note": false
     },
     "CS1710": {
         "Title": "Introduction to Cognitive Science",
         "Course Code": "CS1710",
+        "Description": "\n            This course provides an introduction to the science of the mind. Everyone knows what it's like to think and perceive, but this subjective experience provides little insight into how minds emerge from physical entities like brains. To address this issue, cognitive science integrates work from at least five disciplines: Psychology, Neuroscience, Computer Science, Linguistics, and Philosophy. This course introduces students to the insights these disciplines offer into the workings of the mind by exploring visual perception, attention, memory, learning, problem solving, language, and consciousness.\u00a0\n        ",
+        "Combined Course": [
+            "COGST1101",
+            "HD1102",
+            "LING1170",
+            "PHIL1620",
+            "PSYCH1102"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1851,11 +2392,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "A 1 credit Writing in the Majors sections is available.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS2024": {
         "Title": "C++ Programming",
         "Course Code": "CS2024",
+        "Description": "\n            An intermediate introduction to the C++ programming language and the C/C++ standard libraries. Topics include basic statements, declarations, and types; stream I/O; user-defined classes and types; derived classes, inheritance, and object-oriented programming; exceptions and templates. Recommended for students who plan to take advanced courses in computer science that require familiarity with C++ or C.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1876,11 +2423,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: one programming course or equivalent programming experience.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS2112": {
         "Title": "Object-Oriented Design and Data Structures - Honors",
         "Course Code": "CS2112",
+        "Description": "\n            Intermediate software design and introduction to key computer science ideas. Topics are similar to those in CS 2110\u00a0but are covered in greater depth, with more challenging assignments. Topics include object-oriented programming, program structure and organization, program reasoning using specifications and invariants, recursion, design patterns, concurrent programming, graphical user interfaces, data structures as in CS 2110, sorting and graph algorithms, asymptotic complexity, and simple algorithm analysis. Java is the principal programming language.\n        ",
+        "Combined Course": [
+            "ENGRD2112"
+        ],
         "Semester Offered": [
             "FA24",
             "FA22"
@@ -1893,20 +2448,30 @@
         ],
         "Prerequisites": [
             [
-                "CS1112"
+                "CS1110"
             ],
             [
-                "CS1110"
+                "CS1112"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: excellent performance in CS 1110, CS 1112 or equivalent course in Java or C++, or permission of instructor.",
+        "Comments": "Honors version of CS 2110/ENGRD 2110; credit is given for only one of CS 2110\u00a0and 2112.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS2850": {
         "Title": "Networks",
         "Course Code": "CS2850",
+        "Description": "\n            This interdisciplinary course examines network structures and how they matter in everyday life. The course examines how each of the computing, economic, sociological and natural worlds are connected and how the structure of these connections affects each of these worlds. Tools of graph theory and game theory are taught and then used to analyze networks. Topics covered include the web, the small world phenomenon, markets, neural networks, contagion, search and the evolution of networks.\n        ",
+        "Combined Course": [
+            "ECON2040",
+            "INFO2040",
+            "SOC2090"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1923,11 +2488,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS3300": {
         "Title": "Visual Data Analytics for the Web",
         "Course Code": "CS3300",
+        "Description": "\n            This course will cover technologies for representing, modeling and displaying data in the context of interactive web pages. Practical skills for building web pages will be mixed with data mining algorithms and visualization design theory. We will use the D3 Javascript library to develop both static and dynamic visualizations, learn more about programming in Javascript, and explore web scalable vector graphics (SVG). Through design critique and formal study, we will identify the techniques visualization developers employ to create the \"right\" visualization for a given use case.\n        ",
+        "Combined Course": [
+            "INFO3300",
+            "INFO5100"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1949,11 +2523,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          To be added to the waitlist, see https://forms.gle/ZU1RJdQkrqYW4BBdA. Permission numbers will be sent during add/drop in August.\n",
         "Need Note": false
     },
     "CS4210": {
         "Title": "Numerical Analysis and Differential Equations",
         "Course Code": "CS4210",
+        "Description": "\n            Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.\n        ",
+        "Combined Course": [
+            "MATH4250",
+            "MATH5250"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1978,11 +2561,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.",
+        "Comments": "Students will be expected to be comfortable writing proofs and have knowledge of programming.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "CS4320": {
         "Title": "Introduction to Database Systems",
         "Course Code": "CS4320",
+        "Description": "\n            Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database designs, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelation data storage systems.\n        ",
+        "Combined Course": [
+            "CS5320"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2005,11 +2596,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110, CS 2800.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Computer Science (CS) majors. All others should add themselves to the waitlist during add/drop.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4321": {
         "Title": "Practicum in Database Systems",
         "Course Code": "CS4321",
+        "Description": "\n            Students build part of a database system in Java.\n        ",
+        "Combined Course": [
+            "CS5321"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2028,11 +2627,17 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: CS 4320 or CS 5320.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4414": {
         "Title": "Systems Programming",
         "Course Code": "CS4414",
+        "Description": "\n            CS 4414 exposes students to programming applications at the systems level and to the operating-systems abstractions that these applications depend on. Students learn to make design choices guided by performance, hardware, security and other systems properties. Operating systems abstractions covered include process and memory management, file systems and storage, networking, threads and multiprocess concurrency along with synchronization abstractions including locks and condition variables, and security abstractions for isolation and authorization. Students gain experience with C/C++ programming, major command-line tools and techniques for debugging, instrumenting and tuning applications.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "SP23"
@@ -2049,11 +2654,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: CS 3410\u00a0or ECE 2400.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4420": {
         "Title": "Computer Architecture",
         "Course Code": "CS4420",
+        "Description": "\n            This course aims to provide a strong foundation for students to understand modern computer system architecture and to apply these insights and principles to future computer designs. The course is structured around the three primary building blocks of general-purpose computing systems: processors, memories, and networks. The first half of the course focuses on the fundamentals of each building block. Topics include processor microcoding and pipelining; cache microarchitecture and optimization; and network topology, routing, and flow control. The second half of the course delves into more advanced techniques and will enable students to understand how these three building blocks can be integrated to build a modern shared-memory multicore system. Topics include superscalar execution, branch prediction, out-of-order execution, register renaming and memory disambiguation; VLIW, vector, and multithreaded processors; memory protection, translation, and virtualization; and memory synchronization, consistency, and coherence. This course includes a significant project decomposed into five lab assignments. Throughout the semester, students will gradually design, implement, test, and evaluate a complete multicore system capable of running real parallel applications at the register-transfer level.\n        ",
+        "Combined Course": [
+            "ECE4750",
+            "ECE5740"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2073,11 +2687,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3420/ECE 3140 or CS 3410.",
+        "Comments": "Students should feel comfortable working with a hardware description language such as Verilog, SystemVerilog, or VHDL.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4620": {
         "Title": "Introduction to Computer Graphics",
         "Course Code": "CS4620",
+        "Description": "\n            Introduction to the principles of computer graphics in two and three dimensions. \u00a0Topics include\u00a0digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. This course emphasizes fundamental techniques in graphics, with both written and practical assignments. \u00a0May be taken with or without concurrent enrollment in CS 4621.\n        ",
+        "Combined Course": [
+            "CS5620"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2091,13 +2713,13 @@
         ],
         "Prerequisites": [
             [
-                "MATH1910",
-                "MATH1120"
-            ],
-            [
                 "MATH2940",
                 "MATH2210",
                 "MATH2310"
+            ],
+            [
+                "MATH1910",
+                "MATH1120"
             ],
             [
                 "CS2110",
@@ -2107,11 +2729,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4621": {
         "Title": "Computer Graphics Practicum",
         "Course Code": "CS4621",
+        "Description": "\n            Provides CS 4620\u00a0students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.\u00a0 A final project involves building a substantial interactive graphics system.\u00a0 The course uses Javascript and WebGL for code development.\n        ",
+        "Combined Course": [
+            "CS5621"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2129,11 +2759,20 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: CS 4620.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite or corequisite: CS 4620.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4745": {
         "Title": "Computational Linguistics II",
         "Course Code": "CS4745",
+        "Description": "\n            An in-depth exploration of modern computational linguistic techniques. A continuation of\u00a0 LING 4424 - Computational Linguistics I. Whereas LING 4424\u00a0covers foundational techniques in symbolic computational modeling, this course will cover a wider range of applications as well as coverage of neural network methods. We will survey a range of neural network techniques that are widely used in computational linguistics and natural language processing as well as a number of techniques that can be used to probe the linguistic information and language processing strategies encoded in computational models. We will examine ways of mapping this linguistic information both to linguistic theory as well as to measures of human processing (e.g., neuroimaging data and human behavioral responses).\n        ",
+        "Combined Course": [
+            "LING4434",
+            "LING6434"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2154,11 +2793,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: LING 4424 and one other 3000 level or above linguistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "CS4750": {
         "Title": "Foundations of Robotics",
         "Course Code": "CS4750",
+        "Description": "\n            Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.\u00a0\n        ",
+        "Combined Course": [
+            "CS5750",
+            "ECE4770",
+            "MAE4760"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2172,29 +2821,38 @@
         ],
         "Prerequisites": [
             [
-                "MATH2940"
-            ],
-            [
-                "CS2110"
-            ],
-            [
                 "CS2800"
             ],
             [
                 "MATH1920"
             ],
             [
+                "CS2110"
+            ],
+            [
                 "CS1112"
+            ],
+            [
+                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS4775": {
         "Title": "Computational Genetics and Genomics",
         "Course Code": "CS4775",
+        "Description": "\n            Computational methods for analyzing genetic and genomic data. Topics include sequence alignment, hidden Markov Models for discovering sequence features, motif finding using Gibbs sampling, phylogenetic tree reconstruction, inferring haplotypes, and local and global ancestry inference. Prior knowledge of biology is not necessary to complete this course.\n        ",
+        "Combined Course": [
+            "BIOCB4840",
+            "BIOCB6840"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2210,20 +2868,28 @@
         ],
         "Prerequisites": [
             [
-                "CS2110"
+                "BTRY3010"
             ],
             [
-                "BTRY3010"
+                "CS2110"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: BTRY 3010, CS 2110 or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: BTRY 3010 and CS 2110 or equivalents.\n",
         "Need Note": false
     },
     "CS4814": {
         "Title": "Introduction to Computational Complexity",
         "Course Code": "CS4814",
+        "Description": "\n            Explores the power and limitations of efficient computation. Understanding\u00a0how the notion of efficient\u00a0computation changes with respect to resources such as time, space, randomness, advice, and interaction.\u00a0Concrete computational models that we will study will include Turing machines, Boolean circuits, Decision trees, and Branching Programs. Advanced topics may include error-correcting codes,\u00a0probabilistic checkable proofs, and circuit lower bounds.\n        ",
+        "Combined Course": [
+            "CS5814"
+        ],
         "Semester Offered": [
             "FA24"
         ],
@@ -2239,11 +2905,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4820.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4830": {
         "Title": "Introduction to Cryptography",
         "Course Code": "CS4830",
+        "Description": "\n            A rigorous introduction to the theoretical foundations of the cryptography\u00a0that powers much of the modern world. Topics include one-way functions, secret-key encryption, zero-knowledge proofs, signatures, public-key encryption etc.\u00a0As this is a theoretical class, the emphasis will be on formal definitions and proofs.\n        ",
+        "Combined Course": [
+            "CS5830",
+            "CS6830"
+        ],
         "Semester Offered": [
             "FA24",
             "SP23",
@@ -2263,11 +2938,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4820.",
+        "Comments": "Note: This is a theory course. You will be expected to read and write formal definitions and mathematical proofs. This is not a course in security: you will not learn how to design secure systems. Instead, you will learn some of the (beautiful) mathematics that forms one component of secure systems.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5112": {
         "Title": "Algorithms and Data Structures for Applications",
         "Course Code": "CS5112",
+        "Description": "\n            Fundamental algorithms and data structures used in current applications. Algorithms include graph algorithms, hashing and streaming/sketching techniques. Applications will include selected topics in storage and memory systems, machine learning and security.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -2285,11 +2966,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: sophomore level understanding of basic programming, algorithms, and data structures, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech\u00a0students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": true
     },
     "CS5220": {
         "Title": "Applied High-Performance and Parallel Computing",
         "Course Code": "CS5220",
+        "Description": "\n            Models for parallel programming and survey of parallel machines. Existing parallel programming languages, vectorizing compilers, and parallel libraries and toolboxes.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "SP24",
@@ -2299,15 +2986,28 @@
             4.0
         ],
         "Distribution": null,
-        "Prerequisites": [],
+        "Prerequisites": [
+            [
+                "CS4210",
+                "CS4220"
+            ]
+        ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: course in numerical methods.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS5320": {
         "Title": "Introduction to Database Systems",
         "Course Code": "CS5320",
+        "Description": "\n            Introduction to modern database and data storage systems. Concepts covered include data models, query languages, database design, storage structures, access methods, query processing and optimization, transaction management, and recovery in both relational and nonrelational data storage systems.\n        ",
+        "Combined Course": [
+            "CS4320"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2326,11 +3026,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or CS 2800.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Direct enrollment is restricted to Computer Science (CS), Doctor of Philosophy (PhD), Master of Science (MS), and Master of Engineering (M.Eng.) students. Seniors taking courses for M.Eng credit and all other graduate and professional students must add themselves to the waitlist during add/drop.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5321": {
         "Title": "Practicum in Database Systems",
         "Course Code": "CS5321",
+        "Description": "\n            Students build part of a real database system in C++ Java.\n        ",
+        "Combined Course": [
+            "CS4321"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -2347,11 +3055,17 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: CS 5320.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Direct enrollment is restricted to Computer Science (CS), Doctor of Philosophy (PhD), Master of Science (MS), and Master of Engineering (M.Eng.) students. Seniors taking courses for M.Eng credit and all other graduate and professional students must add themselves to the waitlist during add/drop.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5414": {
         "Title": "Distributed Computing Principles",
         "Course Code": "CS5414",
+        "Description": "\n            Studies the abstractions and algorithms that constitute the foundations for implementing concurrent and distributed computing, with emphasis on supporting fault-tolerance. Topics vary to reflect advances in the field but typically include global state snapshots, causality and clocks (logical and physical), agreement and consensus, primary-backup and state-machine replication, quorums, and gossip. Students undertake a substantial software project to put these ideas into practice. Many students obtain additional project credit by co-registering in CS 4999\u00a0or CS 5999.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "SP24",
@@ -2369,11 +3083,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4410 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5420": {
         "Title": "Advanced Computer Architecture",
         "Course Code": "CS5420",
+        "Description": "\n            This course discusses advanced topics in computer architecture beyond the material that is covered in undergraduate courses such as ECE 4750/CS 4420. In particular, the course places special focus on multicore and multiprocessor architectures (coherence, consistency, synchronization, interconnects, OS support, etc.), as well as advanced architecture techniques (simultaneous multithreading, speculative loads and stores, neural branch predictors, hardware resource management, memory scheduling, etc.) Students work on parallel programming assignments that emphasize hardware-aware performance optimization.\n        ",
+        "Combined Course": [
+            "ECE6750"
+        ],
         "Semester Offered": [
             "FA24",
             "FA22"
@@ -2391,11 +3113,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: ECE 4750 or CS 4420.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5436": {
         "Title": "Privacy in the Digital Age",
         "Course Code": "CS5436",
+        "Description": "\n            This course introduces students to privacy technologies and surveys the current state of digital privacy from multiple perspectives, including technology, law, policy, ethics, economics, and surveillance.\n        ",
+        "Combined Course": [
+            "INFO5303"
+        ],
         "Semester Offered": [
             "FA24",
             "SP23",
@@ -2409,11 +3139,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5620": {
         "Title": "Introduction to Computer Graphics",
         "Course Code": "CS5620",
+        "Description": "\n            Introduction to the principles of computer graphics in two and three dimensions. Topics include digital images, filtering and antialiasing, 2-D and 3-D affine geometry, ray tracing, perspective and 3-D viewing, the graphics pipeline, curves and surfaces, and human visual perception. Homework assignments require some Java programming.\n        ",
+        "Combined Course": [
+            "CS4620"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2425,13 +3163,13 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "MATH1910",
-                "MATH1120"
-            ],
-            [
                 "MATH2940",
                 "MATH2210",
                 "MATH2310"
+            ],
+            [
+                "MATH1910",
+                "MATH1120"
             ],
             [
                 "CS2110",
@@ -2441,11 +3179,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or ENGRD 2110, and MATH 1910 or MATH 1120, and MATH 2940 or MATH 2210 or MATH 2310 or equivalent.",
+        "Comments": "May be taken with or without concurrent enrollment in\u00a0CS 4621.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5621": {
         "Title": "Computer Graphics Practicum",
         "Course Code": "CS5621",
+        "Description": "\n            Provides CS 4620\u00a0students with hands-on experience in computer graphics programming on modern graphics hardware. This course emphasizes effective use of graphics APIs and the architecture of graphics applications.\u00a0 A final project involves building a substantial interactive graphics system.\u00a0 The course uses Javascript and WebGL for code development.\n        ",
+        "Combined Course": [
+            "CS4621"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2463,11 +3209,19 @@
             ]
         ],
         "Specific Requirements": "Prerequisite or corequisite: CS 5620.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite or corequisite: CS 5620.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5650": {
         "Title": "Virtual and Augmented Reality",
         "Course Code": "CS5650",
+        "Description": "\n            This course presents an introduction to virtual and augmented reality technologies, with focus on fundamental principles from 3D math, human perception, graphics, and interaction. Concepts from the contributing fields of computer vision, computer graphics and human computer interaction will be introduced in the context of virtual and augmented reality. Students will be tasked with creating their own virtual or augmented reality application as a course project.\n        ",
+        "Combined Course": [
+            "INFO5340"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2481,11 +3235,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Intermediate programming ability in C# or other object-oriented lagnuages. Familiarity with 3D game engines or strong desire to learn basic linear algebra.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5682": {
         "Title": "HCI and Design",
         "Course Code": "CS5682",
+        "Description": "\n            Human-Computer Interaction (HCI) and design theory and techniques. Methods for designing, prototyping, and evaluating user interfaces. Basics of visual design, graphic design, and interaction design. Understanding human capabilities, interface technology, interface design methods, prototyping tools, and interface evaluation tools and techniques.\n        ",
+        "Combined Course": [
+            "INFO6410"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2499,11 +3261,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Students are expected to have previously taken a course in programming, design, or psychology, or should have equivalent professional experience in one of these areas.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5727": {
         "Title": "Optimization Methods",
         "Course Code": "CS5727",
+        "Description": "\n            This course covers algorithmic and computational tools for solving optimization problems with the goal of providing decision-support for business intelligence. We will cover the fundamentals of linear, integer and nonlinear optimization. We will emphasize optimization as a large-scale computational tool, and show how to link programming languages with optimization software to develop industrial-strength decision-support systems. We will demonstrate how to incorporate uncertainty into optimization problems. Throughout the course, we will cover\u00a0a variety of modern applications, including pricing and marketing for e-commerce, ad auctions on the web, and on-line ride-sharing.\n        ",
+        "Combined Course": [
+            "ORIE5380"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2517,11 +3287,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5750": {
         "Title": "Foundations of Robotics",
         "Course Code": "CS5750",
+        "Description": "\n            Robotics is interdisciplinary and draws inspiration from many different fields towards solving a variety of tasks in real-world environments using physical systems. This course is a challenging introduction to basic computational concepts used broadly in robotics. By the end of this course, students should have a fundamental understanding of how the different sub-fields of robotics such as kinematics, state-estimation, motion planning, and controls come together to develop intelligent behaviors in physical robotic systems. The mathematical basis of each area will be emphasized, and concepts will be motivated using common robotics applications. Students will be evaluated using a mixture of theoretical and programming exercises throughout the semester.\u00a0\n        ",
+        "Combined Course": [
+            "CS4750",
+            "ECE4770",
+            "MAE4760"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2533,29 +3313,35 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "MATH2940"
-            ],
-            [
-                "CS2110"
-            ],
-            [
                 "CS2800"
             ],
             [
                 "MATH1920"
             ],
             [
+                "CS2110"
+            ],
+            [
                 "CS1112"
+            ],
+            [
+                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 1112, CS 2110, CS 2800, MATH 1920, MATH 2940 or their equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5781": {
         "Title": "Machine Learning Engineering",
         "Course Code": "CS5781",
+        "Description": "\n            Machine learning is increasingly driven by advances in the underlying hardware and software systems. This course will focus on the challenges inherent to engineering machine learning systems to be correct, robust, and fast. The course walks through the development of a software library for machine learning from scratch, with each assignment requiring students to build models in their own library. Topics will include: tensor languages and auto-differentiation; model debugging, testing, and visualization; fundamentals of GPUs; compression and low-power inference. Guest lectures will cover current topics from ML engineers.\n\u00a0\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2573,11 +3359,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110 or equivalent programming experience.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech Students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5785": {
         "Title": "Applied Machine Learning",
         "Course Code": "CS5785",
+        "Description": "\n            Learn and apply key concepts of modeling, analysis and validation from machine learning, data mining and signal processing to analyze and extract meaning from data. Implement algorithms and perform experiments on images, text, audio and mobile sensor measurements. Gain working knowledge of supervised and unsupervised techniques including classification, regression, clustering, feature selection, and dimensionality reduction.\n        ",
+        "Combined Course": [
+            "ECE5414",
+            "ORIE5750"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -2601,11 +3396,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800 or equivalent, basic familiarity with Matlab or Python, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": true
     },
     "CS5787": {
         "Title": "Deep Learning",
         "Course Code": "CS5787",
+        "Description": "\n            Students will learn deep neural network fundamentals, including, but not limited to, feed-forward neural networks, convolutional neural networks, network architectures, optimization methods, practical issues, recurrent neural networks, transformers, generative models, foundation models, current limitations of deep learning, and visualization techniques. We still study applications to problems in computer vision and to a lesser extent other domains such as natural language and audio processing.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "SP23",
@@ -2617,23 +3418,31 @@
         "Distribution": null,
         "Prerequisites": [
             [
+                "ORIE5750"
+            ],
+            [
                 "ECE5414"
             ],
             [
                 "CS5785"
-            ],
-            [
-                "ORIE5750"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 5785, ECE 5414, ORIE 5750.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech\u00a0students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Cornell Tech students.\n",
         "Need Note": false
     },
     "CS5814": {
         "Title": "Introduction to Computational Complexity",
         "Course Code": "CS5814",
+        "Description": "\n            Explores the power and limitations of efficient computation. Understanding\u00a0how the notion of efficient\u00a0computation changes with respect to resources such as time, space, randomness, advice, and interaction.\u00a0Concrete computational models that we will study will include Turing machines, Boolean circuits, Decision trees, and Branching Programs. Advanced topics may include error-correcting codes,\u00a0probabilistic checkable proofs, and circuit lower bounds.\n        ",
+        "Combined Course": [
+            "CS4814"
+        ],
         "Semester Offered": [
             "FA24"
         ],
@@ -2649,11 +3458,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4820. ",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": false
     },
     "CS5830": {
         "Title": "Cryptography",
         "Course Code": "CS5830",
+        "Description": "\n            Introductory course in Cryptography. Topics include one-time pads, stream ciphers, block ciphers, authenticated encryption, asymmetric encryption, digital signatures, and more. The focus is on contemporary cryptographic algorithms used in practice, with some introduction to formal analyses.\n        ",
+        "Combined Course": [
+            "CS4830",
+            "CS6830"
+        ],
         "Semester Offered": [
             "FA24",
             "SP23",
@@ -2675,11 +3493,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800 or equivalent, CS 4810 or mathematical maturity, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
         "Need Note": true
     },
     "CS5854": {
         "Title": "Networks and Markets",
         "Course Code": "CS5854",
+        "Description": "\n            The course examines how the computing, economic and sociological worlds are connected and how these connections affects these worlds. Tools from computer science, game theory and mathematics are introduced and then used to analyze network structures present in everyday life. Topics covered include social networks, web search, auctions, markets, voting, and crypto-currencies (e.g. bitcoin).\n        ",
+        "Combined Course": [
+            "ORIE5138"
+        ],
         "Semester Offered": [
             "FA24",
             "SP24"
@@ -2692,11 +3518,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: basic probability.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to Cornell Tech Students.\n",
         "Need Note": true
     },
     "CS1380": {
         "Title": "Data Science for All",
         "Course Code": "CS1380",
+        "Description": "\n            This course provides an introduction to data science using the statistical programming language R. We focus on building skills in inferential thinking and computational thinking, guided by the practical questions we seek to answer from data sets arising in medicine, economics and other social sciences. The course starts with essential R programming principles, and how to use R for data manipulation, visualization, and sampling. These techniques are then used to summarize and visualize real data sets, draw meaningful conclusions from those data, and assess the uncertainty surrounding those conclusions. Throughout the process, students will learn to develop hypotheses about their data, and use simulations and statistical techniques to test these hypotheses. The course also covers how to use the Tidyverse open-source R packages to clean and organize complex data sets, and create high quality graphics for data visualization.\n        ",
+        "Combined Course": [
+            "INFO1380",
+            "ORIE1380",
+            "STSCI1380"
+        ],
         "Semester Offered": [
             "SP24",
             "SP23",
@@ -2713,11 +3549,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Assumes basic high school mathematics. No calculus or programming experience required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS2770": {
         "Title": "Excursions in Computational Sustainability",
         "Course Code": "CS2770",
+        "Description": "\n            Balancing environmental, economic, and societal needs for a sustainable future encompasses problems of unprecedented size and complexity. Computing and information science can play an important role in addressing critical sustainability challenges faced by present and future generations. The goal of the course is to introduce students to a range of sustainability challenges and to computational methods that can help address such challenges. Sustainability topics include sustainable development, biodiversity and wildlife conservation, poverty mitigation, food security, renewable resources, energy, transportation, and climate change. In the context of these sustainability topics, the course will introduce students to mathematical and computational modeling techniques, algorithms, and statistical methods. The course is at the introductory undergraduate level. Students are expected to have basic knowledge of probability theory and calculus.\n        ",
+        "Combined Course": [
+            "AEM2770",
+            "INFO2770"
+        ],
         "Semester Offered": [
             "SP24",
             "SP23"
@@ -2732,11 +3577,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Students are expected to have basic knowledge of probability theory and calculus.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisites: Students are expected to have basic knowledge of probability theory and calculus.\n",
         "Need Note": false
     },
     "CS4110": {
         "Title": "Programming Languages and Logics",
         "Course Code": "CS4110",
+        "Description": "\n            An introduction to the theory, design, and implementation of programming languages. Topics include operational semantics, type systems, higher-order functions, scope, lambda calculus, laziness, exceptions, side effects, continuations, objects, and modules. Also discussed are logic programming, concurrency, and distributed programming.\n        ",
+        "Combined Course": [
+            "CS5110"
+        ],
         "Semester Offered": [
             "SP24"
         ],
@@ -2754,11 +3607,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS students only. All others should add themselves to the waitlist when add/drop opens in January. See enrollment webpage for more details: https://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS4700": {
         "Title": "Foundations of Artificial Intelligence",
         "Course Code": "CS4700",
+        "Description": "\n            Challenging introduction to the major subareas and current research directions in artificial intelligence. Topics include: knowledge representation, heuristic search, problem solving, natural-language processing, game-playing, logic and deduction, planning, and machine learning.\n        ",
+        "Combined Course": [
+            "CS5700"
+        ],
         "Semester Offered": [
             "SP24",
             "FA23",
@@ -2784,11 +3645,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2110/ENGRD 2110 and CS 2800, or by permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS students only. All others should add themselves to the waitlist during add/drop. See enrollment webpage for more details: https://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS4780": {
         "Title": "Introduction to Machine Learning",
         "Course Code": "CS4780",
+        "Description": "\n            The course provides an introduction to machine learning, focusing on supervised learning and its theoretical foundations. Topics include regularized linear models, boosting, kernels, deep networks, generative models, online learning, and ethical questions arising in ML applications.\n        ",
+        "Combined Course": [
+            "CS5780"
+        ],
         "Semester Offered": [
             "SP24",
             "FA23",
@@ -2804,15 +3673,7 @@
         ],
         "Prerequisites": [
             [
-                "BTRY3080",
-                "ECON3130",
-                "ENGRD2700",
-                "MATH4710"
-            ],
-            [
-                "MATH1920",
-                "MATH2220",
-                "MATH2240"
+                "CS2800"
             ],
             [
                 "MATH2210",
@@ -2821,7 +3682,15 @@
                 "MATH2940"
             ],
             [
-                "CS2800"
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ],
+            [
+                "BTRY3080",
+                "ECON3130",
+                "ENGRD2700",
+                "MATH4710"
             ],
             [
                 "CS2110",
@@ -2831,11 +3700,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 2800, probability theory (e.g. BTRY 3080, ECON 3130, MATH 4710, ENGRD 2700) and linear algebra (e.g. MATH 2940), calculus (e.g. MATH 1920) and programming proficiency (e.g. CS 2110).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS students only. All others should add themselves to the waitlist in January during add/drop.\n",
         "Need Note": true
     },
     "CS5110": {
         "Title": "Programming Languages and Logics",
         "Course Code": "CS5110",
+        "Description": "\n            An introduction to the theory, design, and implementation of programming languages. Topics include operational semantics, type systems, higher-order functions, scope, lambda calculus, laziness, exceptions, side effects, continuations, objects, and modules. Also discussed are logic programming, concurrency, and distributed programming.\n        ",
+        "Combined Course": [
+            "CS4110"
+        ],
         "Semester Offered": [
             "SP24"
         ],
@@ -2851,11 +3728,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS students only. All others should add themselves to the waitlist when add/drop opens in January. See enrollment webpage for more details: https://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS5306": {
         "Title": "Crowdsourcing and Human Computation",
         "Course Code": "CS5306",
+        "Description": "\n            \"Crowdsourcing\" and \"human computation\" refer to various ways that computing has brought together human labor to achieve outcomes that were previously beyond our individual capabilities or expectations. \u00a0Wikipedia's millions of articles, the success of Linux and other open source software projects, citizen science, and the generation of large datasets for machine learning and artificial intelligence using \"microlabor\" are all examples of ways in which technology and people together have exceeded the capabilities of people or machines in isolation. This course will survey the state of the art in this area and give practical knowledge of the area, grounded in numerous examples in diverse settings.\n        ",
+        "Combined Course": [
+            "INFO5306"
+        ],
         "Semester Offered": [
             "SP24",
             "FA22"
@@ -2868,11 +3753,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: advanced coursework in Computer Science.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          This course is restricted to CS MEng students only. All others will need to add themselves to the waitlist during add/drop in January. Please see the website for more information: https://www.cs.cornell.edu/courseinfo/enrollment\n",
         "Need Note": true
     },
     "CS5382": {
         "Title": "Practical Principles for Designing Fair Algorithms",
         "Course Code": "CS5382",
+        "Description": "\n            Algorithms increasingly guide high-stakes decision-making across many domains. This has potential upsides, since algorithms can improve decision-making, but also serious risks, since recent years have showcased the many ways that algorithms can be biased. This course will teach you principles for designing fair algorithms, emphasizing accessibility to a broad audience via practical takeaways which are directly relevant to the real world through case studies and guest speakers. Case studies will be drawn from diverse settings where algorithms are applied, such as large language models, speech recognition systems, healthcare, criminal justice, sustainability, and education. Students will come away with a strong understanding of how algorithm-related choices can have widespread societal impact.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP24"
         ],
@@ -2884,11 +3775,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Students should have experience coding in Python and have taken at least one introductory course in machine learning or data science.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC at Cornell Tech.\n",
         "Need Note": false
     },
     "CS5450": {
         "Title": "Networked and Distributed Systems",
         "Course Code": "CS5450",
+        "Description": "\n            This course introduces students to the design and implementation of networked and distributed systems. Topics include the basics of networking (including Internet architecture, TCP/IP, Wi-Fi, and routing), distributed protocols, foundations of cloud computing, reliability, fault tolerance, and security in distributed systems, and introduction to performance evaluation. Course labs and projects include a significant implementation component and require working knowledge of C/C++.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP24"
         ],
@@ -2904,11 +3801,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4410.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC at Cornell Tech. Enrollment limited to Cornell Tech Students only.\n",
         "Need Note": false
     },
     "CS5678": {
         "Title": "3D User Interfaces",
         "Course Code": "CS5678",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP24",
             "SP23",
@@ -2922,11 +3825,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: course in 3D math (vectors, matrices, transformations) and in Intermediate programming in C# or other object-oriented programming language. Recommended prerequisite to have some coursework in Unity 3D.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC at Cornell Tech. Enrollment Limited to Cornell Tech Students.\n",
         "Need Note": true
     },
     "CS4783": {
         "Title": "Mathematical Foundations of Machine Learning",
         "Course Code": "CS4783",
+        "Description": "\n            Machine Learning (ML) is a ubiquitous technology. This course, which is a follow up to an introductory course on ML will cover topics that aim to provide a theoretical foundation for designing and analyzing ML algorithms. This course has three basic blocks. First block will provide basic mathematical and statistical toolset required for formalizing ML problems effectively and analyzing them. This block will include topics like generalization, sample complexity of learning algorithm and understanding the inherent challenges in various ML frameworks and models. The second block will provide the foundations in algorithms design and optimization techniques required for building and analyzing various ML algorithms. This block will cover topics like gradient descent, stochastic gradient descent, algorithm design for online learning and computational challenges in ML. ML algorithms are deployed in real world and make decisions that affect real world users. The third block, will cover topics on how to formally reason about and how to design ML methods that address social and user related concerns that ML algorithms need to deal with. This block will cover topics such as fairness, privacy, the right to be forgotten and other such issues and how to build ML algorithms that address or assuage these concerns.\n        ",
+        "Combined Course": [
+            "CS5783"
+        ],
         "Semester Offered": [
             "FA23",
             "SP22"
@@ -2946,11 +3857,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS students only. All others should add themselves to the waitlist during add/drop. See enrollment webpage for more details: https://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS4787": {
         "Title": "Principles of Large-Scale Machine Learning Systems",
         "Course Code": "CS4787",
+        "Description": "\n            An introduction to the mathematical and algorithms design principles and tradeoffs that underlie large-scale machine learning on big training sets. Topics include: stochastic gradient descent and other scalable optimization methods, mini-batch training, accelerated methods, adaptive learning rates, parallel and distributed training, and quantization and model compression.\n        ",
+        "Combined Course": [
+            "CS5777"
+        ],
         "Semester Offered": [
             "FA23",
             "FA22"
@@ -2963,21 +3882,32 @@
         ],
         "Prerequisites": [
             [
-                "CS2110"
-            ],
-            [
                 "CS4780",
                 "CS5780"
+            ],
+            [
+                "CS2110"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4780 or CS 5780, CS 2110 or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4812": {
         "Title": "Quantum Information Processing",
         "Course Code": "CS4812",
+        "Description": "\n            Hardware that exploits quantum phenomena can dramatically alter the nature of computation. Though constructing a general purpose quantum computer remains a formidable technological challenge, there has been much recent experimental progress. In addition, the theory of quantum computation is of interest in itself, offering new perspectives on the nature of computation and information, as well as providing novel insights into the conceptual puzzles posed by quantum theory. This course is intended for physicists, unfamiliar with computational complexity theory or cryptography, and for computer scientists and mathematicians with prior exposure to quantum mechanics. Topics include: simple quantum algorithms, error correction, cryptography, teleportation, and uses of quantum computing devices either currently available or to be available in the near future.\n        ",
+        "Combined Course": [
+            "AEP4812",
+            "AEP7681",
+            "PHYS4481",
+            "PHYS7681"
+        ],
         "Semester Offered": [
             "FA23",
             "FA22"
@@ -2999,11 +3929,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: PHYS 3316 or AEP 3610.",
+        "Comments": "Prior familiarity with group theory is very helpful.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Due to the recent introduction of two new courses: AEP 3100 (Introductory Quantum Computing) and ECE 4950 (Quantum Information Science), the existing Physics 4481-7681 / AEP 4812-7681 / CS 4812 will transition back in Fall 2022 more towards upper-level undergraduates and graduate students. That means it will assume more in the way of prior familiarity with quantum mechanics and associated mathematics than it has in recent years, in order to be able to cover more advanced material towards the end of the semester. Depending on interests of students, that could include topics such as measures of entanglement (Von Neumann and Renyi entropy, purity, mutual information), evolution/manipulation of quantum states (weak measurements, quantum channels, Clifford group simulations), behavior of many-body systems (Area-law and volume-law entropy scaling, eigenstate thermalization hypothesis), and related. Go to https://pgcourse.infosci.cornell.edu/cgi-bin/waitlist.py for permission to enroll.\n",
         "Need Note": false
     },
     "CS4860": {
         "Title": "Applied Logic",
         "Course Code": "CS4860",
+        "Description": "\n            Topics chosen from the following: propositional logic, first-order logic, and higher-order logic, both classical and intuitionistic versions, including completeness, incompleteness, and compactness results. Natural deduction and tableaux style logics and connection to the lambda calculus and programming languages and logics, and program verification.\n        ",
+        "Combined Course": [
+            "MATH4860"
+        ],
         "Semester Offered": [
             "FA23"
         ],
@@ -3024,11 +3962,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5154": {
         "Title": "Software Testing",
         "Course Code": "CS5154",
+        "Description": "\n            Software testing is a widely used approach for detecting flaws in software. Systematic and organized approaches to software testing will be covered, including test adequacy criteria, manual and automatic generation of test inputs, regression testing, debugging, and dynamic analyses for detecting known classes of software errors.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA23",
             "FA22"
@@ -3046,11 +3990,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: graduate standing in CS, or CS majors who have taken CS 3110 or CS 4120, or permission of instructor required.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment is restricted to CS PhD, MS, MEng. All other students, including CS MEng early admit students, must add themselves to the waitlist during add/drop. See website for details: http://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses.\n",
         "Need Note": false
     },
     "CS5424": {
         "Title": "Developing and Designing Interactive Devices",
         "Course Code": "CS5424",
+        "Description": "\n            This course covers the human-centered and technical workings behind interactive devices ranging from cell phones and video controllers to household appliances and smart cars. This is a hands-on, lab-based course. For the final project, students will build a functional IoT prototype of their own design, using Javascript, single-board Linux computer, embedded microcontrollers, and/or other electronic components. Topics include electronics prototyping, interface design, sensors and actuators, microcontroller development, physical prototyping, and user testing.\n        ",
+        "Combined Course": [
+            "ECE5413",
+            "INFO5345"
+        ],
         "Semester Offered": [
             "FA23",
             "FA22"
@@ -3063,11 +4016,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: basic programming experience.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC at Cornell Tech. Enrollment limited to Cornell Tech students only. A $240 course fee will be required.\n",
         "Need Note": true
     },
     "CS5777": {
         "Title": "Principles of Large-Scale Machine Learning Systems",
         "Course Code": "CS5777",
+        "Description": "\n            An introduction to the mathematical and algorithms design principles and tradeoffs that underlie large-scale machine learning on big training sets. Topics include: stochastic gradient descent and other scalable optimization methods, mini-batch training, accelerated methods, adaptive learning rates, parallel and distributed training, and quantization and model compression.\n        ",
+        "Combined Course": [
+            "CS4787"
+        ],
         "Semester Offered": [
             "FA23",
             "FA22"
@@ -3078,21 +4039,29 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS2110"
-            ],
-            [
                 "CS4780",
                 "CS5780"
+            ],
+            [
+                "CS2110"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4780 or CS 5780, CS 2110 or equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Direct enrollment is restricted to CS PhD, MS and MEng students. Seniors taking courses for M.Eng credit and all other graduate and professional students must add themselves to the waitlist during add/drop. Undergraduates who are not taking M.Eng credit will not be permitted and must enroll/waitlist for the 4xxx version. See website for details: http://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS5783": {
         "Title": "Mathematical Foundations of Machine Learning",
         "Course Code": "CS5783",
+        "Description": "\n            Machine Learning (ML) is a ubiquitous technology. This course, which is a follow up to an introductory course on ML will cover topics that aim to provide a theoretical foundation for designing and analyzing ML algorithms. This course has three basic blocks. First block will provide basic mathematical and statistical toolset required for formalizing ML problems effectively and analyzing them. This block will include topics like generalization, sample complexity of learning algorithm and understanding the inherent challenges in various ML frameworks and models. The second block will provide the foundations in algorithms design and optimization techniques required for building and analyzing various ML algorithms. This block will cover topics like gradient descent, stochastic gradient descent, algorithm design for online learning and computational challenges in ML. ML algorithms are deployed in real world and make decisions that affect real world users. The third block, will cover topics on how to formally reason about and how to design ML methods that address social and user related concerns that ML algorithms need to deal with. This block will cover topics such as fairness, privacy, the right to be forgotten and other such issues and how to build ML algorithms that address or assuage these concerns.\n        ",
+        "Combined Course": [
+            "CS4783"
+        ],
         "Semester Offered": [
             "FA23",
             "SP22"
@@ -3112,11 +4081,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4780, CS 4820 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS1300": {
         "Title": "Introductory Design and Programming for the Web",
         "Course Code": "CS1300",
+        "Description": "\n            The World Wide Web is both a technology and a pervasive and powerful resource in our society and culture. To build functional and effective web sites, students need technical and design skills as well as analytical skills for understanding who is using the web, in what ways they are using it, and for what purposes. In this course, students develop skills in all three of these areas through the use of technologies such as XHTML, Cascading Stylesheets, and PHP. Students study how web sites are deployed and used, usability issues on the web, user-centered design, and methods for visual layout and information architecture. Through the web, this course provides an introduction to the interdisciplinary field of information science.\n        ",
+        "Combined Course": [
+            "INFO1300"
+        ],
         "Semester Offered": [
             "SP23",
             "FA22",
@@ -3130,11 +4107,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS2300": {
         "Title": "Intermediate Design and Programming for the Web",
         "Course Code": "CS2300",
+        "Description": "\n            Web programming requires the cooperation of two machines: the one in front of the viewer (client) and the one delivering the content (server).\u00a0INFO 1300\u00a0concentrates almost exclusively on the client side. The main emphasis in INFO 2300 is learning about server side processing. Students begin with a short overview of the PHP server-side scripting language, then look at interactions with databases, learning about querying via the database language SQL. Through a succession of projects, students learn how to apply this understanding to the creation of an interactive, data-driven site via PHP and the MYSQL database. Also considered are technologies such as Javascript and Ajax and techniques to enhance security and privacy. Design and usability issues are emphasized. A major component of the course is the creation of a substantial web site.\n        ",
+        "Combined Course": [
+            "INFO2300",
+            "NBA5301"
+        ],
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -3151,11 +4137,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 1300.",
+        "Comments": "Must be taken before CS 3300.\u00a0You will need a static website you designed and coded 100% yourself for the first assignment in this course. Projects from CS 1300\u00a0are suitable.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Most seats in this course are restricted to INFO students and INFO prospective students. If you do not meet the enrollment criteria for the course, please add yourself to the waitlist. https://infosci.cornell.edu/courses/enrollmentwaitlist\n",
         "Need Note": false
     },
     "CS2802": {
         "Title": "Discrete Structures - Honors",
         "Course Code": "CS2802",
+        "Description": "\n            Covers the mathematics that underlies most of computer science. Topics include mathematical induction; logical proof; propositional and predicate calculus; combinatorics and discrete mathematics; some basic elements of basic probability theory; basic number theory; sets, functions, and relations; graphs; and finite-state machines. These topics are discussed in the context of applications to many areas of computer science, such as the RSA cryptosystem and web searching.\u00a0\u00a0 This course is an honors version of CS 2800.\u00a0 It will cover essentially the same material, but go into more depth.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP23"
         ],
@@ -3170,11 +4162,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4120": {
         "Title": "Introduction to Compilers",
         "Course Code": "CS4120",
+        "Description": "\n            An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to program analysis and optimization, and compile-time and run-time support for modern programming languages. As part of the course, students will build a working compiler for an object-oriented language.\n        ",
+        "Combined Course": [
+            "CS5120"
+        ],
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -3187,11 +4187,11 @@
         ],
         "Prerequisites": [
             [
-                "CS3110"
-            ],
-            [
                 "CS3420",
                 "CS3410"
+            ],
+            [
+                "CS3110"
             ]
         ],
         "Corequisites": [
@@ -3201,11 +4201,19 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor, and CS 3420 or CS 3410. Corequisite: CS 4121.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS4121": {
         "Title": "Practicum in Compilers",
         "Course Code": "CS4121",
+        "Description": "\n            Students will build a working compiler for an object-oriented language.\n        ",
+        "Combined Course": [
+            "CS5121"
+        ],
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -3222,11 +4230,19 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: CS 4120.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Must be taken concurrently with CS 4120.\n",
         "Need Note": false
     },
     "CS5120": {
         "Title": "Introduction to Compilers",
         "Course Code": "CS5120",
+        "Description": "\n            An introduction to the specification and implementation of modern compilers. Topics covered include lexical scanning, parsing, type checking, code generation and translation, an introduction to program analysis and optimization, and compile-time and run-time support for modern programming languages. As part of the course, students will build a working compiler for an object-oriented language.\n        ",
+        "Combined Course": [
+            "CS4120"
+        ],
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -3237,11 +4253,11 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "CS3110"
-            ],
-            [
                 "CS3420",
                 "CS3410"
+            ],
+            [
+                "CS3110"
             ]
         ],
         "Corequisites": [
@@ -3251,11 +4267,19 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor, CS 3420 or CS 3410. Corequisite: CS 5121.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5121": {
         "Title": "Practicum in Compilers",
         "Course Code": "CS5121",
+        "Description": "\n            Students will build a working compiler for an object-oriented language.\n        ",
+        "Combined Course": [
+            "CS4121"
+        ],
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -3272,11 +4296,21 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: CS 5120.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "CS5755": {
         "Title": "Mobile Human Robot Interaction Design",
         "Course Code": "CS5755",
+        "Description": "\n            Robot and automated systems often need to move in and around people. This technical and human-centered course surveys current physical, computation and sensing technologies that make mobile human robot interaction possible, and delves into key research problems in interaction, human modelling, and repair which are needed to tackle the grand challenge of mobile HRI. As part of this course, students will build working prototypes of mobile robots, and deploy them for study in human environments. The 5000-level version of this course focuses on platform development; the 6000-level version of this course focuses on the production of human participant research studies using mobile HRI.\n        ",
+        "Combined Course": [
+            "CS6755",
+            "INFO5755",
+            "INFO6755"
+        ],
         "Semester Offered": [
             "SP23"
         ],
@@ -3294,11 +4328,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: proficiency in Python.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to:\u00a0Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC. Enrollment limited to Cornell Tech students.\n",
         "Need Note": true
     },
     "CS5412": {
         "Title": "Cloud Computing",
         "Course Code": "CS5412",
+        "Description": "\n            Focuses on cloud computing, large-scale Internet applications, and other practical issues in designing and implementing trustworthy, scalable distributed software.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA22",
             "SP22"
@@ -3315,11 +4355,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4410 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS MEng and CS senior students only. All others should add themselves to the waitlist during add/drop. See enrollment webpage for more details: https://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS5701": {
         "Title": "Practicum in Artificial Intelligence",
         "Course Code": "CS5701",
+        "Description": "\n            Artificial Intelligence project class. Possible projects topics include knowledge representation systems, search procedures, game-playing, automated reasoning, concept learning, reinforcement learning, neural nets, genetic algorithms, planning, natural language processing, computer vision.\n        ",
+        "Combined Course": [
+            "CS4701"
+        ],
         "Semester Offered": [
             "FA22"
         ],
@@ -3338,11 +4386,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4670, CS 4700, CS 4740, or CS 4780.",
+        "Comments": "Should be taken only by students with significant experience in Artificial Intelligence, such as those who have already taken CS 4700, CS 4780, CS 4670, or CS 4740.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Distance Learning-Asynchronous\n                          Direct enrollment is restricted to CS PhD, MS and MEng students. Seniors taking courses for M.Eng credit and all other graduate and professional students must add themselves to the waitlist during add/drop. Undergraduates who are not taking M.Eng credit will not be permitted and must enroll/waitlist for the 4xxx version. See website for details: http://www.cs.cornell.edu/courseinfo/enrollment/cs-4000-5000-level-courses\n",
         "Need Note": false
     },
     "CS2111": {
         "Title": "Programming Practicum",
         "Course Code": "CS2111",
+        "Description": "\n            Meets weekly for one hour, in collaboration with CS 2110. Designed to enhance understanding of object-oriented programming, use of the application for writing Java programs, and other programming issues, as well as theoretical concepts that arise in CS 2110. The hour is spent in ways appropriate to the material under study -lecture, question-answer session, problem solving in small groups, one-on-one help, etc.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP22"
         ],
@@ -3358,11 +4412,19 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: CS 2110.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Co-requisite: CS/ENGRD 2110.\n",
         "Need Note": false
     },
     "CS4160": {
         "Title": "Formal Verification",
         "Course Code": "CS4160",
+        "Description": "\n            An introduction to formal verification, focusing on correctness of functional and imperative programs relative to mathematical specifications. Topics include computer-assisted theorem proving, logic, programming language semantics, and verification of algorithms and data structures. Assignments involve extensive use of a proof assistant to develop and check proofs.\n        ",
+        "Combined Course": [
+            "CS5160"
+        ],
         "Semester Offered": [
             "SP22"
         ],
@@ -3382,11 +4444,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment reserved for CIS students only. All other students must add themselves to the waitlist during add/drop in January.\n",
         "Need Note": true
     },
     "CS5135": {
         "Title": "Computational Integer Programming",
         "Course Code": "CS5135",
+        "Description": "\n            This course in Discrete Optimization is focused on Nondeterministic Polynomial-hard problems but with a very strong focus on the use of Mixed-Integer Linear Programming, general-purpose solvers to attack them.\n        ",
+        "Combined Course": [
+            "ORIE5135"
+        ],
         "Semester Offered": [
             "SP22"
         ],
@@ -3403,11 +4473,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: ORIE 5380/CS 5727 or some knowledge of linear programming.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: Cornell Tech students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in NYC. Enrollment limited to Cornell Tech Students Only.\n",
         "Need Note": false
     },
     "CS5160": {
         "Title": "Formal Verification",
         "Course Code": "CS5160",
+        "Description": "\n            An introduction to formal verification, focusing on correctness of functional and imperative programs relative to mathematical specifications. Topics include computer-assisted theorem proving, logic, programming language semantics, and verification of algorithms and data structures. Assignments involve extensive use of a proof assistant to develop and check proofs.\n        ",
+        "Combined Course": [
+            "CS4160"
+        ],
         "Semester Offered": [
             "SP22"
         ],
@@ -3425,11 +4503,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 3110 or permission of instructor. Students are expected to be proficient with programming (e.g. CS 2110), and proof (e.g. CS 2800 or a mathematics course numbered 3000 or above). ",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment restricted to CS MEng students only. All others, including early admits must add themselves to the waitlist during add/drop in January.\n",
         "Need Note": true
     },
     "CS5625": {
         "Title": "Interactive Computer Graphics",
         "Course Code": "CS5625",
+        "Description": "\n            Methods for interactive computer graphics, targeting applications including games, visualization, design, and immersive environments. Introduces students to state-of-the-art interactive techniques and programmable shading. Programming assignments use C++ and OpenGL, and students also propose and implement an open-ended final project.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP22"
         ],
@@ -3446,6 +4530,10 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: CS 4620/CS 5620.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to CS MEng students only. All others, including early admits should add themselves to the waitlist during add/drop in January.\n",
         "Need Note": false
     }
 }

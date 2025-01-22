@@ -1,0 +1,2513 @@
+{
+    "STSCI2100": {
+        "Title": "Introductory Statistics and Data Science",
+        "Course Code": "STSCI2100",
+        "Description": "\n            Statistics is about understanding the world through data. We are surrounded by data, so there is a lot to understand. Covers data exploration and display, data gathering methods, probability, and statistical inference methods through contingency tables and linear regression. The emphasis is on thinking scientifically, understanding what is commonly done with data (and doing some of it for yourself), and laying a foundation for further study. Students learn to use statistical software and simulation tools to discover fundamental results. They use computers regularly; the test includes both multimedia materials and a software package. This course does not focus on data from any particular discipline, but will use real-world examples from a wide variety of disciplines and current events.\n        ",
+        "Combined Course": [
+            "ILRST2100"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: introductory algebra.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Beginning with the first day of classes Industrial and Labor Relations (ILR) students must get permission to drop from an advisor in the ILR Office of Student Services.\n",
+        "Need Note": true
+    },
+    "STSCI2110": {
+        "Title": "Statistical Methods for the Social Sciences II",
+        "Course Code": "STSCI2110",
+        "Description": "\n            A second course in statistics that emphasizes applications to the social sciences. Topics include simple linear regression, multiple linear regression (theory, model building, and model diagnostics), and the analysis of variance. Computer packages are used extensively.\n        ",
+        "Combined Course": [
+            "ILRST2110",
+            "ILRST5110",
+            "STSCI5110"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100 or equivalent introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI2150": {
+        "Title": "Introductory Statistics for Biology",
+        "Course Code": "STSCI2150",
+        "Description": "\n            This course provides an introduction to data analysis and statistical inference illustrated with biological applications. The computer labs will teach graphical analysis and statistical computation using R. Topics include graphical display, populations and sampling, probability distributions, expectation and variance, estimation, testing, correlation, regression, contingency tables, and the design of experiments. Emphasis is on concepts and the careful modeling of biological data, so that statistical methods are applied properly, pitfalls are avoided, and sound conclusions are reached.\n        ",
+        "Combined Course": [
+            "STSCI5150"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3080": {
+        "Title": "Probability Models and Inference",
+        "Course Code": "STSCI3080",
+        "Description": "\n            This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, the method of moments, sampling distributions and confidence intervals.\n        ",
+        "Combined Course": [
+            "BTRY3080",
+            "ILRST3080",
+            "STSCI5080"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1120"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200, MATH 1120 and MATH 2220 or thier equivalents.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3110": {
+        "Title": "Probability Models and Inference for the Social Sciences",
+        "Course Code": "STSCI3110",
+        "Description": "\n            This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing.\n        ",
+        "Combined Course": [
+            "ECON3110",
+            "ILRST3110"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SMR-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 1110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI3200": {
+        "Title": "Statistics II",
+        "Course Code": "STSCI3200",
+        "Description": "\n            Applies linear statistical methods to quantitative problems addressed in biological and environmental research. Methods include linear regression, inference, model assumption evaluation, the likelihood approach, matrix formulation, generalized linear models, single-factor and multifactor analysis of variance (ANOVA), and a brief foray into nonlinear modeling. Carries out applied analysis in a statistical computing environment.\n        ",
+        "Combined Course": [
+            "BTRY3020",
+            "BTRY5020",
+            "STSCI5201"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "SMR-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 or equivalent.",
+        "Comments": "Basic knowledge of R programming.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3510": {
+        "Title": "Stochastic Processes for Decision-Making",
+        "Course Code": "STSCI3510",
+        "Description": "\n            Uses basic concepts and techniques of random processes to construct models for a variety of problems of practical interest. Topics include: the Poisson process, Markov chains, renewal theory, models for queuing, and reliability.\n        ",
+        "Combined Course": [
+            "ORIE3510",
+            "ORIE5510"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ORIE3500"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: grade of C- or better in ORIE 3500 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI3600": {
+        "Title": "Integrated Ethics in Data Science",
+        "Course Code": "STSCI3600",
+        "Description": "\n            Integrated Ethics in Data Science examines your responsibilities in data analysis. Our investigation starts with the aggregated impacts of data science on fairness, privacy, and justice outcomes for groups and individuals. Use of supplied data and applications are analyzed using agency, moral imagination, and virtue ethics. Responsible practices in data science, codes of conduct, and current regulations will be applied. Evaluation of the act of speaking up, supporting others and working with an ethics committee will develop professional skills. Case studies from legal issues, policy concerns, and industry practices provide problems to evaluate the individual choices that led to the results. Course success depends on your frequent written work, engagement in small group discussions, and planning for professional practice.\n        ",
+        "Combined Course": [
+            "STSCI5600"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3740": {
+        "Title": "Data Mining and Machine Learning",
+        "Course Code": "STSCI3740",
+        "Description": "\n            We start off with a detailed refresher for Linear Regression. We then turn to popular methods for classification including Logistic Regression and Discriminant Analysis. Finally, we consider more advanced topics which may include - depending on the audience - Resampling Methods, Tree-based Methods, or Support Vector Machines. The statistics software R is introduced and used for applications.\n        ",
+        "Combined Course": [
+            "STSCI5740"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "STSCI3080",
+                "MATH4710"
+            ],
+            [
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1112 or equivalent, MATH 2220, STSCI 3200, STSCI 3080 or MATH 4710.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4090": {
+        "Title": "Theory of Statistics",
+        "Course Code": "STSCI4090",
+        "Description": "\n            Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include: sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.\n        ",
+        "Combined Course": [
+            "BTRY4090",
+            "BTRY5090",
+            "STSCI5090"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or MATH 4710, or equivalent and at least one introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI4100": {
+        "Title": "Multivariate Analysis",
+        "Course Code": "STSCI4100",
+        "Description": "\n            This course is on the basics of multivariate statistical analysis. The focus ison the applied side, and the students will learn by examples of multiple real-life datasets. Studentswill learn to visualize the datasets and conduct simple statistical analysis using linear/nonlinearmethods. We will also cover web-scraping and data cleaning.\n        ",
+        "Combined Course": [
+            "BTRY4100",
+            "ILRST4100",
+            "STSCI5111"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100 or equivalent.",
+        "Comments": "Linear models (STSCI 4030\u00a0or equivalent) is highly recommended. Some programming experience in R will be helpful but it is not required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4520": {
+        "Title": "Statistical Computing",
+        "Course Code": "STSCI4520",
+        "Description": "\n            This course is designed to provide students with an introduction to statistical computing. The class will cover the basics of programming; numerical methods for optimization and linear algebra and their application to statistical estimation, generating random variables, bootstrap, jackknife and permutation methods, Markov Chain Monte Carlo methods, Bayesian inference and computing with latent variables.\n        ",
+        "Combined Course": [
+            "STSCI5520"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "MATH4710"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or MATH 4710, enrollment in MATH 2220 and MATH 2240 or equivalents. Previous programming experience is recommended.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4550": {
+        "Title": "Applied Time Series Analysis",
+        "Course Code": "STSCI4550",
+        "Description": "\n            Introduces statistical tools for the analysis of time-dependent data. Data analysis and application will be an integral part of this course. Topics include linear, nonlinear, seasonal, multivariate modeling, and financial time series.\n        ",
+        "Combined Course": [
+            "ILRST4550",
+            "ORIE5550",
+            "STSCI5550"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ],
+            [
+                "STSCI4030",
+                "ECON3140"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or equivalent, STSCI 4030 or ECON 3140, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI4850": {
+        "Title": "Data Science Consulting",
+        "Course Code": "STSCI4850",
+        "Description": "\n            In this course students will learn about the consulting process using data science. They will understand how statistics and data science knowledge can be applied to real world questions starting with exploratory analysis and then applying specific modeling tools. In addition to analyzing a problem empirically, they will also learn core professional soft skills required to work with a client. These skills include designing and implementing a work plan, learning to communicate efficiently, presentation of a final deliverable to the client, as well as learning good practices to conduct data analysis, documentation, quality control and collaboration. Through hands-on experience and real-world examples, students will develop a basic understanding of consulting, and be familiar with the professional standard expected in the industry.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI2150"
+            ],
+            [
+                "STSCI2100"
+            ],
+            [
+                "ENGRD2700"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100, STSCI 2150, ENGRD 2700. ",
+        "Comments": "Intro probability and statistics class; familiarity or willingness to learn programming language like R required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4970": {
+        "Title": "Undergraduate Supervised Teaching",
+        "Course Code": "STSCI4970",
+        "Description": "\n            Students assist in teaching a course appropriate to their previous training. Students meet with a discussion or laboratory section and regularly discuss objectives with the course instructor.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "STSCI4980": {
+        "Title": "Tutorial in Actuarial Statistics",
+        "Course Code": "STSCI4980",
+        "Description": "\n            Problem solving sessions to prepare students for the first four actuarial examinations (probability, financial mathematics, statistical modeling, and risk management).\n        ",
+        "Combined Course": [
+            "STSCI5980"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4990": {
+        "Title": "Undergraduate Individual Study in Statistics",
+        "Course Code": "STSCI4990",
+        "Description": "\n            Course consists of individual tutorial study selected by faculty. Because topics usually change year to year this course may be repeated for credit.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "STSCI4995": {
+        "Title": "Internship in Data Science",
+        "Course Code": "STSCI4995",
+        "Description": "\n            Students planning internships related to Statistics and Data Science are encouraged to enroll in the departmental internship course.\n        ",
+        "Combined Course": [
+            "STSCI5995"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "STSCI4999": {
+        "Title": "Undergraduate Dissertation Research",
+        "Course Code": "STSCI4999",
+        "Description": "\n            Research at the undergraduate level.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Directed Research\n",
+        "Need Note": false
+    },
+    "STSCI5010": {
+        "Title": "Applied Statistical Computation with SAS",
+        "Course Code": "STSCI5010",
+        "Description": "\n            This course teaches the basics of SAS (Statistical Analysis System) programming and the SAS Enterprise Miner software.\u00a0 This course is composed two modules.\u00a0 The first module, in the first 12 weeks, covers the objectives tested on the SAS Base Programming for SAS 9 Exam, including basic SAS programming concepts, producing reports, creating and modifying SAS data sets, reading various types of raw data and other data handling techniques. At the end of module 1, all the students will take the SAS Base Programming for SAS 9 Exam, which is administered by the MPS Program in Applied Statistics on the Cornell campus in conjunction with the SAS Institute, Inc. The second module, in the last three weeks, introduces the SAS Enterprise Miner software and cluster analysis. Students will learn how to use the SAS Enterprise Miner software and SAS procedures to do cluster analysis.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "This course is reserved for the students\u00a0in Master of Professional Studies (MPS) degree program in Applied Statistics for the first week. If there is space after that, it is open to other students.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5065": {
+        "Title": "Big Data Management and Analysis",
+        "Course Code": "STSCI5065",
+        "Description": "\n            Concepts, challenges, and industry trends of big data, with a focus on the Hadoop system. Topics include: basics of the Apache Hadoop platform and Hadoop ecosystem; the Hadoop distributed file system (HDFS); MapReduce or its alternative, a parallel programming model for distributed processing of large data sets; common big data tools, such as Pig (a procedural data processing language for Hadoop parallel computation), Hive (a declarative SQL-like language to handle Hadoop jobs), HBase (the most popular NoSQL database), and YARN; case studies; and\u00a0 integration of Hadoop with statistical software packages, e.g., SAS and R.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI5010"
+            ],
+            [
+                "CS1110",
+                "CS1112",
+                "CS1133",
+                "STSCI4060"
+            ],
+            [
+                "STSCI4520",
+                "STSCI4030"
+            ],
+            [
+                "STSCI5060"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: knowledge of a general purpose computer programming language, such as JAVA, Python, Ruby, or C++, or at least taking STSCI 4060 in parallel with this course; STSCI 5060 or basic SQL knowledge; STSCI 5010 or basic knowledge of SAS programming; STSCI 4520 or STSCI 4030 or basic knowledge of R programming.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment preference given to: MPS Applied Statistics students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI5080": {
+        "Title": "Probability Models and Inference",
+        "Course Code": "STSCI5080",
+        "Description": "\n            This course provides an introduction to probability and parametric inference. Topics include: random variables, standard distributions, the law of large numbers, the central limit theorem, likelihood-based estimation, sampling distributions and hypothesis testing, as well as an introduction to Bayesian methods. Some assignments may involve computation using the R programming language.\n        ",
+        "Combined Course": [
+            "BTRY3080",
+            "ILRST3080",
+            "STSCI3080"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010 or equivalent. ",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5090": {
+        "Title": "Theory of Statistics",
+        "Course Code": "STSCI5090",
+        "Description": "\n            Introduction to classical theory of parametric statistical inference that builds on the material covered in BTRY 3080. Topics include sampling distributions, principles of data reduction, likelihood, parameter estimation, hypothesis testing, interval estimation, and basic asymptotic theory.\n        ",
+        "Combined Course": [
+            "BTRY4090",
+            "BTRY5090",
+            "STSCI4090"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5110": {
+        "Title": "Statistical Methods for the Social Sciences II",
+        "Course Code": "STSCI5110",
+        "Description": "\n            Second course in statistics that emphasizes applications to the social sciences. Topics include simple linear regression, multiple linear regression (theory, model building, and model diagnostics), and the analysis of variance. Computer packages are used extensively.\n        ",
+        "Combined Course": [
+            "ILRST2110",
+            "ILRST5110",
+            "STSCI2110"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100 or equivalent introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: ILRST 2100 or ILRST 5100 or equivalent.\n",
+        "Need Note": false
+    },
+    "STSCI5111": {
+        "Title": "Multivariate Analysis",
+        "Course Code": "STSCI5111",
+        "Description": "\n            This course is on the basics of multivariate statistical analysis. The focus ison the applied side, and the students will learn by examples of multiple real-life datasets. Studentswill learn to visualize the datasets and conduct simple statistical analysis using linear/nonlinearmethods. We will also cover web-scraping and data cleaning.\n        ",
+        "Combined Course": [
+            "BTRY4100",
+            "ILRST4100",
+            "STSCI4100"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5150": {
+        "Title": "Introductory Statistics for Biology",
+        "Course Code": "STSCI5150",
+        "Description": "\n            This course provides an introduction to data analysis and statistical inference illustrated with biological applications. The computer labs will teach graphical analysis and statistical computation using R. Topics include graphical display, populations and sampling, probability distributions, expectation and variance, estimation, testing, correlation, regression, contingency tables, and the design of experiments. Emphasis is on concepts and the careful modeling of biological data, so that statistical methods are applied properly, pitfalls are avoided, and sound conclusions are reached.\n        ",
+        "Combined Course": [
+            "STSCI2150"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5201": {
+        "Title": "Statistics II",
+        "Course Code": "STSCI5201",
+        "Description": "\n            Applies linear statistical methods to quantitative problems addressed in biological and environmental research. Methods include linear regression, inference, model assumption evaluation, the likelihood approach, matrix formulation, generalized linear models, single-factor and multifactor analysis of variance (ANOVA), and a brief foray into nonlinear modeling. Carries out applied analysis in a statistical computing environment.\n        ",
+        "Combined Course": [
+            "BTRY3020",
+            "BTRY5020",
+            "STSCI3200"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010 or equivalent.",
+        "Comments": "Basic knowledge of R programming.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5520": {
+        "Title": "Statistical Computing",
+        "Course Code": "STSCI5520",
+        "Description": "\n            This course is designed to provide students with an introduction to statistical computing. The class will cover the basics of programming; numerical methods for optimization and linear algebra and their application to statistical estimation, generating random variables, bootstrap, jackknife and permutation methods, Markov Chain Monte Carlo methods, Bayesian inference and computing with latent variables.\n        ",
+        "Combined Course": [
+            "STSCI4520"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080",
+                "MATH4710"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or MATH 4710, enrollment in MATH 2220 and MATH 2240 or equivalents. Previous programming experience is recommended.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5550": {
+        "Title": "Applied Time Series Analysis",
+        "Course Code": "STSCI5550",
+        "Description": "\n            Introduces statistical tools for the analysis of time-dependent data. Data analysis and application will be an integral part of this course. Topics include linear, nonlinear, seasonal, multivariate modeling, and financial time series.\n        ",
+        "Combined Course": [
+            "ILRST4550",
+            "ORIE5550",
+            "STSCI4550"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ],
+            [
+                "STSCI4030",
+                "ECON3140"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or equivalent, STSCI 4030 or ECON 3140, or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI5600": {
+        "Title": "Integrated Ethics in Data Science",
+        "Course Code": "STSCI5600",
+        "Description": "\n            Integrated Ethics in Data Science examines your responsibilities in data analysis. Our investigation starts with the aggregated impacts of data science on fairness, privacy, and justice outcomes for groups and individuals. Use of supplied data and applications are analyzed using agency, moral imagination, and virtue ethics. Responsible practices in data science, codes of conduct, and current regulations will be applied. Evaluation of the act of speaking up, supporting others and working with an ethics committee will develop professional skills. Case studies from legal issues, policy concerns, and industry practices provide problems to evaluate the individual choices that led to the results. Course success depends on your frequent written work, engagement in small group discussions, and planning for professional practice.\n        ",
+        "Combined Course": [
+            "STSCI3600"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5640": {
+        "Title": "Statistics for Financial Engineering",
+        "Course Code": "STSCI5640",
+        "Description": "\n            Regression, ARIMA, GARCH, stochastic volatility, and factor models. Calibration of financial engineering models, estimation of diffusion models, estimation of risk measures, multivariate models and copulas, bayesian statistics. Students are instructed in the use of R software; prior knowledge of R is helpful but not required. This course is intended for M.Eng. students in financial engineering and assumes some familiarity with finance and financial engineering. Students not in the financial engineering program are welcome if they have a suitable background. Students with no background in finance should consider taking ORIE 4630\u00a0instead.\n        ",
+        "Combined Course": [
+            "ORIE5640"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ORIE3500",
+                "ORIE5500"
+            ],
+            [
+                "ORIE4600",
+                "ORIE4630",
+                "ORIE5600"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ORIE 3500/ORIE 5500, ORIE 4600 or ORIE 4630 or ORIE 5600 (highly recommended).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "STSCI5740": {
+        "Title": "Data Mining and Machine Learning",
+        "Course Code": "STSCI5740",
+        "Description": "\n            We start off with a detailed refresher for Linear Regression. We then turn to popular methods for classification including Logistic Regression and Discriminant Analysis. Finally, we consider more advanced topics which may include - depending on the audience - Resampling Methods, Tree-based Methods, or Support Vector Machines. The statistics software R is introduced and used for applications.\n        ",
+        "Combined Course": [
+            "STSCI3740"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3200"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "STSCI3080",
+                "MATH4710"
+            ],
+            [
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1112 or equivalent, MATH 2220, STSCI 3200, STSCI 3080 or MATH 4710.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5955": {
+        "Title": "Realtime Project Management",
+        "Course Code": "STSCI5955",
+        "Description": "\n            This course is designed to run in parallel to STSCI 5999\u00a0(Applied Statistics MPS Data Analysis Project) and is a required part of the final-semester client project for MPS students. In this course students from each project team meet at regular intervals and briefly present their project milestones such as initiation of the project, data cleaning, analysis, etc. as well as raise any concern regarding any roadblock they are facing.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI5954"
+            ]
+        ],
+        "Corequisites": [
+            [
+                "STSCI5999"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 5954. Corequisite: STSCI 5999.",
+        "Comments": "Students must enroll under their project advisor in both STSCI 5999\u00a0and STSCI 5955 in the same semester.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: STSCI MPS students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Corequisite: STSCI 5999.\n",
+        "Need Note": false
+    },
+    "STSCI5980": {
+        "Title": "Tutorial in Actuarial Statistics",
+        "Course Code": "STSCI5980",
+        "Description": "\n            Problem solving sessions to prepare students for the first four actuarial examinations (probability, financial mathematics, statistical modeling, and risk management).\n        ",
+        "Combined Course": [
+            "STSCI4980"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5990": {
+        "Title": "Directed Studies in Applied Statistics",
+        "Course Code": "STSCI5990",
+        "Description": "\n            For individual or group research projects conducted under the direction of a member of STSCI faculty or instructors in a special area of statistical science that is not covered by regular course offerings.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: multicalculus, linear algebra, and basic statistics.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Directed Research\n",
+        "Need Note": true
+    },
+    "STSCI5995": {
+        "Title": "Internship in Data Science",
+        "Course Code": "STSCI5995",
+        "Description": "\n            Students planning internships related to Statistics and Data Science are encouraged to enroll in the departmental internship course.\n        ",
+        "Combined Course": [
+            "STSCI4995"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            1.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "STSCI5999": {
+        "Title": "Applied Statistics MPS Data Analysis Project",
+        "Course Code": "STSCI5999",
+        "Description": "\n            It is a long-term, in-depth statistical analysis of real-world dataset using various statistical methods and computer packages (such as SAS, R, SPSS, etc.). Students work in teams (of maximum size 4) to solve business, managerial or scientific problems for clients. Projects are assigned by Dept. of Statistical Science to teams. Each team has a dedicated faculty adviser, who supervises the projects and assigns grades. Grades are assigned individually to team members. In special cases teams may collaborate with groups in other Departments, e.g., M.Eng. project teams.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: MPS students in Applied Statistics.",
+        "Foot Note": "\nInstruction Mode: Directed Research\n                          Enrollment limited to: students currently enrolled in Master of Professional Studies (MPS) in Applied Statistics. Prerequisite: STSCI 4030, STSCI 5010 and STSCI 5080.\n",
+        "Need Note": false
+    },
+    "STSCI2120": {
+        "Title": "Introduction to R Programming",
+        "Course Code": "STSCI2120",
+        "Description": "\n            The course will cover the basics of R programming for reading and writing data, executing simple operations on data, performing basic analyses, and producing visual graphics. An emphasis will be placed on practical aspects and understanding of fundamental R objects and functions.\u00a0\n        ",
+        "Combined Course": [
+            "STSCI5120"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI2130": {
+        "Title": "Applied Regression Analysis",
+        "Course Code": "STSCI2130",
+        "Description": "\n            This seven week, two-credit class will cover the regression requirements, hypothesis tests, and interpretation of results. Students will learn to identify the data necessary to perform a regression analysis, evaluate the conditions, and apply the statistical tests. Interpretation of overall results\u00a0will be made. Independent/group projects by each student will be done. These will consist of identifying an issue of interest, a relevant data set, and analysis using the regression methods.\u00a0Presentation of the results in verbal and written form will be required. Recommended for students who want to develop applied analysis skills.\n        ",
+        "Combined Course": [
+            "ILRST2130"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ILRST2100"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ILRST 2100 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI2200": {
+        "Title": "Statistics I",
+        "Course Code": "STSCI2200",
+        "Description": "\n            Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.\n        ",
+        "Combined Course": [
+            "BTRY3010",
+            "BTRY5010",
+            "STSCI5200"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "MQL-AG",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one semester of calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisite: one semester of calculus.\n",
+        "Need Note": true
+    },
+    "STSCI3040": {
+        "Title": "R Programming for Data Science",
+        "Course Code": "STSCI3040",
+        "Description": "\n            Statistics courses usually use clean and well-behaved data, this leaves many unprepared for the messiness and chaos of data in the real world. This course aims to prepare students for dealing with data using the R programming language.\u00a0 The introduction will overview the basic R syntax, foundational R programming concepts such as data types, vectors arithmetic, and indexing, and importing data into R from different file formats.\u00a0 The data wrangling topics include how to tidy data using the tidy verse to better facilitate analysis, string processing with regular expressions and with dates and times as file formats, web scraping, and text mining. Data visualization topics will cover visualization principles, the use of ggplot2 to create custom plots, and how to communicate data-driven findings.\n        ",
+        "Combined Course": [
+            "STSCI5040"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ECON3110",
+                "STSCI3110"
+            ],
+            [
+                "ENGRD2700"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: ECON 3110/STSCI 3110, ENGRD 2700.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3100": {
+        "Title": "Statistical Sampling",
+        "Course Code": "STSCI3100",
+        "Description": "\n            Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.\u00a0\n        ",
+        "Combined Course": [
+            "BTRY3100",
+            "ILRST3100",
+            "STSCI5100"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010 or equivalent, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI3900": {
+        "Title": "Causal Inference",
+        "Course Code": "STSCI3900",
+        "Description": "\n            Causal claims are essential in both science and policy. Would a new experimental drug improve disease survival? Would a new advertisement cause higher sales? Would a person's income be higher if they finished college? These questions involve counterfactuals: outcomes that would be realized if a treatment were assigned differently. This course will define counterfactuals mathematically, formalize conceptual assumptions that link empirical evidence to causal conclusions, and engage with statistical methods for estimation. Students will enter the course with knowledge of statistical inference: how to assess if a variable is associated with an outcome. Students will emerge from the course with knowledge of causal inference: how to assess whether an intervention to change that input would lead to a change in the outcome.\n        ",
+        "Combined Course": [
+            "ILRST3900",
+            "INFO3900"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI2100",
+                "PSYCH2500",
+                "SOC3010",
+                "ECON3110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2100 or PSYCH 2500 or SOC 3010 or ECON 3110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4030": {
+        "Title": "Linear Models with Matrices",
+        "Course Code": "STSCI4030",
+        "Description": "\n            The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.\n        ",
+        "Combined Course": [
+            "BTRY4030",
+            "STSCI5030"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ],
+            [
+                "MATH2210"
+            ],
+            [
+                "BTRY3080"
+            ],
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or thier equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4060": {
+        "Title": "Python Programming and its Applications in Statistics",
+        "Course Code": "STSCI4060",
+        "Description": "\n            The first part of the course teaches basic Python programming knowledge and skills, such as Python variables, data containers, language controls, functions, objects, class, data structures, regular expressions, graphics, GUI, Jupyter notebook, etc. The second part deals with Python application in statistics (e.g., 2D/3D data visualization and statistical analysis, using some important Python packages for statistical computing and machine learning, for example, Numpy, Scipy, Pandas, and Scikit-learn, etc.) Python-database integration (e.g., access, update and control an Oracle database), and Python web services (e.g., database-driven dynamic webpages using Python CGI scripts). These techniques are utilized in a comprehensive course project.\n        ",
+        "Combined Course": [
+            "STSCI5045"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: basic programming skills (any language), one introductory Statistics course, SQL (Oracle preferred).",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI4110": {
+        "Title": "Categorical Data",
+        "Course Code": "STSCI4110",
+        "Description": "\n            Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.\n        ",
+        "Combined Course": [
+            "BTRY4110",
+            "ILRST4110",
+            "STSCI5160"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3020",
+                "BTRY6020",
+                "BTRY3080",
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI4630": {
+        "Title": "Operations Research Tools for Financial Engineering",
+        "Course Code": "STSCI4630",
+        "Description": "\n            Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and\u00a0surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation,\u00a0and optimization.\n        ",
+        "Combined Course": [
+            "ORIE4630",
+            "ORIE5630",
+            "STSCI5630"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS",
+            "OPHLS-AG"
+        ],
+        "Prerequisites": [
+            [
+                "ENGRD2700"
+            ],
+            [
+                "ORIE3120"
+            ],
+            [
+                "ORIE3500"
+            ],
+            [
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: engineering math through MATH 2940, ENGRD 2700 and ORIE 3500, and knowledge of R and multiple linear regression equivalent to ORIE 3120. No previous knowledge of finance required.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "STSCI5030": {
+        "Title": "Linear Models with Matrices",
+        "Course Code": "STSCI5030",
+        "Description": "\n            The focus of this course is the theory and application of the general linear model expressed in its matrix form. Topics will include: least squares estimation, multiple linear regression, coding for categorical predictors, residual diagnostics, anova decomposition, polynomial regression, model selection techniques, random effects and mixed models, maximum likelihood estimation and distributional theory assuming normal errors. Homework assignments will involve computation using the R statistical package.\n        ",
+        "Combined Course": [
+            "BTRY4030",
+            "STSCI4030"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH1920"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ],
+            [
+                "MATH2210"
+            ],
+            [
+                "BTRY3080"
+            ],
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010, BTRY 3080, MATH 1920, MATH 2210 or their equivalents, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5040": {
+        "Title": "R Programming for Data Science",
+        "Course Code": "STSCI5040",
+        "Description": "\n            Statistics courses usually use clean and well-behaved data, this leaves many unprepared for the messiness and chaos of data in the real world. This course aims to prepare students for dealing with data using the R programming language.\u00a0 The introduction will overview the basic R syntax, foundational R programming concepts such as data types, vectors arithmetic, and indexing, and importing data into R from different file formats.\u00a0 The data wrangling topics include how to tidy data using the tidy verse to better facilitate analysis, string processing with regular expressions and with dates and times as file formats, web scraping, and text mining. Data visualization topics will cover visualization principles, the use of ggplot2 to create custom plots, and how to communicate data-driven findings.\n        ",
+        "Combined Course": [
+            "STSCI3040"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: Introductory statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI5045": {
+        "Title": "Python Programming and its Applications in Statistics",
+        "Course Code": "STSCI5045",
+        "Description": "\n            The first part of the course teaches basic Python programming knowledge and skills, such as Python variables, data containers, language controls, functions, objects, class, data structures, regular expressions, graphics, GUI, Jupyter notebook, etc. The second part deals with Python application in statistics (e.g., 2D/3D data visualization and statistical analysis, using some important Python packages for statistical computing and machine learning, for example, Numpy, Scipy, Pandas, and Scikit-learn, etc.) Python-database integration (e.g., access, update and control an Oracle database), and Python web services (e.g., database-driven dynamic webpages using Python CGI scripts). These techniques are utilized in a comprehensive course project.\n        ",
+        "Combined Course": [
+            "STSCI4060"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI5060"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 5060 (or basic SQL programming skill), and one intro statistics course.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "STSCI5060": {
+        "Title": "Database Management and SAS High Performance Computing with DBMS",
+        "Course Code": "STSCI5060",
+        "Description": "\n            Using relational databases in statistical computing has become more and more important. The knowledge and skill of database management and the ability to combine this knowledge and skill with statistical analysis software tools, such as SAS, are a critical qualification of a statistical analyst. In this course we will study 1) the basics of modern relational database management systems, including database analysis, design and implementation, 2) database application in advanced SAS programming and, 3) SAS high performance computing using database-related techniques.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [
+            [
+                "STSCI5010"
+            ]
+        ],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Corequisite: STSCI 5010 or Base SAS programming knowledge and skills.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: students in the MPS Program in Applied Statistics.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": true
+    },
+    "STSCI5100": {
+        "Title": "Statistical Sampling",
+        "Course Code": "STSCI5100",
+        "Description": "\n            Theory and application of statistical sampling, especially in regard to sample design, cost, estimation of population quantities, and error estimation. Assessment of nonsampling errors. Discussion of applications to social and biological sciences and to business problems.\u00a0\n        ",
+        "Combined Course": [
+            "BTRY3100",
+            "ILRST3100",
+            "STSCI3100"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3200",
+                "BTRY3020",
+                "BTRY6020"
+            ],
+            [
+                "STSCI2150",
+                "STSCI2200",
+                "BTRY3010"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 2150 or STSCI 2200/BTRY 3010 or equivalent, STSCI 3200/BTRY 3020 or BTRY 6020.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5120": {
+        "Title": "Introduction to R Programming",
+        "Course Code": "STSCI5120",
+        "Description": "\n            The course will cover the basics of R programming for reading and writing data, executing simple operations on data, performing basic analyses, and producing visual graphics. An emphasis will be placed on practical aspects and understanding of fundamental R objects and functions.\n        ",
+        "Combined Course": [
+            "STSCI2120"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5160": {
+        "Title": "Categorical Data",
+        "Course Code": "STSCI5160",
+        "Description": "\n            Categorical data analysis, including logistic regression, log-linear models, stratified tables, matched pairs analysis, polytomous response, and ordinal data. Applications in biological, biomedical and social sciences.\n        ",
+        "Combined Course": [
+            "BTRY4110",
+            "ILRST4110",
+            "STSCI4110"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3020",
+                "BTRY6020",
+                "BTRY3080",
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3020, BTRY 6020, or equivalent with BTRY 3080 or MATH 4710 also highly recommended.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI5200": {
+        "Title": "Statistics I",
+        "Course Code": "STSCI5200",
+        "Description": "\n            Students will be able to perform a variety of basic statistical analyses including: t-tests, two-sample t-tests, tests for categorical data, and linear regression.\n        ",
+        "Combined Course": [
+            "BTRY3010",
+            "BTRY5010",
+            "STSCI2200"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: one semester of calculus.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "STSCI5630": {
+        "Title": "Operations Research Tools for Financial Engineering",
+        "Course Code": "STSCI5630",
+        "Description": "\n            Introduction to the applications of OR techniques, e.g., probability, statistics, and optimization, to finance and financial engineering. The course reviews probability and statistics and\u00a0surveys assets returns, ARIMA time series models, portfolio selection using quadratic programming, regression, CAPM and factor models, option pricing, GARCH models, fixed-income securities, and resampling techniques. Covers the use of R for statistical calculations, simulation,\u00a0and optimization.\n        ",
+        "Combined Course": [
+            "ORIE4630",
+            "ORIE5630",
+            "STSCI4630"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "ENGRD2700"
+            ],
+            [
+                "ORIE3120"
+            ],
+            [
+                "ORIE3500"
+            ],
+            [
+                "MATH2940"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2940, ENGRD 2700, ORIE 3120, ORIE 3500.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5954": {
+        "Title": "Project Development and Professional Communication",
+        "Course Code": "STSCI5954",
+        "Description": "\n            Students will learn core professional skills required to work with a client. These skills include designing and implementing a work plan, learning to communicate efficiently, presentation of a final deliverable to the client, as well as learning good practices to conduct data analysis, documentation, quality control and collaboration. Through hands-on experience and real-world examples, students will develop a basic understanding of consulting, and be familiar with the professional standard expected in the industry.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: MPS Applied Statistics students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: Master of Professional Studies (MPS) Applied Statistics students.\n                  For Bowers Computer and Information Science (CIS) Course Enrollment Help, please see: https://tdx.cornell.edu/TDClient/193/Portal/Home/\n",
+        "Need Note": false
+    },
+    "STSCI1380": {
+        "Title": "Data Science for All",
+        "Course Code": "STSCI1380",
+        "Description": "\n            This course provides an introduction to data science using the statistical programming language R. We focus on building skills in inferential thinking and computational thinking, guided by the practical questions we seek to answer from data sets arising in medicine, economics and other social sciences. The course starts with essential R programming principles, and how to use R for data manipulation, visualization, and sampling. These techniques are then used to summarize and visualize real data sets, draw meaningful conclusions from those data, and assess the uncertainty surrounding those conclusions. Throughout the process, students will learn to develop hypotheses about their data, and use simulations and statistical techniques to test these hypotheses. The course also covers how to use the Tidyverse open-source R packages to clean and organize complex data sets, and create high quality graphics for data visualization.\n        ",
+        "Combined Course": [
+            "CS1380",
+            "INFO1380",
+            "ORIE1380"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SDS-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "No calculus or programming experience required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4050": {
+        "Title": "Modern Regression Models for Data Science",
+        "Course Code": "STSCI4050",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "STSCI5050"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4610": {
+        "Title": "Data Science in Risk Modeling",
+        "Course Code": "STSCI4610",
+        "Description": "\n            The course teaches statistical methods used in modeling risk in asset returns. Students in this course will be able to: identify time series dependency in selected financial data, analyze trade-off between risk and return of a portfolio, analyze tail risk in context of asset returns, and apply factor analysis in context of asset returns.\n        ",
+        "Combined Course": [
+            "STSCI5610"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3080"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 3080.",
+        "Comments": "Preferred prerequisite: basic R programming skills.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4740": {
+        "Title": "Data Mining and Machine Learning",
+        "Course Code": "STSCI4740",
+        "Description": "\n            We start off with a detailed refresher for Linear Regression. We then turn to popular methods for classification including Logistic Regression and Discriminant Analysis. Finally, we consider more advanced topics which may include - depending on the audience - Resampling Methods, Tree-based Methods, or Support Vector Machines. The statistics software R is introduced and used for applications.\n        ",
+        "Combined Course": [
+            "STSCI5740"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "FA23",
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200"
+            ],
+            [
+                "MATH2220"
+            ],
+            [
+                "STSCI3080",
+                "MATH4710"
+            ],
+            [
+                "CS1112"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1112 or equivalent, MATH 2220, STSCI 3200, STSCI 3080 or MATH 4710.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          If this course is full, please add yourself to the waitlist via Student Center. If you have questions about the waitlist email courses@cis.cornell.edu.\n",
+        "Need Note": false
+    },
+    "STSCI5050": {
+        "Title": "Modern Regression Models for Data Science",
+        "Course Code": "STSCI5050",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "STSCI4050"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5610": {
+        "Title": "Data Science in Risk Modeling",
+        "Course Code": "STSCI5610",
+        "Description": "\n            The course teaches statistical methods used in modeling risk in asset returns. Students in this course will be able to: identify time series dependency in selected financial data, analyze trade-off between risk and return of a portfolio, analyze tail risk in context of asset returns, and apply factor analysis in context of asset returns.\n        ",
+        "Combined Course": [
+            "STSCI4610"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3080"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 3080.",
+        "Comments": "Preferred prerequisite: basic R programming skills.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI3090": {
+        "Title": "Theory of Interest",
+        "Course Code": "STSCI3090",
+        "Description": "\n            This course will cover financial mathematics and financial instruments relevant to exam FM offered by the Society of Actuaries. Topics on the present and accumulated value of future cash flows will be covered including the measurement of simple and compound interest, annuities, yield rates, amortization schedules, bonds.\n        ",
+        "Combined Course": [
+            "BTRY3090"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SMR-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: Calculus I or permission of instructor.",
+        "Comments": "Offered in even-numbered years only.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "STSCI4950": {
+        "Title": "Statistical Consulting",
+        "Course Code": "STSCI4950",
+        "Description": "\n            This course will give students the opportunity to apply the statistical knowledge gained in their courses to \"real-life\" problems. Students will be integrated in the Cornell Statistical Consulting Unit (CSCU) and be exposed to various areas in which statistical methods are applied. Students will gain experience in choosing appropriate statistical procedures and their implementations in various statistical software packages. They will also learn how to communicate effectively to understand the client's problem and to explain methods and results to non-statisticians.\n        ",
+        "Combined Course": [
+            "BTRY4950",
+            "BTRY7950"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            2.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3010"
+            ],
+            [
+                "BTRY3080"
+            ],
+            [
+                "BTRY3020"
+            ],
+            [
+                "BTRY4090"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3010, BTRY 3020, BTRY 3080 and BTRY 4090 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5953": {
+        "Title": "MPS Career Management",
+        "Course Code": "STSCI5953",
+        "Description": "\n            This course will focus on specific career and professional development topics for Master of Professional Studies in Applied Statistics students. Through lectures, workshops and seminars from MPS Statistics and Cornell Career Services staff and alumni, you will learn job search strategies, effective resume writing, professional dining etiquette, the art of effective presentation, as well as the opportunity for you to choose a minimum of three workshops to further develop career related strategies according to your personal needs.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            0.5
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: MPS Applied Statistics students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Only open to MPS Applied Statistics students.\n",
+        "Need Note": false
+    },
+    "STSCI4270": {
+        "Title": "Introduction to Survival Analysis and Loss Models",
+        "Course Code": "STSCI4270",
+        "Description": "\n            Develops and uses statistical methods appropriate for analyzing right-censored (i.e., incomplete) time-to-event data. Topics covered include nonparametric estimation (e.g., life table methods, Kaplan Meier estimator), nonparametric methods for comparing the survival experience of two or more populations, and semiparametric and parametric methods of regression for censored outcome data. Emphasis is given to applications in medicine and actuarial studies. Substantial use is made of the R statistical software package.\n        ",
+        "Combined Course": [
+            "BTRY4270",
+            "STSCI5270"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "SDS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ],
+            [
+                "MATH1120"
+            ],
+            [
+                "MATH2210"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or equivalent, MATH 1120  or equivalent, and MATH 2210 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4750": {
+        "Title": "Understanding Machine Learning",
+        "Course Code": "STSCI4750",
+        "Description": "\n            The goal of this course is to teach you why machine learning works and how to implement it. We will cover the essentials of learning theory, including the probably approximately correct (PAC) framework and the bias-complexity tradeoff. We will then see how these concepts shed light on the mathematics behind linear regression, logistic regression, boosting (and AdaBoost), support vector machines and neural networks. We cover clustering algorithms and how to implement them. Data will be analyzed using modern software packages with the above algorithms, with the aim of reinforcing the mathematics behind them.\n        ",
+        "Combined Course": [
+            "STSCI5750"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3080"
+            ],
+            [
+                "STSCI4030",
+                "STSCI5030",
+                "STSCI4740"
+            ],
+            [
+                "CS1110"
+            ],
+            [
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1110 or equivalent, MATH 4710, STSCI 3080, STSCI 4030 or STSCI 5030. Recommended prerequisite: STSCI 4740.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          If this course is full, please add yourself to the waitlist via Student Center. If you have questions about the waitlist email courses@cis.cornell.edu.\n",
+        "Need Note": false
+    },
+    "STSCI5270": {
+        "Title": "Introduction to Survival Analysis and Loss Models",
+        "Course Code": "STSCI5270",
+        "Description": "\n            Develops and uses statistical methods appropriate for analyzing right-censored (i.e., incomplete) time-to-event data. Topics covered include nonparametric estimation (e.g., life table methods, Kaplan Meier estimator), nonparametric methods for comparing the survival experience of two or more populations, and semiparametric and parametric methods of regression for censored outcome data. Emphasis is given to applications in medicine and actuarial studies. Substantial use is made of the R statistical software package.\n        ",
+        "Combined Course": [
+            "BTRY4270",
+            "STSCI4270"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY3080"
+            ],
+            [
+                "MATH1120"
+            ],
+            [
+                "MATH2210"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 3080 or equivalent, MATH 1120 or equivalent, and MATH 2210 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5750": {
+        "Title": "Understanding Machine Learning",
+        "Course Code": "STSCI5750",
+        "Description": "\n            The goal of this course is to teach you why machine learning works and how to implement it. We will cover the essentials of learning theory, including the probably approximately correct (PAC) framework and the bias-complexity tradeoff. We will then see how these concepts shed light on the mathematics behind linear regression, logistic regression, boosting (and AdaBoost), support vector machines and neural networks. We cover clustering algorithms and how to implement them. Data will be analyzed using modern software packages with the above algorithms, with the aim of reinforcing the mathematics behind them.\n        ",
+        "Combined Course": [
+            "STSCI4750"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "STSCI3080"
+            ],
+            [
+                "STSCI4030",
+                "STSCI5030",
+                "STSCI4740"
+            ],
+            [
+                "CS1110"
+            ],
+            [
+                "MATH4710"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: CS 1110 or equivalent, MATH 4710, STSCI 3080, STSCI 4030 or STSCI 5030. Recommended prerequisite: STSCI 4740.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          If this course is full, please add yourself to the waitlist via Student Center. If you have questions about the waitlist email courses@cis.cornell.edu.\n",
+        "Need Note": false
+    },
+    "STSCI4140": {
+        "Title": "Applied Design",
+        "Course Code": "STSCI4140",
+        "Description": "\n            This course begins with a discussion of some general principles of experimental design. Classical designs are covered in detail, motivated by real data applications. These include completely randomized, randomized block, balanced incomplete block, split-plot, repeated measures and fractional factorial designs. If time permits rank-based nonparametric versions of the classical designs will also be covered.\n        ",
+        "Combined Course": [
+            "BTRY4140",
+            "ILRST4140",
+            "STSCI5140"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "SDS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "STSCI3200"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: STSCI 3200 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI4780": {
+        "Title": "Bayesian Data Analysis: Principles and Practice",
+        "Course Code": "STSCI4780",
+        "Description": "\n            Bayesian data analysis uses probability theory as a kind of calculus of inference, specifying how to quantify and propagate uncertainty in data-based chains of reasoning. Students will learn the fundamental principles of Bayesian data analysis, and how to apply them to varied data analysis problems across science and engineering. Topics include: basic probability theory, Bayes's theorem, linear and nonlinear models, hierarchical and graphical models, basic decision theory, and experimental design. There will be a strong computational component, using a high-level language such as R or Python, and a probabilistic language such as BUGS or Stan.\n        ",
+        "Combined Course": [
+            "STSCI5780"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "MQR-AS",
+            "SDS-AS"
+        ],
+        "Prerequisites": [
+            [
+                "MATH2210"
+            ],
+            [
+                "CS1110"
+            ],
+            [
+                "MATH2130"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: MATH 2130, MATH 2210, CS 1110 or equivalents. ",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisites: Basic multivariate differential and integral calculus (e.g., MATH 1120 or 2220), basic linear algebra (e.g., MATH 2210, 2310 or 2940), familiarity with some programming language or numerical computing environment (like R, Python, MATLAB, Octave, IDL).\n",
+        "Need Note": false
+    },
+    "STSCI5140": {
+        "Title": "Applied Design",
+        "Course Code": "STSCI5140",
+        "Description": "\n            This course begins with a discussion of some general principles of experimental design. Classical designs are covered in detail, motivated by real data applications. These include completely randomized, randomized block, balanced incomplete block, split-plot, repeated measures and fractional factorial designs. If time permits rank-based nonparametric versions of the classical designs will also be covered.\n        ",
+        "Combined Course": [
+            "BTRY4140",
+            "ILRST4140",
+            "STSCI4140"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [
+            [
+                "BTRY6020",
+                "ILRST5110"
+            ]
+        ],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: BTRY 6020 or ILRST 5110 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "STSCI5780": {
+        "Title": "Bayesian Data Analysis: Principles and Practice",
+        "Course Code": "STSCI5780",
+        "Description": "\n            Bayesian data analysis uses probability theory as a kind of calculus of inference, specifying how to quantify and propagate uncertainty in data-based chains of reasoning. Students will learn the fundamental principles of Bayesian data analysis, and how to apply them to varied data analysis problems across science and engineering. Topics include: basic probability theory, Bayes's theorem, linear and nonlinear models, hierarchical and graphical models, basic decision theory, and experimental design. There will be a strong computational component, using a high-level language such as R or Python, and a probabilistic language such as BUGS or Stan.\n        ",
+        "Combined Course": [
+            "STSCI4780"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Prerequisites: Basic multivariate differential and integral calculus (e.g., MATH 1120 or 2220), basic linear algebra (e.g., MATH 2210, 2310 or 2940), familiarity with some programming language or numerical computing environment (like R, Python, MATLAB, Octave, IDL).\n",
+        "Need Note": false
+    }
+}

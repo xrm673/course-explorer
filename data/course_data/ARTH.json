@@ -1,0 +1,2443 @@
+{
+    "ARTH1154": {
+        "Title": "FWS: Museum of the Sea: Curating Ocean Worlds",
+        "Course Code": "ARTH1154",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH2000": {
+        "Title": "Introduction to Visual Studies",
+        "Course Code": "ARTH2000",
+        "Description": "\n            This course provides an introduction to modes of vision and the historical impact of visual images, visual structures, and visual space on culture, communication, and politics. It examines all aspects of culture that communicate through visual means, including 20th-century visual technologies\u2014photography, cinema, video, etc., and their historical corollaries. The production and consumption of images, objects, and events is studied in diverse cultures. Students develop the critical skills necessary to appreciate how the approaches that define visual studies complicate traditional models of defining and analyzing art objects.\n        ",
+        "Combined Course": [
+            "AMST2000",
+            "COML2000",
+            "VISST2000"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2355": {
+        "Title": "Introduction to Medieval Art and Culture",
+        "Course Code": "ARTH2355",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "MEDVL2355"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2750": {
+        "Title": "Introduction to Humanities",
+        "Course Code": "ARTH2750",
+        "Description": "\n            These seminars offer\u00a0an introduction to the humanities by exploring\u00a0historical, cultural, social, and political themes. Students will explore themes in critical dialogue with a range of texts and media drawn from the arts, humanities, and/or humanistic social sciences. Guest speakers, including Cornell faculty and Society for the Humanities Fellows, will present from different disciplines and points of view. Students will make field trips to relevant local sites\u00a0and visit Cornell special collections and archives. Students enrolled in these seminars will have the opportunity to participate in additional programming related to the annual focus theme of Cornell's Society for the Humanities and the Humanities Scholars Program for undergraduate humanities research.\n        ",
+        "Combined Course": [
+            "COML2750",
+            "ROMS2750",
+            "SHUM2750",
+            "VISST2750"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA24",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment preference given to: students accepted into the Humanities Scholars Program. \nFor course description, see https://as.cornell.edu/research/hsp-core-courses\n",
+        "Need Note": false
+    },
+    "ARTH2805": {
+        "Title": "Introduction to Asian Art: Material Worlds",
+        "Course Code": "ARTH2805",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ASIAN2285",
+            "SHUM2805",
+            "VISST2805"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3400": {
+        "Title": "Art, Identity, and the Human Body in Early Modern Europe",
+        "Course Code": "ARTH3400",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6400"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3550": {
+        "Title": "Modern and Contemporary Latin American Art",
+        "Course Code": "ARTH3550",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6550",
+            "LATA3680",
+            "LSP3551"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3600": {
+        "Title": "Contemporary Art: 1960-Present",
+        "Course Code": "ARTH3600",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6600",
+            "VISST3600"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3755": {
+        "Title": "Humanities Scholars Research Methods",
+        "Course Code": "ARTH3755",
+        "Description": "\n            This course explores the practice, theory, and methodology of humanities research, critical analysis, and communication through writing and oral presentation. We will study the work and impact of humanists (scholars of literature, history, theory, art, visual studies, film, anthropology, gender and sexuality studies), who pose big questions about the human condition. By reading and analyzing their scholarship\u2014critiquing them and engaging their ideas\u2014we will craft our own methods and voices. Students will refine their research methods (library research, note taking, organizing material, bibliographies, citation methods, proposals, outlines, etc.) and design their own independent research project.\n        ",
+        "Combined Course": [
+            "ANTHR3950",
+            "ASIAN3375",
+            "NES3750",
+            "SHUM3750"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3803": {
+        "Title": "Urban Interfaces: Art, Architecture, and Urbanism in China at the turn of the 21st Century",
+        "Course Code": "ARTH3803",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6803"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4155": {
+        "Title": "Topics in Latin American Art",
+        "Course Code": "ARTH4155",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6155",
+            "LATA4155",
+            "LATA6155",
+            "VISST4155",
+            "VISST6155"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4354": {
+        "Title": "Byzantine Archaeology",
+        "Course Code": "ARTH4354",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARKEO4354",
+            "ARKEO6354",
+            "ARTH6354",
+            "CLASS6754",
+            "NES4354",
+            "NES6354"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4520": {
+        "Title": "Reading Race Early Modern Art",
+        "Course Code": "ARTH4520",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6520",
+            "SHUM4520"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4540": {
+        "Title": "Film History for Art Historians",
+        "Course Code": "ARTH4540",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6540"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4556": {
+        "Title": "Decolonial Poetics and Aesthetics: Arts of Resistance in the Americas",
+        "Course Code": "ARTH4556",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "AMST4556",
+            "ARTH6556",
+            "ENGL4556",
+            "ENGL6565",
+            "LSP4556",
+            "LSP6565",
+            "VISST4556",
+            "VISST6556"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4625": {
+        "Title": "Liquidities: Seascapes in Art and as History",
+        "Course Code": "ARTH4625",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6622"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4711": {
+        "Title": "Traveling Seminar: Greek Sculpture in Context",
+        "Course Code": "ARTH4711",
+        "Description": "\n            Students will explore sculpture that was commissioned and displayed in mainland Greece between the Archaic and Imperial periods, with a focus on the city of Athens and the panhellenic sanctuaries of Delphi and Olympia. We will examine architectural sculpture, tombs, votive dedications, and civic monuments, with a focus on the relationship between these objects and the religious, political, and funerary contexts in which they were displayed, informed by close visual analysis. The course will be followed by a trip to Greece during Spring Break, when we will visit many of the sites covered during the semester, as well as major collections of sculpture in local museums. Students will give presentations on site in preparation for an extended research paper.\n        ",
+        "Combined Course": [
+            "ARKEO4711",
+            "ARKEO7711",
+            "ARTH6711",
+            "CLASS4711",
+            "CLASS7711"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Applications are no longer being considered.\n",
+        "Need Note": false
+    },
+    "ARTH4822": {
+        "Title": "Objects, Rituals, and Tea",
+        "Course Code": "ARTH4822",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6822",
+            "ASIAN4424",
+            "ASIAN6624"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4844": {
+        "Title": "The Rise of Contemporary Chinese Art: Narratives in the Making of New Art",
+        "Course Code": "ARTH4844",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6844",
+            "ASIAN4844",
+            "ASIAN6844"
+        ],
+        "Semester Offered": [
+            "SP25"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4855": {
+        "Title": "Threads of Consequence: Textiles in South and Southeast Asia",
+        "Course Code": "ARTH4855",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": [
+            "ARTH6855",
+            "ASIAN4487",
+            "ASIAN6644",
+            "SHUM4455",
+            "VISST4855",
+            "VISST6855"
+        ],
+        "Semester Offered": [
+            "SP25",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4992": {
+        "Title": "Independent Study",
+        "Course Code": "ARTH4992",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          To apply: first discuss the Independent Study with the course supervisor, and then complete the online Independent Study form at https://data.arts.cornell.edu/as-stus/indep_study_intro.cfm.\n",
+        "Need Note": false
+    },
+    "ARTH4999": {
+        "Title": "Honors Work II",
+        "Course Code": "ARTH4999",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH5992": {
+        "Title": "Supervised Reading",
+        "Course Code": "ARTH5992",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH5994": {
+        "Title": "Supervised Study",
+        "Course Code": "ARTH5994",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP25",
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH1100": {
+        "Title": "Art Histories: An Introduction",
+        "Course Code": "ARTH1100",
+        "Description": "\n            This team-taught course introduces students to the History of Art as a global and interdisciplinary field. Led by a selection of professors from the department, in collaboration with staff and faculty of the Herbert F. Johnson Museum of Art, its primary aim is to familiarize students with the most significant geographical areas, epochs and works of art, as well as with methods employed in their study and analysis. The course will be organized around a changing selection of themes central to the history of art. The theme for fall 2024 is \"Materiality.\" Considering how artists and artisans from antiquity to the present have mobilized a broad range of materials and processes to create works of art, we will explore the intimate relationship between makers, matter, and meaning.\n        ",
+        "Combined Course": [
+            "SHUM1100"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "CA-AG",
+            "HA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH1178": {
+        "Title": "FWS: Looking and Writing the City: Rear Windows/Sideview Mirrors",
+        "Course Code": "ARTH1178",
+        "Description": "\n        No description available.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH2400": {
+        "Title": "Introduction to Early Modern Art: Cosmopolitanism and Empire",
+        "Course Code": "ARTH2400",
+        "Description": "\n            This course offers an introduction to the diverse global encounters and exchanges that shaped early modern European art and material culture, c.1400-1650. The course will be structured around nine European imperial and/or cosmopolitan centres and their connections between one another, and with the Ottoman Empire, Asia, Africa, and the Americas. We will explore how global commerce influenced material and artistic consumption, and the ways in which early modern slavery was part and parcel of Europe's art world. Special focus discussions will deepen students' knowledge of artistic materials and media and the ways in which global connections impacted the making of early modern art. Students will gain a broad understanding of early modern art and practices of making, the historical contexts in which art objects were produced, and their social and cultural uses. Students will become familiar with the language and approaches of art history and material culture studies, as well as with key methodologies including globalized, decolonial, critical race, and gender theories.\n        ",
+        "Combined Course": [
+            "VISST2645"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2500": {
+        "Title": "Introduction to the History of Photography",
+        "Course Code": "ARTH2500",
+        "Description": "\n            Provides a lecture survey of the history of photography over a course of two centuries. Starting with its invention in the 1830s, covers the subject topically and chronologically. During the nineteenth century, focus is on technical developments and on the complex relations that situate photography in relation to painting, portraiture, urban life, war, anthropology and ethnology, exploration and travel, and science and industry. Over the course of the twentieth century, photography is enriched by new developments: its use as a modernist and experimental art form, in social documentary and photojournalism, in propaganda, in advertising and fashion. In recent decades, photography has assumed a centrality in the practice of conceptual postmodern art, and is currently undergoing a major transformation in the age of digital media.\n        ",
+        "Combined Course": [
+            "VISST2500"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2600": {
+        "Title": "Introduction to Modern Western Art: Materials, Media, and the End of Masterpieces",
+        "Course Code": "ARTH2600",
+        "Description": "\n            This course offers a broad introduction to some of the artistic practices that have come to be known as \"modern\" in Europe and the United States. Beginning with the upheavals of the French Revolution and carrying through to the turmoil of two world wars, we will survey the role of both fine art and visual culture in a period of great political, social, and technological change. The very definition of art was revolutionized in this moment, as an emphasis on materials and experiments with new media like photography and cinema took precedence over the production of highly-skilled masterpieces. Particular attention will be given to exchanges between western representation and that of other cultures. Topics covered include revolutionary propaganda; romantic unreason; caricature and political critique; the changing pace of the modern city; architecture in the machine age; the place of women in modernity; and the impact of new technology on spectatorship. Students should leave the course with increased familiarity with key art movements in the modern era and the skills to analyze and appreciate art and visual culture from any period.\u00a0\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3210": {
+        "Title": "The Archaeology of the City of Rome",
+        "Course Code": "ARTH3210",
+        "Description": "\n            This course tells the history of the Roman empire through the urban development of its capital from the early 1st millennium BCE to the advent of Christian emperors in the 4th century CE. What does the archeology reveal about how the geography and environment of this site, its society and political systems, military conquests, economy, infrastructure, resources, and technologies interacted to create the center of an empire? Special focus is on how the appropriation of other peoples and cultures shaped the metropolis itself. Did it manage to integrate individuals from Africa, the Near East, from North of the Alps and Britain, and if so, how? The history of excavations and the reception of the city's architecture in the 19th and 20th centuries will provide a critical lens for analyzing some of the master narratives associated with ancient Rome and its ruins.\n        ",
+        "Combined Course": [
+            "ARKEO3010",
+            "ARKEO6110",
+            "ARTH6210",
+            "CLASS3736",
+            "CLASS6766"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3250": {
+        "Title": "Introduction to Dendrochronology",
+        "Course Code": "ARTH3250",
+        "Description": "\n            Introduction and training in dendrochronology (tree-ring dating) and its applications in archaeology, art history, climate and environment through lab work and participation in ongoing research projects using ancient to modern wood samples from around the world. Supervised reading and laboratory/project work. Possibilities exists for summer fieldwork in the Mediterranean, Mexico, and New York State.\n        ",
+        "Combined Course": [
+            "ARKEO3090",
+            "ARKEO6755",
+            "CLASS3750",
+            "CLASS6755",
+            "MEDVL3750"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "HST-AS",
+            "HA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3650": {
+        "Title": "History and Theory of Digital Art",
+        "Course Code": "ARTH3650",
+        "Description": "\n            In this course, we will examine the role of electronic and digital technologies in the arts of the late 20th and 21st centuries with emphasis on Europe and North America. Beginning with the cybernetically and systems-inspired work of the late sixties, we will explore early uses of computer technology, including early experiments in synthetic video in the 1970s. An overview of pre-internet telematic experiments will lead to an investigation of net art and later currents of digital art. The ongoing development of behavioral art forms will be a central theme. Critical evaluation of various attitudes concerning technology will be encouraged.\n        ",
+        "Combined Course": [
+            "ARTH6653",
+            "INFO3660",
+            "STS3650",
+            "VISST3650"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3850": {
+        "Title": "The Arts of Southeast Asia",
+        "Course Code": "ARTH3850",
+        "Description": "\n            The arts of Southeast Asia are studied in their social context, since in traditional societies creative processes are often mapped on the sequence of events that compose human lives. We will be looking particularly at the gendered ways in which bodies are mapped on the land, and how these various framings are often reflected in the unique relationships that emerge between works of art and textual sources. The South Asian epics of the Ramayana (Story of Rama) and the Mahabharata will be explored during the semester as infinitely renewable sources of inspiration. Special emphasis will be devoted to localized encounters in Indonesia, Cambodia, Burma/Myanmar, Vietnam, and Thailand.\n        ",
+        "Combined Course": [
+            "ARTH6850",
+            "ASIAN3350",
+            "MEDVL3850",
+            "MEDVL6850",
+            "VISST3696"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "CA-AG",
+            "HA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4101": {
+        "Title": "Proseminar: Introduction to Methods",
+        "Course Code": "ARTH4101",
+        "Description": "\n            Works of art have always engendered political, social, and cultural meanings. This seminar presents an introduction to the methods used by art historians and the objects and ideas that constitute the historiography of their discipline. If art history was once understood as the study of the development of style in \"European art\", over the past century its practitioners have attempted to embrace a \"global\" perspective and to address issues of class, ethnicity, nationality, sexual orientation, and gender. Readings will focus on historically situating methods and the implications of their cross-cultural application. They will be discussed in the framework of institutions, apparatuses and practices that have shaped the field, identifying how these have contributed to systemic mechanisms of hegemony and exclusion. Papers will encourage students to put methods into practice, realizing in the process that subject matter is not an isolated choice to which methods are applied, but something that profoundly affects the approach that the researcher brings to the writing and conceptualizing and doing of art history.\u00a0\n        ",
+        "Combined Course": [
+            "ARTH6101",
+            "VISST4101"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4153": {
+        "Title": "Topics in Feminist Media Arts",
+        "Course Code": "ARTH4153",
+        "Description": "\n            Fall 2024 Topic: Feminist Posthumanisms in Visual Arts. While feminist art in new media address traditional feminist concerns such as the female body, identity, representation, feminist history, and consumerism, others directly engage with recent theoretical currents on the Anthropocene, posthumanism, and new materialisms that view humans and non-humans as co-dependent. Non-humans include environmental factors, animals, plants, bacteria, and machines. This seminar will examine work by contemporary artists from various geographical areas and cultural traditions engaged with posthumanist perspectives in relation to relevant theoretical texts and previous feminist media arts.\n        ",
+        "Combined Course": [
+            "ARTH6153",
+            "FGSS4153",
+            "FGSS6153",
+            "VISST4153"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "SCD-AS",
+            "CA-AG",
+            "D-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4233": {
+        "Title": "Greek and Roman Art and Archaeology",
+        "Course Code": "ARTH4233",
+        "Description": "\n            Topics Rotate. Fall 2024 topic: Funerary Culture in the Greco-Roman East. Tombs, grave goods, and funerary rituals are often thought to offer traces into the world of the living (the tomb as a house being a prominent metaphor), their concepts of the body, or their emotions. How, if at all, did such traditions change under imperial rule? Focusing on the Greek and Roman East means to zoom in to areas such as Greece, Anatolia, the Levant to the Middle East, or Egypt that feature century- if not millennia-old traditions which, if at all, transformed to different degrees under Roman rule. This seminar investigates opportunities and challenges of researching such constellations. Analysis of different traditions of scholarship that to this day shape our records will be critical, as well as discussion of scientific (and contested) methodologies of how to deal with human remains.\n        ",
+        "Combined Course": [
+            "ARKEO4233",
+            "ARKEO6233",
+            "ARTH6233",
+            "CLASS4746",
+            "CLASS7746"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4465": {
+        "Title": "Early Modern Materialities, 1400-1700",
+        "Course Code": "ARTH4465",
+        "Description": "\n            This seminar analyzes the contours of early modern Europe's material landscape and the ways in which global exchanges and technological advancements impacted material production and consumption. Working within an interdisciplinary framework, we will explore the dynamic material, global, and social dimensions of objects, and the meanings that different materials could generate in art production. Each week we will investigate an early modern art material \u2013 from ivory, to amber, shells, and pearls \u2013 and its use and/or representation in a range of artworks. Students will learn to \"think materially;\" they will be introduced to multiple techniques of production, harvesting, and fashioning of materials, and will consider the broader social, economic, political, and environmental factors that shaped material culture.\n        ",
+        "Combined Course": [
+            "ARTH6465"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Not open to: first-year students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4545": {
+        "Title": "The Photobook",
+        "Course Code": "ARTH4545",
+        "Description": "\n            Satisfies Tutorial Requirement. The history of photography as an art has been mostly on the page, not on the wall. This course refocuses the standard museum and gallery history of photography back to the book. Significantly, it takes advantage, through field trips, of the proximity of Cornell to the George Eastman House in Rochester, whose library houses the most important photobooks from around the world, including the best creations from Russia, Japan, and the United States.\u00a0 Students will learn the basics of photographic printing, book construction, the role of the photobook in the rise of the artist's book in the twentieth century, as well as advanced skills in analysis of the photographic picture and sequencing. Major themes will include the scientific photobook of the nineteenth century, the documentary photobook of the 1930s, the propaganda photobook of the communist era, the postwar photobooks of Japan, the personal/domestic turn of the 1970s, and the present state of the photobook in the digital era.\u00a0\n        ",
+        "Combined Course": [
+            "ARTH6545"
+        ],
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "Two field trips to George Eastman Museum are required.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4621": {
+        "Title": "Art and Empire in Britian and France",
+        "Course Code": "ARTH4621",
+        "Description": "\n            This seminar explores the images and objects produced, collected, and displayed in the context of the British and French empires of the eighteenth and nineteenth centuries. Drawing on a range of perspectives\u2014including postcolonial studies, critical race studies, and indigenous studies\u2014we will develop a critical vocabulary for addressing the history of colonialism and the ongoing process of decolonization, asking what particular problems and opportunities art history presents for the study of empire. In what ways were aesthetics entangled with imperial ideology? How did works of art support or challenge dominant political, social, and cultural narratives? And what does a study of historic empires have to offer to our understanding of globalization today? We will also engage with the ways in which the legacy of empire is treated in contemporary museology. Readings on France and Britain will be combined with theoretical texts that have informed scholarship on the history of imperialism more broadly. Participants in the seminar are encouraged to apply the themes covered to a geographical area and time period of their choice in their final paper.\n        ",
+        "Combined Course": [
+            "ARTH6621"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "CA-AG",
+            "HA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4774": {
+        "Title": "Indigenous Spaces and Materiality",
+        "Course Code": "ARTH4774",
+        "Description": "\n            The materiality of art as willful agents will be considered from ontology to an Indigenous expression of \"more than human relations.\" Located at the intersection of multiple modernities, art and science; the shift from art historical framings of form over matter and connoisseurship to viewing materiality as an active process that continues to map larger social processes and transformation will be discussed. Archives will be sites of investigation across varied Indigenous geographies marking place, space, bodies and land. This class is designed to introduce the latest methodologies in the field of art history, material culture and Indigenous Studies. Students will consult the archive, do hands-on evaluation of art, material culture, and expand their historic and theoretical knowledge about materiality. Beyond the theoretically and historically grounded critique this class provides, it will also introduce students to working with original documents and / or conduct on-site research. Students will consult the Cornell University library holdings of the Huntington Free Library's Native American Collection and conduct original archival research with historic and contemporary art and material culture at Haudenosaunee cultural centers, museums and exhibitions spaces through a class trip or individual visits (TBD).\n        ",
+        "Combined Course": [
+            "ANTHR4774",
+            "ANTHR7774",
+            "ART3874",
+            "ARTH6774"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "SCD-AS",
+            "CA-AG",
+            "D-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4852": {
+        "Title": "Shadowplay: Asian Art and Performance",
+        "Course Code": "ARTH4852",
+        "Description": "\n            Shadowplay is a superb medium for storytelling. As with many performing arts in Asia, neither the highly stylized images of puppets, nor its musical, or linguistic complexity detract from its wide popularity. Why does an art that appears so obscure exercise such broad appeal? This seminar explores the playful and politically adept fluctuations of shadows across screens from India to Mainland and Island Southeast Asia. We will also briefly examine East Asian developments, particularly in China and Japan. In each of the countries where shadow theatre exists it has acquired its own repertory and a distinct technique and style of its own. This aesthetic has translated locally into paint, sculpture, architecture, cinema, and modern and contemporary installation art. Classes will meet regularly in the Herbert F. Johnson Museum.\n        ",
+        "Combined Course": [
+            "ARTH6852",
+            "ASIAN4442",
+            "ASIAN6646",
+            "VISST4852"
+        ],
+        "Semester Offered": [
+            "FA24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "CA-AG",
+            "HA-AG",
+            "LA-AG"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4991": {
+        "Title": "Independent Study",
+        "Course Code": "ARTH4991",
+        "Description": "\n            Individual investigation and discussion of special topics not covered in the regular course offerings, by arrangement with a member of the department.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": "To apply for independent study, please complete the on-line form at data.arts.cornell.edu/as-stus/indep_study_intro.cfm.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          To apply: first discuss the Independent Study with the course supervisor, and then complete the online Independent Study form at https://data.arts.cornell.edu/as-stus/indep_study_intro.cfm.\n",
+        "Need Note": false
+    },
+    "ARTH4998": {
+        "Title": "Honors Work I",
+        "Course Code": "ARTH4998",
+        "Description": "\n            A course for senior Art History majors working on honors theses, with selected reading, research projects, etc., under the supervision of a member of the History of Art faculty.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: senior Art History majors who have been admitted to the honors program.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH5991": {
+        "Title": "Supervised Reading",
+        "Course Code": "ARTH5991",
+        "Description": "\n            Individual investigation and discussion of special topics not covered in the regular course offerings, by arrangement with a member of the department.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH5993": {
+        "Title": "Supervised Study",
+        "Course Code": "ARTH5993",
+        "Description": "\n            Individual investigation and discussion of special topics not covered in the regular course offerings, by arrangement with a member of the department.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA24",
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            1.0,
+            2.0,
+            3.0,
+            4.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
+        "Need Note": false
+    },
+    "ARTH3111": {
+        "Title": "Making Photography Matter: A Studio Course",
+        "Course Code": "ARTH3111",
+        "Description": "\n            Photography/Image Analysis/Graphic Design is a hands-on course devoted to the practical understanding of conception, production, and innovation in the photographic image world. Each unit of the course confronts a fundamental problem of contemporary photographic communication\u2014quality of light, framing, series, post-production, publication design, to name a few example topics\u2014from practical, theoretical, and historical perspectives. The goal of the course is to enrich students' understanding of how to make images that solve practical social and scholarly problems in an impactful, immediate, and public way.\n        ",
+        "Combined Course": [
+            "ARTH6111"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3300": {
+        "Title": "Romanesque and Early Gothic Art and Architecture: Europe and the Mediterranean, 1000-1150 A.D.",
+        "Course Code": "ARTH3300",
+        "Description": "\n            This course will address both \"Romanesque\" and the earliest manifestations of \"Gothic\" art and architecture as Western Mediterranean phenomena, rather than northern European ones. We will adopt a comparative approach which includes Islamic and, to a lesser extent, Byzantine cultures and material. In addition to the more usual art historical skills, such as visual and stylistic analysis and \"compare-and-contrast,\" we will use selected primary sources and historical analysis to attempt to understand the objects and monuments we address.\n        ",
+        "Combined Course": [
+            "ARTH6300",
+            "MEDVL3300",
+            "MEDVL6300",
+            "NES3759",
+            "NES6759"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3620": {
+        "Title": "After Nature: Art and Environmental Imagination",
+        "Course Code": "ARTH3620",
+        "Description": "\n            This course looks at what it means to make art in, of, and after nature, and asks how that art might contribute to shaping the world we live in. Tracing a trajectory from the collection and display of natural history specimens to views of European and American landscapes to contemporary artists who address ecological crises, the course offers both a history of landscape in western art and a study of environmental imagination. We will further explore how nature is represented on Cornell's campus, including in the Johnson Museum, the Lab of Ornithology and the Botanic Gardens. This course includes opportunities to creatively reflect on our personal relationship to nature through hands-on activities. Students from all disciplines are welcome to engage with themes including natural curiosities, parks and gardens, ideas of wilderness, the picturesque, environmental preservation, earth works, and the \"post-natural.\"\n        ",
+        "Combined Course": [
+            "AMST3629",
+            "ARTH6624"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3741": {
+        "Title": "Greco-Roman Art from Alexander to Augustus (c.350 BC - AD 20)",
+        "Course Code": "ARTH3741",
+        "Description": "\n            This course explores the visual arts of the Mediterranean region from the court of Alexander the Great to the principate of Augustus, the first Roman emperor. During the first half of the semester we will explore the civic, domestic and religious uses of sculpture, painting, architecture, and other media in major settlements of the Hellenistic world such as Alexandria, Pergamon and Rhodes, focusing on the third to first centuries BCE. In the second half of the semester, we will turn to the rise of the Roman empire and the relationship between native Italian artistic traditions and those of the Hellenized Mediterranean, as Republican Rome drew influences (and booty) from its conquered territories. Throughout the course we will examine visual images alongside relevant literary and archaeological material, emphasizing the role of the visual arts within broader aesthetic, intellectual and political trends.\n        ",
+        "Combined Course": [
+            "CLASS3741"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Recommended prerequisite: ARKEO 2700/ARTH 2200/CLASS 2700.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4035": {
+        "Title": "Cornell's Collection of Greek and Roman Art",
+        "Course Code": "ARTH4035",
+        "Description": "\n            This class examines the history and holdings of Cornell's teaching collection of ancient Greek and Roman objects. Designed to start a systematic inventory of the collections, it requires hands-on engagement with the objects (defining their material, age, function etc.) as much as archival work. Questions concerning the ethics of collections and calls for \"decolonizing\" museums will play a central role as we ultimately think about how to make use of and display the objects in our custody.\n        ",
+        "Combined Course": [
+            "ARKEO4035",
+            "ARKEO7035",
+            "ARTH6035",
+            "CLASS4035",
+            "CLASS7035",
+            "SHUM4035"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4151": {
+        "Title": "Topics in Media Arts",
+        "Course Code": "ARTH4151",
+        "Description": "\n            From the 20th-century to the present, artists have made art using live entities including plants, animals, cells, tissue cultures and bacteria. They have designed habitats, plants, body organs, imaged new species and attempted to salvage extinct ones. Some artists also have produced works in traditional media such as painting, sculpture, and photography. While artists always have depicted and sometimes directly engaged with aspects of the natural world in their art, bio art responds to recent developments in biology and information technologies. Because of its foundation on the life sciences this art entails significant ethical, social and political dimensions. In this seminar students will explore multiple areas of bio art with attention to pertinent artistic and critical literature and to the scientific practices in which the works are based. These interdisciplinary investigations will prepare students for a grounded assessment of bio art.\n        ",
+        "Combined Course": [
+            "ARTH6151",
+            "STS4511",
+            "STS6511",
+            "VISST4151",
+            "VISST6151"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4166": {
+        "Title": "Colonial Connectivities: Curating the Arts of the Spanish Americas",
+        "Course Code": "ARTH4166",
+        "Description": "\n            This seminar immerses students in the diverse painting traditions of colonial Latin America (1500s-1800s), with a focus on artistic practice in Peru, Ecuador, Venezuela, and the Hispanophone Caribbean. Themes include the pluralism and material makeup of devotional images, aesthetic constructions of race and class, the development of artistic workshops, and the role of rebellion and revolution in art. Students will participate in the curatorial development of Cornell's first exhibition of colonial Latin American art, scheduled to open in June 2024. They will research the paintings selected for the exhibition; devise the installation layout and design; write wall texts; and collaborate on the development of educational programming. Activities will also include a field trip to Buffalo State University observe scientific analysis of select paintings from the exhibition.\n        ",
+        "Combined Course": [
+            "ARKEO4166",
+            "ARKEO7166",
+            "ARTH6166",
+            "LATA4166",
+            "LATA6166",
+            "VISST4166",
+            "VISST6166"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4320": {
+        "Title": "Tales of the Alhambra and Lalla Rookh: Case Studies in Orientalism",
+        "Course Code": "ARTH4320",
+        "Description": "\n            An introduction both to the History of Art and to an interdisciplinary approach to research and analysis through close study of these two works. Beginning with a sampling of Said's Orientalism and its critics, we will follow with a group read and analysis of each illustrated work, including text-image consideration and analysis. There will be heavy focus on multi-media primary source material in Kroch library, the Johnson Museum, and my own personal collection; consideration of both works in their 19th-c context, as well as medieval and earlier roots. We will devote half the semester to each, with 'hinge point' marked by a study day at Olana. Final product could include small exhibition, in tandem with individual papers/projects.\n        ",
+        "Combined Course": [
+            "ARTH6320",
+            "NES4320",
+            "NES6320"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4690": {
+        "Title": "Comparative Modernities",
+        "Course Code": "ARTH4690",
+        "Description": "\n            Since the late 19th century, the effects of capitalism across the globe have been profoundly transformative and have intensified with the demise of the older colonial empires, the rise of nationalism and independent states, and the onset of neoliberal globalization. These transformations are manifested in the domains of high art, mass culture and popular culture, yet remain inadequately studied. This seminar theorizes and explores non-Western modernist and contemporary art practice in a comparative framework. Taught as a seminar, it assumes active participation by advanced undergraduate and graduate students who have a prior knowledge of Euro-American modernism and art history, and who wish to better understand the great artistic and visual transformations from the beginning of the 20th century onwards in a global context.\n        ",
+        "Combined Course": [
+            "ARTH6190",
+            "VISST4641"
+        ],
+        "Semester Offered": [
+            "SP24"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4816": {
+        "Title": "Modern Chinese Art",
+        "Course Code": "ARTH4816",
+        "Description": "\n            China, a cultural giant of East Asia, made a passive entrance into modernity. With the advent of Western and American colonialism and imperialism, coupled with recent successes in westernization by the Japanese, Chinese artists had to redefine their roles as well as their visions. This turmoil bore witness to a vibrant beginning in modern Chinese art. Interactions between the Chinese themselves, and Chinese interactions with foreigners in the major cities of Shanghai and Beijing, fostered new directions in Chinese art and helped shape western visions of Chinese art history. Issues covered include: Chinese debates on western influence--their theoretical foundations and rationales; New visions for the future of Chinese art in the late 19th and early 20th centuries; Pluralistic approaches and arguments on \"Chinese identity\" in the modern era; Collecting art and the vision of history; The identity of traditional literati painters in the modern era-their roles, artworks, and deeds; Foreigners in China-the formation of major European collections of Chinese art, and the formation of \"Chinese art history\" in the West.\n        ",
+        "Combined Course": [
+            "ARTH6816",
+            "ASIAN4473",
+            "ASIAN6673",
+            "SHUM4916"
+        ],
+        "Semester Offered": [
+            "SP24",
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH1173": {
+        "Title": "FWS: Portraiture",
+        "Course Code": "ARTH1173",
+        "Description": "\n            How does one capture the likeness of an individual? What purposes do portraits serve, and by which criteria may they be judged? Are there aspects of a person that elude representation? We will pose these questions of both artistic and literary portraits, and seek answers by writing about portraits here at Cornell: in our museums, libraries, and around campus.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH2550": {
+        "Title": "Introduction to Latin American Art",
+        "Course Code": "ARTH2550",
+        "Description": "\n            This course is designed to introduce students to Latin American art from the pre-Columbian period to the present.\u00a0 It will cover the arts of ancient civilizations including the Olmec, Maya, Aztec, Moche, and Inca, as well as the colonial, modern, and contemporary arts of Latin America and the Latino/a diaspora.\u00a0 Major themes include the relationship between art and religion, innovations and transformations in Latin American art across time, art and identity, as well as Indigenous and Afro-Latin American contributions to the visual arts.\u00a0 This course examines the societal relevance of images across Latin American cultures by paying close attention to the historical and political contexts in which they were created.\u00a0 Course readings are drawn from the disciplines of art history, anthropology, and history, along with theoretical perspectives on colonialism, postcolonialism, identity, race, and ethnicity.\n        ",
+        "Combined Course": [
+            "AMST2555",
+            "LATA2050",
+            "SHUM2550",
+            "VISST2550"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2800": {
+        "Title": "Introduction to the Arts of China",
+        "Course Code": "ARTH2800",
+        "Description": "\n            This course offers a survey of the art and culture of China from the Neolithic period to the twenty-first century to students who have no previous background in Chinese studies. The course begins with an inquiry into the meaning of national boundaries and the controversial definition of the Han Chinese people, which will help us understand and define the scope of Chinese culture. Pre-dynastic (or prehistoric) Chinese culture will be presented based both on legends about the origins of the Chinese and on scientifically excavated artifacts. Art of the dynastic periods will be presented in light of contemporaneous social, political, geographical, philosophical and religious contexts. This course emphasizes hands-on experience using the Chinese art collection at the Herbert F. Johnson Museum of Art for teaching and assignments. In addition to regular sections conducted in the museum, students are strongly encouraged to visit the museum often to appreciate and study artworks directly.\n        ",
+        "Combined Course": [
+            "ARKEO2800",
+            "ASIAN2288",
+            "SHUM2800"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4110": {
+        "Title": "Curatorial Practicum",
+        "Course Code": "ARTH4110",
+        "Description": "\n            This Curatorial Practicum evolved out of a Johnson Museum of Art's Andrew W. Mellon Foundation initiative in 2014. The seminar is collaborative and thematic, combining the expertise of museum curators with professors in the History of Art and Visual Studies.\n        ",
+        "Combined Course": [
+            "ARTH6010"
+        ],
+        "Semester Offered": [
+            "FA23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4231": {
+        "Title": "Fakes and the Authentic: Connoisseurship, Value, and Judgement",
+        "Course Code": "ARTH4231",
+        "Description": "\n            What is authenticity and why does it matter? Connoisseurship\u2014the expertise required to make discerning judgments\u2014involves assessments of quality,authenticity, historical and cultural significance, and many other issues. This course focuses on connoisseurship in the fine arts, archaeology, and ethnography in both academic contexts and the art world. Emphasis is on developing a nuanced understanding of authentication, at the core of the art market and an important determinant of relevant data for academic art historians and archaeologists. Topics include the role of authenticity in assigning value; looting and faking in relation to antiquities markets; technical analysis and forgery detection.\n        ",
+        "Combined Course": [
+            "ANTHR4231",
+            "ANTHR7231",
+            "ARKEO4231",
+            "ARKEO7231"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HST-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": "Prerequisite: A basic course in art history.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
+    },
+    "ARTH4310": {
+        "Title": "Methods in Medieval",
+        "Course Code": "ARTH4310",
+        "Description": "\n            Topic: Writing Through the Forest in Search of Trees. Hello, Humanities Student! Are you a plotter or a pantser? Not sure? Come and join us to find out, and to gain valuable insight into what kind of a writer you are, and how to manage that writer most effectively and productively. This theme-centered methods seminar, through a communal focus on trees, woods, glens, and copses in the pre-modern world, will hone in on the most indispensable tool in the humanist's belt: writing. From the generation of ideas, to their organization into an outline (or a blueprint, or whatever euphemism we, as a group or as individuals, decide to apply to the initial, tangled pile of yarn) to the first draft. Followed by frank and constructive criticism of the initial draft as a group and in pairs, and then on to the part that all students\u2014really, all humanists\u2026okay, all\u00a0writers\u2014find to be the greatest struggle: \"Your paper has some good ideas, but it really needs a rewrite.\"\u00a0Now\u00a0what do you do? As we write, and rewrite, we will also read widely. In addition to primary sources, scholarly articles and essays, we will include criticism, personal essay, theory, excerpts from fiction, and more, in an effort to open students' writing up to a myriad of possibilities for persuasive and compelling written communication.\n        ",
+        "Combined Course": [
+            "ARTH6310",
+            "JWST4310",
+            "JWST6310",
+            "MEDVL4310",
+            "MEDVL6310",
+            "NES4700",
+            "NES6700",
+            "RELST4310",
+            "RELST6310",
+            "SPAN4570",
+            "SPAN6590"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4460": {
+        "Title": "Fashion in Early Modern Europe",
+        "Course Code": "ARTH4460",
+        "Description": "\n            This seminar charts the rise of fashion consumption and its links to artistic and material culture in early modern Europe. This seminar brings dress and bodily adornment into conversation with notions of technological advancement, global encounters and trade, emergent colonialism, and cultural cross-fertilization. Students will examine extant garments and textiles in relation to painting, drawing, sculpture, print, and literary imaginings of dress to assess the impact of different artistic media on the rendition of dress.\u00a0 Students will consider the historiographical question of artistic mediation and its impact on contemporary understandings of historical clothing. Operating across the intersections of race, gender, class, and religious identities in early modern Europe, this seminar investigates how clothing and artistic production functioned in tandem to materialize markers of diverse identifications.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4684": {
+        "Title": "The Labor of Images: Encountering the Collective in Visual Cultures",
+        "Course Code": "ARTH4684",
+        "Description": "\n            This interdisciplinary seminar brings together critical theory and global visual arts to analyze the problem of work over the long twentieth century. By focusing on the labor of visual artists and their encounters with collective work, we will tackle how our understanding of work has transformed over the last century, including new definitions of immaterial and affective labor; the challenges and pleasures of political friendships across class, race, gender, and national lines; the labor of the spectator or viewer, operational images and the optical unconscious; and anti-work imaginaries and possible futures of collective life. Throughout, we will consider how medium, coordination, and form cut across both theories of labor and the praxis of visual art.\n        ",
+        "Combined Course": [
+            "ARTH6684",
+            "COML4684",
+            "COML6684",
+            "ENGL4984",
+            "PMA4684",
+            "PMA6684",
+            "SHUM4684",
+            "SHUM6684",
+            "VISST4684",
+            "VISST6684"
+        ],
+        "Semester Offered": [
+            "FA23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH1174": {
+        "Title": "FWS: Photographs and Text",
+        "Course Code": "ARTH1174",
+        "Description": "\n            Like the right Instagram filter, writing can change the way a photograph impacts its viewer. This course touches on some of photography's key histories and concerns to improve the way students write with images. By making something appear, a photograph wields great power on a screen or printed page. Writers not only elegantly describe photographs, but mine, subvert, and silence images with text. Class sessions will cover topics related to conceptual art, the documentary tradition, fourth-wave feminism, and postcolonial theory to interrogate photography's possibilities against the writer's responsibilities.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH1175": {
+        "Title": "FWS: Archaeological Collections",
+        "Course Code": "ARTH1175",
+        "Description": "\n            Why do people collect things? How do collections relate to the people who made the objects, and those who found, bought, and assembled them together? What can collections of archaeological media reveal about past lives and our own University? In this seminar, we will explore these questions through the object collections stored and displayed in our classrooms, museums, and libraries at Cornell. Writing assignments will allow students to translate what they\u00a0see\u00a0and\u00a0feel\u00a0when engaging ancient art objects into writing, including a formal analysis, object biography, and gallery labels. Based on their own engagement with media related to the ancient Mediterranean world, students will curate an exhibition of an archaeological collection.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH1176": {
+        "Title": "FWS: Can Art Change the World?",
+        "Course Code": "ARTH1176",
+        "Description": "\n            \u00a0bell hooks wrote that \"Changing how we see images is clearly one way to change the world.\" But how do images, in turn, shape how we perceive the world around us? How does art and visual culture contribute to historical change? This course examines how images can construct, or question, our perspectives. We will think critically about what separates the everyday images we consume through advertisements and social media from the fine art of modern and contemporary art institutions. Drawing on a selection of modern and contemporary artists working in various geopolitical contexts, students will learn how to pair art historical methods of describing images with political, economic, and social analysis. The course will also introduce students to key texts and theories for developing a critical writing practice, particularly from the Marxist, post-/de-colonial, and Black radical traditions.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": null,
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For more information about First-Year Writing Seminars, see the Knight Institute website at http://knight.as.cornell.edu/.\n",
+        "Need Note": false
+    },
+    "ARTH2221": {
+        "Title": "Archaeology of Roman Private Life",
+        "Course Code": "ARTH2221",
+        "Description": "\n            What was it like to live in the Roman world?\u00a0 What did that world look, taste and smell like?\u00a0 How did Romans raise their families, entertain themselves, understand death, and interact with their government? What were Roman values and how did they differ from our own?\u00a0 This course takes as its subject the everyday lives of individuals and explores those lives using the combined tools of archaeology, architecture and art, as well as some primary source readings.\u00a0 In doing so, it seeks to integrate those monuments into a world of real people, and to use archaeology to narrate a story about ancient lives and life habits. Some of the topics explored will include the Roman house; the Roman family, children and slaves; bathing and hygiene; food; gardens, agriculture and animals.\n        ",
+        "Combined Course": [
+            "ARKEO2743",
+            "CLASS2743"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3611": {
+        "Title": "Art of South Asia 1200-Present",
+        "Course Code": "ARTH3611",
+        "Description": "\n            This course surveys the art and architecture of South Asia since 1200 CE. We cover major developments over the last eight centuries, including the architecture of the Sultanate Period, Vijaynagar, painting and architecture in the Deccan and South India, Mughal art and architecture, and Rajput painting. We look at British period colonial art and architecture, the rise of nationalism and modernism in Indian art and the circulation of vernacular images, including posters and bazaar prints in the twentieth century. The recent globalization of South Asian contemporary art is also examined. Artistic movements are situated with reference to social, economic, and political developments.\n        ",
+        "Combined Course": [
+            "ARTH6611",
+            "ASIAN3382"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4160": {
+        "Title": "Topics in Colonial Encounters",
+        "Course Code": "ARTH4160",
+        "Description": "\n            The colonial period in Latin America (circa 1521-1820s) witnessed the formation of one of the most diverse societies in the world. Labor regimes, religious activities, marriage alliances, and commercial contacts engendered by the Spanish colonial enterprise brought Spaniards, Africans, and Indigenous peoples into dynamic contact. This cross-fertilization of cultures resulted in the construction of new cultural categories and colonial identities whose reverberations continue to be felt into the present day. This course explores the role that visual culture played in the articulation of identity in Latin America. For the purposes of this seminar, \"identity\" can be loosely defined as the overlapping allegiances to which one ascribes, whether racial, cultural, gendered, religious, or community-based. The visual culture of colonial Latin America can reveal multitudes on the construction of self and community across temporal and geographical contexts. We will explore a variety of colonial Latin American objects and images, including paintings, textiles, and material culture. Our discussions of images will be guided by readings on hybridity, coloniality, cross-cultural exchange, and the early modern Atlantic world.\n        ",
+        "Combined Course": [
+            "ARTH6160",
+            "LATA4160",
+            "LATA6160",
+            "VISST4160"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "LA-AS",
+            "ALC-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4171": {
+        "Title": "19th Century Art and Culture",
+        "Course Code": "ARTH4171",
+        "Description": "\n            An examination and analysis of the major trends in art from Neoclassicism and Romanticism through Post Impressionism and the dawn of the twentieth century. Lectures and readings will concentrate on the historical context of great masterpieces by seminal artists. The class will investigate the imagery and theoretical foundation of nineteenth-century European and American art using a selection of appropriate methodological approaches. Major figures to be discussed include David, Copley, Goya, Delacroix, Courbet, Cole, Manet, Morisot, Monet, Degas, Cassatt, Sargent, Eakins, Homer, Rodin, Van Gogh, Gauguin, Cezanne, and Toulouse-Lautrec. Part of each class will be devoted to discussions of the readings. Two classes will be held in the National Gallery of Art at times and dates to be determined. Exams, a term paper, and class participation will be used for evaluative purposes.\n        ",
+        "Combined Course": null,
+        "Semester Offered": [
+            "SP23",
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Taught in Washington, DC.\n",
+        "Need Note": false
+    },
+    "ARTH4351": {
+        "Title": "Problems in Byzantine Art",
+        "Course Code": "ARTH4351",
+        "Description": "\n            Topic Spring 23: Portraiture.\n        ",
+        "Combined Course": [
+            "ARKEO4351",
+            "ARKEO6351",
+            "ARTH6351",
+            "CLASS4752",
+            "CLASS7752",
+            "MEDVL4351",
+            "MEDVL6351",
+            "NES4351",
+            "NES6351",
+            "RELST4351",
+            "RELST6351",
+            "VISST4351",
+            "VISST6351"
+        ],
+        "Semester Offered": [
+            "SP23",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4620": {
+        "Title": "Art and the Remapping of the World",
+        "Course Code": "ARTH4620",
+        "Description": "\n            What possibilities does art offer to challenge the primacy of mapping in visualizing our world? Maps allow us to move through space, but they do so by abstracting space to its barest aspects\u2014an act of reduction that has historically served to eliminate Indigenous inhabitants, ecological entanglements, non-spatial elements, and countless other features of our lived environment. This course posits remapping as an act of repair, a means of correcting some of the reductive tendencies of maps. Moving between the history of cartography, particularly as it appears in Cornell's extensive Map Collection, and a study of artistic critiques of the map, we will develop a critical vocabulary for assessing cartographic practice and explore new tools for imagining it otherwise.\u00a0For longer description and instructor bio visit the\u00a0Society for the Humanities website.\n        ",
+        "Combined Course": [
+            "ARTH6620",
+            "SHUM4680",
+            "SHUM6680",
+            "VISST4680",
+            "VISST6680"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "HA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4702": {
+        "Title": "Art, Nature, and Ecology in Classical Antiquity",
+        "Course Code": "ARTH4702",
+        "Description": "\n            This course is designed to accompany the Johnson Museum's exhibition, \"Wonder and Wakefulness: the Nature of Pliny the Elder\", which will take place in Spring 2023 in honor of Pliny's 2000th birthday. We will take an interdisciplinary approach to the relationship between \"ars\" and \"natura\" in antiquity, focusing primarily on Roman visual and literary culture of the first centuries BCE/CE, whilst drawing upon recent work in the environmental humanities. Topics explored will include cultural constructions of the \"natural\"; empire and consumption; Roman villa culture and the environment; literary pastoral and the bucolic; sacro-idyllic and garden paintings; and theories of matter and materialism. The group will also take a trip to San Antonio, TX, to visit the exhibition \"Roman Landscapes: Visions of Nature and Myth from Rome and Pompeii.\"\n        ",
+        "Combined Course": [
+            "ARTH6702",
+            "CLASS4702",
+            "CLASS7702"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4858": {
+        "Title": "Dancing the Stone: Body, Memory, and Architecture",
+        "Course Code": "ARTH4858",
+        "Description": "\n            This course examines the role of temples and their sculptural programs in South and Southeast Asia as creative stimuli for performative reenactments. Choreographic encounters between imagination and memory will be mapped as they occur at various points historically and politically in Java, Bali, Cambodia and India. Since architectural choreography implies the human body's inhabitation and experience of place, the nature of ritualized behavior and its relationship to performance and politics will be explored spatially, both in organizing experience and defining or redefining identity on colonial, national, and diasporic margins. Bringing back the haptic sense (i.e. of feeling and doing at the same time) students will have the unique opportunity to balance the demands of learning a Balinese traditional dance while exploring performance traditions in historical perspective.\n        ",
+        "Combined Course": [
+            "ARTH6858",
+            "ASIAN4456",
+            "ASIAN6656",
+            "MEDVL4858",
+            "MEDVL6858",
+            "PMA4358",
+            "VISST4858"
+        ],
+        "Semester Offered": [
+            "SP23"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH2200": {
+        "Title": "Introduction to the Classical World in 24 Objects",
+        "Course Code": "ARTH2200",
+        "Description": "\n            Why are the most famous ancient Greek vases found in Italy? What was the \"worlds' first computer\" used for? What can a brick tell us about still standing Roman buildings? What is \"classical\" about all this and why should we care? This course on the art and archaeology of ancient Greece and Rome will address all these questions. Covering the time span from the\n        ",
+        "Combined Course": [
+            "ARKEO2700",
+            "CLASS2700"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "HA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3565": {
+        "Title": "Art and Architecture of Colonial Latin America",
+        "Course Code": "ARTH3565",
+        "Description": "\n            This course surveys the artistic and architectural traditions of Latin America during the period of Spanish colonial rule (ca. 1520s-1820s). It will center primarily on visual cultures of the viceroyalties of New Spain (Mexico) and Peru, but will also cover works of art and architecture from the Caribbean and the northern Andes. The course explores the legacy of pre-Columbian visual traditions in the colonial era as well as the lasting impact of colonial artistic practices in modern and contemporary Latin America. It will also examine colonial Latin America as the crossroads of dynamic artistic and cultural interaction between Indigenous, European, and Afrodescendant groups. Topics to be explored include issues of visual translation and transmission, art and agency, and the creation of new colonial artistic practices and idioms.\u00a0\u00a0\n        ",
+        "Combined Course": [
+            "ARTH6563",
+            "LATA3565",
+            "VISST3565"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "CA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4673": {
+        "Title": "The Kinship of Repair: Asian and Asian American Artists in Collaboration",
+        "Course Code": "ARTH4673",
+        "Description": "\n            Collaborations among and between Asian and Asian American artists in the twentieth and\u00a0twenty-first centuries have sought to redefine kinship by exploring the politics of belonging,\u00a0generational dis/connections, and the legacy of the Cold War. Through examining collaborative,\u00a0multi-media artworks\u00a0and performances by artists who engage with such questions, this course delves into, and expands on, the discourses of transnational and trans-Pacific Asia. With the history of anti-Asian racism and lingering Cold War geopolitics increasingly visible due to Covid-19, students will also critically explore the praxis of reparative kinship, in which settler colonialism and anti-Black racism continue to fracture our work on ecological decolonialization and make alliances against white supremacy fragile. For longer description and instructor bio visit the Society for the Humanities website.\n        ",
+        "Combined Course": [
+            "AAS4673",
+            "AAS6673",
+            "ARTH6673",
+            "ASIAN4467",
+            "ASIAN6667",
+            "FGSS4673",
+            "FGSS6673",
+            "SHUM4673",
+            "SHUM6673",
+            "VISST4673",
+            "VISST6673"
+        ],
+        "Semester Offered": [
+            "FA22"
+        ],
+        "Credits": [
+            3.0
+        ],
+        "Distribution": [
+            "ALC-AS",
+            "LA-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4720": {
+        "Title": "Curating the British Empire",
+        "Course Code": "ARTH4720",
+        "Description": "\n            During Europe's colonial era, the modern museum emerged as a site of cultural and scientific authority. This course investigates the history of imperial collections and collectors, with a focus on Britain and the East India Company in the nineteenth century. Examples of topics include: the \"supply chain\" for artifacts and knowledge resources; changing conceptions of intellectual property, ownership and access; household versus public versus for-profit collections; museums and the narration of social values and cultural identities; debates over the function or aims of museums and related institutions; the collections and the administration of the empire; the collections and the growth of the sciences; the postcolonial legacies of colonial collections.\n        ",
+        "Combined Course": [
+            "ARTH6720",
+            "BSOC4634",
+            "HIST4634",
+            "HIST6634",
+            "STS4634",
+            "STS6634"
+        ],
+        "Semester Offered": [
+            "FA22",
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "GLC-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3100": {
+        "Title": "History of Photography",
+        "Course Code": "ARTH3100",
+        "Description": "\n            How did photography become the world's most dominant kind of visual representation?\u00a0 This course investigates photography's scientific origins and complex relations to painting, portraiture, urban life, war, anthropology, exploration and travel, and labor and industry.\u00a0 By the 20th century we find photography enriched new developments that include its use as a modernist and experimental art form, in social documentary and photojournalism, in propaganda, in advertising and fashion, and its centrality in the practice of conceptual art, postmodernism, and the art and surveillance of the digital age.\n        ",
+        "Combined Course": [
+            "ARTH6100"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "LA-AS",
+            "ALC-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3225": {
+        "Title": "Archaic and Classical Greece",
+        "Course Code": "ARTH3225",
+        "Description": "\n            This lecture class centers on the formative periods of ancient Greek culture, the centuries from about 800-300 BCE. Its aim is to place Greece within the cosmopolitan networks of the Mediterranean and beyond, while simultaneously looking at specific local traditions. Only within this complex \"glocal\" frame will it become clear what is unique about Greek art.\u00a0\u00a0In surveying major genres such as architecture, ceramics, sculpture and painting we will also investigate the question of whether and how changing resources and modes of production, various political systems (such as democracy or monarchy) and situations (war, colonization, trade), gender, or theories of representation had an impact on the art of their time. Some of the particular themes to be discussed are: the role of the Near East for the development of Greek visual culture; city planning; images in public and private life; visualizing the human body and the individuum; Greek art in contact zones from the Black Sea to Southern Italy and Sicily; \"foreign\" art in Greece; the concept of art; reception of Greek art in modern times.\n        ",
+        "Combined Course": [
+            "ARKEO3225",
+            "ARTH6225",
+            "CLASS3735"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "CA-AS",
+            "ALC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH3625": {
+        "Title": "Paris, Capital of Modernity?",
+        "Course Code": "ARTH3625",
+        "Description": "\n            This course takes a critical perspective on the centrality of Paris to canonical narratives of modernity and modern art and architecture. We will look both at some of the defining art movements of the 19th century and at the influx of people and objects from other cultures\u2014many of whom and which arrived in Paris via colonialist violence and imperialist plunder\u2014 that contributed to those movements. Beginning with the French and Haitian Revolutions, moving through Impressionist travels in North Africa and the export of Haussmanization to South America, and ending with Le Corbusier's plan for redesigning Algiers, the course aims to redress some of the silences and oversights written into the history of modern art.\n        ",
+        "Combined Course": [
+            "ARTH6625",
+            "SHUM3625"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "CA-AS",
+            "ALC-AS",
+            "GLC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4305": {
+        "Title": "Looking for Love: Visual and Literary Cultures of Love in the Medieval Mediterranean, 1100 - 1400 AD",
+        "Course Code": "ARTH4305",
+        "Description": "\n            A comparative and interdisciplinary seminar whose focus is the visual world created by the pan-Mediterranean (Iberian Peninsula, Maghreb, France, Italy, Turkey, Egypt, and Persia) culture of \"Courtly Love\" beginning during the 11th century ad, and continuing as a principle factor in medieval cultural production for the remainder of the period. Particular attention will be paid to the ways in which the visual dimensions of this culture nuance, compliment, contradict, or at times even exist independently of, its oral and written spheres. Reading knowledge of any Romance or Semitic language and/or Persian, in addition to English, is highly advantageous.\n        ",
+        "Combined Course": [
+            "ARTH6305",
+            "NES4795"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "LA-AS",
+            "ALC-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4630": {
+        "Title": "Museum Histories",
+        "Course Code": "ARTH4630",
+        "Description": "\n            Museum Histories considers current and ongoing crises in arts institutions (COVID, labor issues, underrepresentation of minorities, calls for restitution of wrongfully-acquired objects) in relation to both the history of museums and collections and the kinds of histories they are able to tell. Readings will focus particularly on the 18th and 19th centuries and the ways in which museums developed alongside and in support of nationalist and imperialist agendas, asking to what extent present problems are informed by choices and alignments made in the past. We will also invite curators to discuss how museums can best address the issues covered and how curatorial strategies might address inherent inequalities within our institutions. Students are welcome to do their final projects on an aspect of contemporary museum practice as informed by the history discussed in the seminar.\n        ",
+        "Combined Course": [
+            "ARTH6630"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "CA-AS",
+            "ALC-AS",
+            "HST-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    },
+    "ARTH4856": {
+        "Title": "Producing Cloth Cultures",
+        "Course Code": "ARTH4856",
+        "Description": "\n            It is a fundamental part of human activity to dress or cover one's body and environment. While the symbolic significance of such clothing has long been recognized, the activity of producing fabric itself deserves more attention. By this we do not only mean the various techniques and technological devices involved in spinning, weaving, stitching, or sewing, but also the analogical activities and metaphors they entailed. What stories did they tell? How did their connection to writing, remembering, lovemaking, or ruling one's kingdom, to name but a few examples, play out metaphorically in cloth? And how did fabrics depend on or transform the transmission of techniques, fashions and motives, but also gender, concepts of the body or the built environment?\n        ",
+        "Combined Course": [
+            "ARTH6856",
+            "CLASS4756",
+            "SHUM4866",
+            "VISST4857"
+        ],
+        "Semester Offered": [
+            "SP22"
+        ],
+        "Credits": [
+            4.0
+        ],
+        "Distribution": [
+            "CA-AS",
+            "ALC-AS"
+        ],
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Prerequisites or Corequisites": [],
+        "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": false
+    }
+}

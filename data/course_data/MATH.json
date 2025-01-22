@@ -2,6 +2,8 @@
     "MATH1006": {
         "Title": "Academic Support for MATH 1106",
         "Course Code": "MATH1006",
+        "Description": "\n            Reviews material presented in MATH 1106\u00a0lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1106\u00a0lectures or discussions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -20,11 +22,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: MATH 1106.",
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          College of Arts & Sciences (A&S) students receive transcript credit only; cannot be used toward graduation\n",
         "Need Note": false
     },
     "MATH1011": {
         "Title": "Academic Support for MATH 1110",
         "Course Code": "MATH1011",
+        "Description": "\n            Reviews material presented in MATH 1110\u00a0lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1110\u00a0lectures or discussions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -46,11 +54,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: MATH 1110.",
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          College of Arts & Sciences (A&S) students receive transcript credit only; cannot be used toward graduation.\n",
         "Need Note": false
     },
     "MATH1012": {
         "Title": "Academic Support for MATH 1120",
         "Course Code": "MATH1012",
+        "Description": "\n            Reviews material presented in MATH 1120\u00a0lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 1120\u00a0lectures or discussions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -72,11 +86,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: MATH 1120.",
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          College of Arts & Sciences (A&S) students receive transcript credit only; cannot be used toward graduation.\n",
         "Need Note": false
     },
     "MATH1021": {
         "Title": "Academic Support for MATH 2210",
         "Course Code": "MATH1021",
+        "Description": "\n            Reviews material presented in MATH 2210 lectures, provides problem-solving techniques and tips as well as prelim review. Provides further instruction for students who need reinforcement. Not a substitute for attending MATH 2210 lectures or discussions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -98,11 +118,17 @@
         ],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Corequisite: MATH 2210.",
+        "Comments": "Students should contact their college for the most up-to-date information regarding if and how credits for this course will count toward graduation and/or be considered regarding academic standing.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH1106": {
         "Title": "Modeling with Calculus for the Life Sciences",
         "Course Code": "MATH1106",
+        "Description": "\n            The goal of this course is to give students a strong basis in some quantitative skills needed in the life and social sciences. There will be an emphasis on modeling, using fundamental concepts from calculus developed in the course, including: derivatives, integrals, and introductory differential equations. Examples from the life sciences are used throughout the course. To give a concrete example, we will study predator-prey populations. We will write down mathematical models that describe the evolution of these populations, analyze both quantitative and qualitative properties to make predictions about the future of these populations, and discuss the assumptions and limitations of the models. Note that while we will cover the topics of derivatives and integrals, this course has a different, much more applied, focus from courses such as MATH 1110\u00a0or a typical high school calculus course.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -117,15 +143,32 @@
             "MQL-AG",
             "OPHLS-AG"
         ],
-        "Prerequisites": [],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240",
+                "MATH1920",
+                "MATH2220",
+                "MATH2240",
+                "MATH1110",
+                "MATH1106"
+            ]
+        ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). No prior knowledge of calculus is required. Students who plan to take more than one semester of calculus should take MATH 1110 rather than MATH 1106. For guidance in selecting an appropriate course, please consult First Steps in Math.",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). No prior knowledge of calculus is required. Students who plan to take more than one semester of calculus should take MATH 1110 rather than MATH 1106. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
     },
     "MATH1110": {
         "Title": "Calculus I",
         "Course Code": "MATH1110",
+        "Description": "\n            Topics include functions and graphs, limits and continuity, differentiation and integration of algebraic, trigonometric, inverse trig, logarithmic, and exponential functions; applications of differentiation, including graphing, max-min problems, tangent line approximation, implicit differentiation, and applications to the sciences; the mean value theorem; and antiderivatives, definite and indefinite integrals, the fundamental theorem of calculus, and the area under a curve.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -143,15 +186,29 @@
             "MQL-AG",
             "OPHLS-AG"
         ],
-        "Prerequisites": [],
+        "Prerequisites": [
+            [
+                "MATH1110",
+                "MATH1920",
+                "MATH2220",
+                "MATH2240",
+                "MATH1120"
+            ]
+        ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). MATH 1110 can serve as a one-semester introduction to calculus or as part of a two-semester sequence in which it is followed by MATH 1120. For guidance in selecting an appropriate course, please consult First Steps in Math.",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: three years of high school mathematics (including trigonometry and logarithms) or a precalculus course (e.g., MATH 1101). MATH 1110 can serve as a one-semester introduction to calculus or as part of a two-semester sequence in which it is followed by MATH 1120. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
     },
     "MATH1120": {
         "Title": "Calculus II",
         "Course Code": "MATH1120",
+        "Description": "\n            Focuses on integration: applications, including volumes and arc length; techniques of integration, approximate integration with error estimates, improper integrals, differential equations and their applications. Also covers infinite sequences and series: definition and tests for convergence, power series, Taylor series with remainder, and parametric equations.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -178,11 +235,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110, excellent performance in MATH 1106, or equivalent AP credit.",
+        "Comments": "For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH1340": {
         "Title": "Strategy, Cooperation, and Conflict",
         "Course Code": "MATH1340",
+        "Description": "\n            We apply mathematical reasoning to problems arising in the social sciences. We discuss game theory and its applications to questions of governing and the analysis of political conflicts. The problem of finding fair election procedures to choose among three or more alternatives is analyzed.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -201,11 +264,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH1910": {
         "Title": "Calculus for Engineers",
         "Course Code": "MATH1910",
+        "Description": "\n            Essentially a second course in calculus. Topics include techniques of integration, finding areas and volumes by integration, exponential growth, partial fractions, infinite sequences and series, tests of convergence, and power series.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -223,15 +292,27 @@
             "MQL-AG",
             "OPHLS-AG"
         ],
-        "Prerequisites": [],
+        "Prerequisites": [
+            [
+                "MATH1920",
+                "MATH2220",
+                "MATH2240"
+            ]
+        ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: three years high school mathematics, including trigonometry and logarithms, and at least one course in differential and integral calculus, or equivalent AP credit. For guidance in selecting an appropriate course, please consult First Steps in Math.",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: three years high school mathematics, including trigonometry and logarithms, and at least one course in differential and integral calculus, or equivalent AP credit. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
     },
     "MATH1920": {
         "Title": "Multivariable Calculus for Engineers",
         "Course Code": "MATH1920",
+        "Description": "\n            Introduction to multivariable calculus. Topics include partial derivatives, double and triple integrals, line and surface integrals, vector fields, Green's theorem, Stokes' theorem, and the divergence theorem.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -257,11 +338,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1910 or equivalent AP credit.",
+        "Comments": "For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Co-enrollment in a one-credit Academic Excellence Workshop (ENGRG 1092) is an option for engineering students who wish to enhance their understanding of the course material.\n",
         "Need Note": false
     },
     "MATH2210": {
         "Title": "Linear Algebra",
         "Course Code": "MATH2210",
+        "Description": "\n            Topics include vector algebra, linear transformations, matrices, determinants, orthogonality, eigenvalues, and eigenvectors. Applications are made to linear differential or difference equations. The lectures introduce students to formal proofs. Students are required to produce some proofs in their homework and on exams.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -287,11 +374,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 with high performance, equivalent AP credit, or permission of department.",
+        "Comments": "Recommended for students who plan to major or minor in mathematics or a related field. For a more applied version of this course, see MATH 2310. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH2220": {
         "Title": "Multivariable Calculus",
         "Course Code": "MATH2220",
+        "Description": "\n            Differential and integral calculus of functions in several variables, line and surface integrals as well as the theorems of Green, Stokes, and Gauss.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -317,11 +410,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210.",
+        "Comments": "For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH2240": {
         "Title": "Theoretical Linear Algebra and Calculus",
         "Course Code": "MATH2240",
+        "Description": "\n            Topics include vector fields; line integrals; differential forms and exterior derivative; work, flux, and density forms; integration of forms over parametrized domains; and Green's, Stokes', and divergence theorems.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -344,11 +443,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2230.",
+        "Comments": "Designed for students who have been extremely successful in their previous calculus courses and for whom the notion of solving very hard problems and writing careful proofs is highly appealing. MATH 2230\u2013MATH 2240 provides an integrated treatment of linear algebra and multivariable calculus at a higher theoretical level than in MATH 2210\u2013MATH 2220. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH2310": {
         "Title": "Linear Algebra for Data Science",
         "Course Code": "MATH2310",
+        "Description": "\n            An introduction to linear algebra for students interested in applications to data science. The course diverges from traditional linear algebra courses by emphasizing data science applications while teaching similar concepts. Key topics include matrices as data tables, high-dimensional datasets, singular value decomposition for data compression, and linear transformations in computer graphics.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -371,11 +476,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1106, MATH 1110, or equivalent AP credit.",
+        "Comments": "Students who have taken MATH 2310 may need more foundational coursework before pursuing further study in mathematics and should contact the director of undergraduate studies for advice before continuing. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH2930": {
         "Title": "Differential Equations for Engineers",
         "Course Code": "MATH2930",
+        "Description": "\n            Introduction to ordinary and partial differential equations. Topics include: first-order equations (separable, linear, homogeneous, exact); mathematical modeling (e.g., population growth, terminal velocity); qualitative methods (slope fields, phase plots, equilibria, and stability); numerical methods; second-order equations (method of undetermined coefficients, application to oscillations and resonance, boundary-value problems and eigenvalues); and Fourier series. A substantial part of this course involves partial differential equations, such as the heat equation, the wave equation, and Laplace's equation. (This part must be present in any outside course being considered for transfer credit to Cornell as a substitute for MATH 2930.)\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -401,11 +512,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1920.",
+        "Comments": "Taking MATH 2930 and MATH 2940\u00a0simultaneously is not recommended.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Co-enrollment in a one-credit Academic Excellence Workshop (ENGRG 1093) is an option for engineering students who wish to enhance their understanding of the course material.\n",
         "Need Note": false
     },
     "MATH2940": {
         "Title": "Linear Algebra for Engineers",
         "Course Code": "MATH2940",
+        "Description": "\n            Linear algebra and its applications. Topics include: matrices, determinants, vector spaces, eigenvalues and eigenvectors, orthogonality and inner product spaces; applications include brief introductions to difference equations, Markov chains, and systems of linear ordinary differential equations. May include computer use in solving problems.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -431,11 +548,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1920.",
+        "Comments": "Taking MATH 2930\u00a0and MATH 2940 simultaneously is not recommended. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Co-enrollment in a one-credit Academic Excellence Workshop (ENGRG 1094) is an option for engineering students who wish to enhance their understanding of the course material.\n",
         "Need Note": false
     },
     "MATH3040": {
         "Title": "Prove It!",
         "Course Code": "MATH3040",
+        "Description": "\n            In mathematics, the methodology of proof provides a central tool for confirming the validity of mathematical assertions, functioning much as the experimental method does in the physical sciences. In this course, students learn various methods of mathematical proof, starting with basic techniques in propositional and predicate calculus and in set theory and combinatorics, and then moving to applications and illustrations of these via topics in one or more of the three main pillars of mathematics: algebra, analysis, and geometry. Since cogent communication of mathematical ideas is important in the presentation of proofs, the course emphasizes clear, concise exposition.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -464,11 +587,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "This course is useful for all students who wish to improve their skills in mathematical proof and exposition, or who intend to study more advanced topics in mathematics.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH3110": {
         "Title": "Introduction to Analysis",
         "Course Code": "MATH3110",
+        "Description": "\n            Provides a transition from calculus to real analysis. Topics include rigorous treatment of fundamental concepts in calculus: including limits and convergence of sequences and series, compact sets; continuity, uniform continuity and differentiability of functions. Emphasis is placed upon understanding and constructing mathematical proofs.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -502,11 +631,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3320": {
         "Title": "Introduction to Number Theory",
         "Course Code": "MATH3320",
+        "Description": "\n            An introductory course on number theory, the branch of algebra that studies the deeper properties of integers and their generalizations. Usually includes most of the following topics: the Euclidean algorithm, continued fractions, Pythagorean triples, Diophantine equations such as Pell's equation, congruences, quadratic reciprocity, binary quadratic forms, Gaussian integers, and factorization in quadratic number fields. May include a brief introduction to Fermat's Last Theorem.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -535,11 +670,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH3340": {
         "Title": "Abstract Algebra",
         "Course Code": "MATH3340",
+        "Description": "\n            An introduction to structures of abstract algebra, including groups, rings, fields, factorization of polynomials and integers, congruences, and the structure of finite abelian groups. Additional topics include modules over Euclidean domain and Sylow theorems.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -565,11 +706,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students who are considering attending graduate school in mathematics might consider taking MATH 4330\u00a0after MATH 3340.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH3360": {
         "Title": "Applicable Algebra",
         "Course Code": "MATH3360",
+        "Description": "\n            Introduction to the concepts and methods of abstract algebra that are of interest in applications. Covers the basic theory of groups, rings and fields and their applications to such areas as public-key cryptography and error-correcting codes. Applications include the RSA cryptosystem and use of finite fields to construct error-correcting codes. Topics include elementary number theory, Euclidean algorithm, prime factorization, congruences, theorems of Fermat and Euler, elementary group theory, Chinese remainder theorem, factorization in the ring of polynomials, and classification of finite fields.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -595,11 +742,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4030": {
         "Title": "History of Mathematics",
         "Course Code": "MATH4030",
+        "Description": "\n            Development of mathematics from Babylon and Egypt and the Golden Age of Greece through its nineteenth century renaissance in the Paris of Cauchy and Lagrange and the Berlin of Weierstrass and Riemann. Covers basic algorithms underlying algebra, analysis, number theory, and geometry in historical order. Theorems and exercises cover the impossibility of duplicating cubes and trisecting angles, which regular polygons can be constructed by ruler and compass, the impossibility of solving the general fifth degree algebraic equation by radicals, the transcendence of pi. Students give presentations from original sources over 5000 years of mathematics.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -615,11 +768,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: two mathematics courses above 3000, or permission of instructor.",
+        "Comments": "Students will be expected to be comfortable writing proofs. Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4130": {
         "Title": "Honors Introduction to Analysis I",
         "Course Code": "MATH4130",
+        "Description": "\n            Introduction to the rigorous theory underlying calculus, covering the real number system and functions of one variable. Based entirely on proofs. The student is expected to know how to read and, to some extent, construct proofs before taking this course. Topics typically include construction of the real number system, properties of the real number system, continuous functions, differential and integral calculus of functions of one variable, sequences and series of functions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -653,11 +812,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: high level of performance in a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Strong proficiency in writing proofs is expected. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4140": {
         "Title": "Honors Introduction to Analysis II",
         "Course Code": "MATH4140",
+        "Description": "\n            Proof-based introduction to further topics in analysis. Topics may include the Lebesgue measure and integration, functions of several variables, differential calculus, implicit function theorem, infinite dimensional normed and metric spaces, Fourier series, ordinary differential equations.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -680,11 +845,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 4130.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4180": {
         "Title": "Complex Analysis",
         "Course Code": "MATH4180",
+        "Description": "\n            Theoretical and rigorous introduction to complex variable theory. Topics include complex numbers, differential and integral calculus for functions of a complex variable including Cauchy's theorem and the calculus of residues, elements of conformal mapping.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -707,11 +878,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2230-MATH 2240, MATH 3110, or MATH 4130, or permission of instructor.",
+        "Comments": "Students will be expected to be comfortable writing proofs. Students interested in the applications of complex analysis should consider MATH 4220\u00a0rather than MATH 4180. However, undergraduates who plan to attend graduate school in mathematics should take MATH 4180.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4200": {
         "Title": "Differential Equations and Dynamical Systems",
         "Course Code": "MATH4200",
+        "Description": "\n            Covers ordinary differential equations in one and higher dimensions: qualitative, analytic, and numerical methods. Emphasis is on differential equations as models and the implications of the theory for the behavior of the system being modeled and includes an introduction to bifurcations.\n        ",
+        "Combined Course": [
+            "MATH5200"
+        ],
         "Semester Offered": [
             "SP25",
             "FA23",
@@ -741,11 +920,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4260": {
         "Title": "Numerical Analysis: Linear and Nonlinear Problems",
         "Course Code": "MATH4260",
+        "Description": "\n            Introduction to the fundamentals of numerical linear algebra: direct and iterative methods for linear systems, eigenvalue problems, singular value decomposition. In the second half of the course, the above are used to build iterative methods for nonlinear systems and for multivariate optimization. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.\n        ",
+        "Combined Course": [
+            "CS4220",
+            "CS5223"
+        ],
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -760,6 +948,10 @@
         ],
         "Prerequisites": [
             [
+                "MATH2210",
+                "MATH2940"
+            ],
+            [
                 "CS3220",
                 "CS4210",
                 "MATH4250"
@@ -769,20 +961,22 @@
                 "CS1112",
                 "CS1132",
                 "CS1133"
-            ],
-            [
-                "MATH2210",
-                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210 or MATH 2940 or equivalent, knowledge of programming, CS 3220 or CS 4210/MATH 4250, or permission of the instructor. ",
+        "Comments": "MATH 4250/CS 4210\u00a0and MATH 4260/CS 4220\u00a0provide a comprehensive introduction to numerical analysis; these classes can be taken independently from each other and in either order.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4280": {
         "Title": "Introduction to Partial Differential Equations",
         "Course Code": "MATH4280",
+        "Description": "\n            Topics are selected from first-order quasilinear equations, classification of second-order equations, with emphasis on maximum principles, existence, uniqueness, stability, Fourier series methods. Additional topics as time permits.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -806,11 +1000,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2930, MATH 3270, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4310": {
         "Title": "Linear Algebra",
         "Course Code": "MATH4310",
+        "Description": "\n            Introduction to linear algebra, including the study of vector spaces, linear transformations, matrices, and systems of linear equations. Additional topics are quadratic forms and inner product spaces, canonical forms for various classes of matrices and linear transformations.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -839,11 +1039,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. Undergraduates who plan to attend graduate school in mathematics should take MATH 4330\u00a0instead of MATH 4310.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4340": {
         "Title": "Honors Introduction to Algebra",
         "Course Code": "MATH4340",
+        "Description": "\n            Honors version of a course in abstract algebra, which treats the subject from an abstract and axiomatic viewpoint, including universal mapping properties. Topics include groups, groups acting on sets, Sylow theorems; rings, Euclidean domains, factorization, structure theorem of finitely generated modules over a principal ideal domain; fields, root adjunction, finite fields, introduction to Galois theory. The course emphasizes understanding the theory with proofs in both homework and exams.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -866,11 +1072,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 4330.",
+        "Comments": "MATH 4330\u2013MATH 4340 is recommended for undergraduates who plan to attend graduate school in mathematics. For a less theoretical course that covers subject matter similar to MATH 4340, see MATH 3340.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4500": {
         "Title": "Matrix Groups",
         "Course Code": "MATH4500",
+        "Description": "\n            An introduction to a topic that is central to mathematics and important in physics and engineering. The objects of study are certain classes of matrices, such as orthogonal, unitary, or symplectic matrices. These classes have both algebraic structure (groups) and geometric/topological structure (manifolds). Thus the course will be a mixture of algebra and geometry/topology, with a little analysis as well. The topics will include Lie algebras (which are an extension of the notion of vector multiplication in three-dimensional space), the exponential mapping (a generalization of the exponential function of calculus), and representation theory (which studies the different ways in which groups can be represented by matrices). Concrete examples will be emphasized. Background not included in the prerequisites will be developed as needed.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -899,11 +1111,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4540": {
         "Title": "Introduction to Differential Geometry",
         "Course Code": "MATH4540",
+        "Description": "\n            Differential geometry involves using calculus to study geometric concepts such as curvature and geodesics. This introductory course focuses on the differential geometry of curves and surfaces. It may also touch upon the higher-dimensional generalizations, Riemannian manifolds, which underlie the study of general relativity.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -934,11 +1152,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4710": {
         "Title": "Basic Probability",
         "Course Code": "MATH4710",
+        "Description": "\n            Introduction to probability theory, which prepares the student to take MATH 4720. The course begins with basics: combinatorial probability, mean and variance, independence, conditional probability, and Bayes formula. Density and distribution functions and their properties are introduced. The law of large numbers and the central limit theorem are stated and their implications for statistics are discussed.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -964,11 +1188,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120, or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: MATH 1920, MATH 2220, or equivalent.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4720": {
         "Title": "Statistics",
         "Course Code": "MATH4720",
+        "Description": "\n            Statistics have proved to be an important research tool in nearly all of the physical, biological, and social sciences. This course serves as an introduction to statistics for students who already have some background in calculus, linear algebra, and probability theory. Topics include parameter estimation, hypothesis testing, and linear regression. The course emphasizes both the mathematical theory of statistics and techniques for data analysis that are useful in solving scientific problems.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -986,23 +1216,29 @@
         ],
         "Prerequisites": [
             [
+                "MATH4710"
+            ],
+            [
                 "MATH2210",
                 "MATH2230",
                 "MATH2310",
                 "MATH2940"
-            ],
-            [
-                "MATH4710"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 4710 and linear algebra (MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent).",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: MATH 1920, MATH 2220, or equivalent. Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4740": {
         "Title": "Stochastic Processes",
         "Course Code": "MATH4740",
+        "Description": "\n            A one-semester introduction to stochastic processes which develops the theory together with applications. The course will always cover Markov chains in discrete and continuous time and Poisson processes. Depending upon the interests of the instructor and the students, other topics may include queuing theory, martingales, Brownian motion, and option pricing.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "SP24",
@@ -1019,28 +1255,34 @@
         ],
         "Prerequisites": [
             [
+                "MATH2210",
+                "MATH2230",
+                "MATH2310",
+                "MATH2940"
+            ],
+            [
                 "MATH4710",
                 "BTRY3080",
                 "ILRST3080",
                 "STSCI3080",
                 "ORIE3500",
                 "ECON3130"
-            ],
-            [
-                "MATH2210",
-                "MATH2230",
-                "MATH2310",
-                "MATH2940"
             ]
         ],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 4710, BTRY 3080/ILRST 3080/STSCI 3080, ORIE 3500, or ECON 3130 and linear algebra (MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent).",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. This course may be useful to graduate students in the biological sciences or other disciplines who encounter stochastic models in their work but who do not have the background for more advanced courses such as ORIE 6500.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4900": {
         "Title": "Supervised Research",
         "Course Code": "MATH4900",
+        "Description": "\n            An independent research course by arrangement with an individual professor.\u00a0 The goal is for the student to perform an independent investigation into a specific mathematical question.\u00a0 The student and professor will set expectations and grading policies at the beginning of the term.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1063,11 +1305,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "To apply for independent study, please complete the online form.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          To apply: first discuss the Independent Study with the course supervisor, and then complete the online Independent Study form at https://data.arts.cornell.edu/as-stus/indep_study_intro.cfm.\n",
         "Need Note": false
     },
     "MATH4901": {
         "Title": "Supervised Reading",
         "Course Code": "MATH4901",
+        "Description": "\n            An independent reading course by arrangement with an individual professor. The goal is for the student to master a body of mathematics outside the normal curriculum. The student and professor will set expectations and grading policies at the beginning of the term.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1090,11 +1338,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "To apply for independent study, please complete the online form.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: Independent Studies\n                          To apply: first discuss the Independent Study with the course supervisor, and then complete the online Independent Study form at https://data.arts.cornell.edu/as-stus/indep_study_intro.cfm.\n",
         "Need Note": false
     },
     "MATH4980": {
         "Title": "Special Study for Mathematics Teaching",
         "Course Code": "MATH4980",
+        "Description": "\n            Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research. One credit is awarded for attending two Saturday workshops (see math.cornell.edu/math-5080) and writing a paper. Other credit options are available for students completing additional work, such as tutoring at a local middle school or completing a research paper or project.\n        ",
+        "Combined Course": [
+            "MATH5080"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1114,11 +1370,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": "Does not count toward the math major or math minor and will not count as degree credits for A&S students.\u00a0",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH5080": {
         "Title": "Special Study for Teachers",
         "Course Code": "MATH5080",
+        "Description": "\n            Examines principles underlying the content of the secondary school mathematics curriculum, including connections with the history of mathematics, technology, and mathematics education research.\n        ",
+        "Combined Course": [
+            "MATH4980"
+        ],
         "Semester Offered": [
             "SP25",
             "FA24",
@@ -1136,11 +1400,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: secondary mathematics teachers and others interested in issues related to teaching and learning secondary mathematics (e.g., mathematics pre-service teachers, mathematics graduate students, and mathematicians). Not open to: undergraduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH5200": {
         "Title": "Differential Equations and Dynamical Systems",
         "Course Code": "MATH5200",
+        "Description": "\n            Covers ordinary differential equations in one and higher dimensions: qualitative, analytic, and numerical methods. Emphasis is on differential equations as models and the implications of the theory for the behavior of the system being modeled and includes an introduction to bifurcations.\n        ",
+        "Combined Course": [
+            "MATH4200"
+        ],
         "Semester Offered": [
             "SP25",
             "FA23",
@@ -1166,11 +1438,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH1101": {
         "Title": "Calculus Preparation",
         "Course Code": "MATH1101",
+        "Description": "\n            Introduces topics in calculus:\u00a0limits, rates of change, definition of and techniques for finding derivatives, relative and absolute extrema, and applications. The calculus content of the course is similar to 1/3 of the content covered in MATH 1106\u00a0and MATH 1110. In addition, the course includes a variety of topics of algebra, with emphasis on the development of linear, power, exponential, logarithmic, and trigonometric functions. Because of the strong emphasis on graphing, students will have a better understanding of asymptotic behavior of these functions.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1184,11 +1462,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH1105": {
         "Title": "Finite Mathematics for the Life and Social Sciences",
         "Course Code": "MATH1105",
+        "Description": "\n            Introduction to linear algebra, probability, and Markov chains that develops the parts of the theory most relevant for applications. Specific topics include equations of lines, the method of least squares, solutions of linear systems, matrices; basic concepts of probability, permutations, combinations, binomial distribution, mean and variance, and the normal approximation to the binomial distribution. Examples from biology and the social sciences are used.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1205,12 +1489,18 @@
         "Prerequisites": [],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: three years of high school mathematics, including trigonometry and logarithms.",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: three years of high school mathematics, including trigonometry and logarithms.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
     },
     "MATH1300": {
         "Title": "Mathematical Explorations",
         "Course Code": "MATH1300",
+        "Description": "\n            For students who wish to experience how mathematical ideas naturally evolve. The course emphasizes ideas and imagination rather than techniques and calculations. Homework involves students in actively investigating mathematical ideas. Topics vary depending on the instructor. Some assessment through writing assignments.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1226,11 +1516,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          For enrollment information, see https://math.cornell.edu/enrollment-guide#limits-and-waiting-lists.\n",
         "Need Note": false
     },
     "MATH1710": {
         "Title": "Statistical Theory and Application in the Real World",
         "Course Code": "MATH1710",
+        "Description": "\n            Introductory statistics course discussing techniques for analyzing data occurring in the real world and the mathematical and philosophical justification for these techniques. Topics include population and sample distributions, central limit theorem, statistical theories of point estimation, confidence intervals, testing hypotheses, the linear model, and the least squares estimator. The course concludes with a discussion of tests and estimates for regression and analysis of variance (if time permits). The computer is used to demonstrate some aspects of the theory, such as sampling distributions and the Central Limit Theorem. In the lab portion of the course, students learn and use computer-based methods for implementing the statistical methodology presented in the lectures.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "SP24",
@@ -1250,12 +1546,18 @@
         "Prerequisites": [],
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
-        "Specific Requirements": "Comments Prerequisite: high school mathematics. No previous familiarity with computers presumed.",
-        "Need Note": false
+        "Specific Requirements": "Prerequisite: high school mathematics. No previous familiarity with computers presumed.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
+        "Need Note": true
     },
     "MATH2230": {
         "Title": "Theoretical Linear Algebra and Calculus",
         "Course Code": "MATH2230",
+        "Description": "\n            Topics include vectors, matrices, and linear transformations; differential calculus of functions of several variables; inverse and implicit function theorems; quadratic forms, extrema, and manifolds; multiple and iterated integrals.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1277,11 +1579,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 with a grade of A- or better, equivalent AP credit, or permission of instructor.",
+        "Comments": "Designed for students who have been extremely successful in their previous calculus courses and for whom the notion of solving very hard problems and writing careful proofs is highly appealing. MATH 2230\u2013MATH 2240\u00a0provides an integrated treatment of linear algebra and multivariable calculus at a higher theoretical level than in MATH 2210\u2013MATH 2220. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3210": {
         "Title": "Manifolds and Differential Forms",
         "Course Code": "MATH3210",
+        "Description": "\n            A manifold is a type of subset of Euclidean space that has a well-defined tangent space at every point. Such a set is amenable to the methods of multivariable calculus. After a review of some relevant calculus, this course investigates manifolds and the structures that they are endowed with, such as tangent vectors, boundaries, orientations, and differential forms. The notion of a differential form encompasses such ideas as area forms and volume forms, the work exerted by a force, the flow of a fluid, and the curvature of a surface, space, or hyperspace. The course re-examines the integral theorems of vector calculus (Green, Gauss, and Stokes) in the light of differential forms and applies them to problems in partial differential equations, topology, fluid mechanics, and electromagnetism.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1311,11 +1619,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3270": {
         "Title": "Introduction to Ordinary Differential Equations",
         "Course Code": "MATH3270",
+        "Description": "\n            A one-semester introduction to the theory and techniques of ordinary differential equations. Topics may include first-order and second-order differential equations, systems of linear differential equations, initial-value and two-point boundary-value problems, Sturm-Liouville theory, Sturm oscillation and comparison theory, the basic existence and uniqueness theorems, series solutions, special functions, and Laplace transforms. Applications from science and engineering may also be included at the instructor's discretion.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -1342,11 +1656,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3610": {
         "Title": "Mathematical Modeling",
         "Course Code": "MATH3610",
+        "Description": "\n            Introduction to the theory and practice of mathematical modeling. This course compares and contrasts different types of mathematical models (discrete vs. continuous, deterministic vs. stochastic), focusing on advantages, disadvantages and limits of applicability for each approach. Case-study format covers a variety of application areas including economics, physics, sociology, traffic engineering, urban planning, robotics, and resource management. Students learn how to implement mathematical models on the computer and how to interpret/describe the results of their computational experiments.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1366,11 +1686,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1110-MATH 1120 or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3840": {
         "Title": "Introduction to Set Theory",
         "Course Code": "MATH3840",
+        "Description": "\n            This will be a course on standard set theory (first developed by Ernst Zermelo early in the 20th century): the basic concepts of sethood and membership, operations on sets, functions as sets, the set-theoretic construction of the Natural Numbers, the Integers, the Rational and Real numbers; time permitting, some discussion of cardinality.\n        ",
+        "Combined Course": [
+            "PHIL3300",
+            "PHIL6311"
+        ],
         "Semester Offered": [
             "FA24",
             "SP23"
@@ -1385,11 +1714,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4210": {
         "Title": "Nonlinear Dynamics and Chaos",
         "Course Code": "MATH4210",
+        "Description": "\n            Introduction to nonlinear dynamics, with applications to physics, engineering, biology, and chemistry. Emphasizes analytical methods, concrete examples, and geometric thinking. Topics include one-dimensional systems; bifurcations; phase plane; nonlinear oscillators; and Lorenz equations, chaos, strange attractors, fractals, iterated mappings, period doubling, renormalization.\n        ",
+        "Combined Course": [
+            "MAE5790"
+        ],
         "Semester Offered": [
             "FA24",
             "SP24",
@@ -1418,11 +1755,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: high level of performance in a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": "Recommended prerequisite: MATH 2930\u00a0or equivalent preparation in differential equations. Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4220": {
         "Title": "Applied Complex Analysis",
         "Course Code": "MATH4220",
+        "Description": "\n            Covers complex variables, Fourier transforms, Laplace transforms and applications to partial differential equations. Additional topics may include an introduction to generalized functions.\n        ",
+        "Combined Course": [
+            "MATH5220"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1450,11 +1795,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. Undergraduates who plan to attend graduate school in mathematics should take MATH 4180\u00a0instead of MATH 4220.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4250": {
         "Title": "Numerical Analysis and Differential Equations",
         "Course Code": "MATH4250",
+        "Description": "\n            Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques. Computer programming is required to test the theoretical concepts throughout the course.\n        ",
+        "Combined Course": [
+            "CS4210",
+            "MATH5250"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1479,11 +1833,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent and one additional mathematics course numbered 3000 or above.",
+        "Comments": "Students will be expected to be comfortable writing proofs and have knowledge of programming. MATH 4250/CS 4210\u00a0and MATH 4260/CS 4220\u00a0provide a comprehensive introduction to numerical analysis; these classes can be taken independently from each other and in either order.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4330": {
         "Title": "Honors Linear Algebra",
         "Course Code": "MATH4330",
+        "Description": "\n            Honors version of a course in advanced linear algebra, which treats the subject from an abstract and axiomatic viewpoint. Topics include vector spaces, linear transformations, polynomials, determinants, tensor and wedge products, canonical forms, inner product spaces, and bilinear forms. Emphasis is on understanding the theory of linear algebra; homework and exams include at least as many proofs as computational problems.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1508,11 +1868,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: high level of performance in MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Strong proficiency in writing proofs is expected. More experience with proofs may be gained by first taking a 3000-level MATH course. MATH 4330\u2013MATH 4340\u00a0is recommended for undergraduates who plan to attend graduate school in mathematics. For a less theoretical course that covers approximately the same subject matter as MATH\u00a04330, see MATH 4310.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4370": {
         "Title": "Computational Algebra",
         "Course Code": "MATH4370",
+        "Description": "\n            Introduction to algebraic geometry and computational algebra. In this course, students learn how to compute a Gr\u00f6bner basis for polynomials in many variables. Covers the following applications: solving systems of polynomial equations in many variables, solving diophantine equations in many variables, 3-colorable graphs, and integer programming. Such applications arise, for example, in computer science, engineering, economics, and physics.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -1534,11 +1900,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4410": {
         "Title": "Introduction to Combinatorics I",
         "Course Code": "MATH4410",
+        "Description": "\n            Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, K\u00f6nig, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, M\u00f6bius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.\n        ",
+        "Combined Course": [
+            "MATH5410"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1561,11 +1935,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4530": {
         "Title": "Introduction to Topology",
         "Course Code": "MATH4530",
+        "Description": "\n            Topology may be described briefly as qualitative geometry. This course begins with basic point-set topology, including connectedness, compactness, and metric spaces. Later topics may include the classification of surfaces (such as the Klein bottle and M\u00f6bius band), elementary knot theory, or the fundamental group and covering spaces.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1590,11 +1970,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4810": {
         "Title": "Mathematical Logic",
         "Course Code": "MATH4810",
+        "Description": "\n            First course in mathematical logic providing precise definitions of the language of mathematics and the notion of proof (propositional and predicate logic). The completeness theorem says that we have all the rules of proof we could ever have. The G\u00f6del incompleteness theorem says that they are not enough to decide all statements even about arithmetic. The compactness theorem exploits the finiteness of proofs to show that theories have unintended (nonstandard) models. Possible additional topics: the mathematical definition of an algorithm and the existence of noncomputable functions; the basics of set theory to cardinality and the uncountability of the real numbers.\n        ",
+        "Combined Course": [
+            "PHIL4310"
+        ],
         "Semester Offered": [
             "FA24",
             "FA22"
@@ -1616,11 +2004,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking CS 2800\u00a0or a 3000-level MATH course. Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4997": {
         "Title": "Practical Training in Mathematics",
         "Course Code": "MATH4997",
+        "Description": "\n            This independent study course offers math majors (i.e., undergraduates whose applications to affiliate with the math major have been approved) an opportunity to reflect on concepts from mathematics as they were encountered and applied in a recent internship. Students write a short paper describing their work experience and how it connects to the educational objectives of the mathematics major.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA24",
             "FA23"
@@ -1633,11 +2027,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": null,
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Primarily for: international undergraduate math majors whose application to affiliate has been approved.",
+        "Foot Note": "\nInstruction Mode: Independent Studies\n",
         "Need Note": false
     },
     "MATH5220": {
         "Title": "Applied Complex Analysis",
         "Course Code": "MATH5220",
+        "Description": "\n            Covers complex variables, Fourier transforms, Laplace transforms and applications to partial differential equations. Additional topics may include an introduction to generalized functions.\n        ",
+        "Combined Course": [
+            "MATH4220"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1663,11 +2065,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: a semester of linear algebra (MATH 2210, MATH 2230, MATH 2310, or MATH 2940) and a semester of multivariable calculus (MATH 2220, MATH 2240, or MATH 1920), or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: graduate and professional students.\n",
         "Need Note": true
     },
     "MATH5250": {
         "Title": "Numerical Analysis and Differential Equations",
         "Course Code": "MATH5250",
+        "Description": "\n            Introduction to the fundamentals of numerical analysis: error analysis, approximation, interpolation, numerical integration. In the second half of the course, the above are used to build approximate solvers for ordinary and partial differential equations. Strong emphasis is placed on understanding the advantages, disadvantages, and limits of applicability for all the covered techniques.\n        ",
+        "Combined Course": [
+            "CS4210",
+            "MATH4250"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1688,11 +2099,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230-MATH 2240, MATH 2310, or MATH 2940 or equivalent, and one additional mathematics course numbered 3000 or above.",
+        "Comments": "Students will be expected to be comfortable writing proofs and have knowledge of programming. Computer programming is required to test the theoretical concepts throughout the course.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: graduate and professional students.\n",
         "Need Note": true
     },
     "MATH5410": {
         "Title": "Introduction to Combinatorics I",
         "Course Code": "MATH5410",
+        "Description": "\n            Combinatorics is the study of discrete structures that arise in a variety of areas, particularly in other areas of mathematics, computer science, and many areas of application. Central concerns are often to count objects having a particular property (e.g., trees) or to prove that certain structures exist (e.g., matchings of all vertices in a graph). The first semester of this sequence covers basic questions in graph theory, including extremal graph theory (how large must a graph be before one is guaranteed to have a certain subgraph) and Ramsey theory (which shows that large objects are forced to have structure). Variations on matching theory are discussed, including theorems of Dilworth, Hall, K\u00f6nig, and Birkhoff, and an introduction to network flow theory. Methods of enumeration (inclusion/exclusion, M\u00f6bius inversion, and generating functions) are introduced and applied to the problems of counting permutations, partitions, and triangulations.\n        ",
+        "Combined Course": [
+            "MATH4410"
+        ],
         "Semester Offered": [
             "FA24",
             "FA23",
@@ -1713,11 +2132,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n                          Enrollment limited to: graduate and professional students.\n",
         "Need Note": false
     },
     "MATH3620": {
         "Title": "Dynamic Models in Biology",
         "Course Code": "MATH3620",
+        "Description": "\n            Introductory survey of the development, computer implementation, and applications of dynamic models in biology and ecology. Case-study format covering a broad range of current application areas such as regulatory networks, neurobiology, cardiology, infectious disease management, and conservation of endangered species. Students also learn how to construct and study biological systems models on the computer using a scripting and graphics environment.\n        ",
+        "Combined Course": [
+            "BIOEE3620"
+        ],
         "Semester Offered": [
             "SP24"
         ],
@@ -1733,11 +2160,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: two majors-level biology courses and completion of mathematics requirements for biological sciences major or equivalent.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH3810": {
         "Title": "Deductive Logic",
         "Course Code": "MATH3810",
+        "Description": "\n            A mathematical study of the formal languages of standard first-order propositional and predicate logic, including their syntax, semantics, and deductive systems. The basic apparatus of model theory will be presented. Various formal results will be established, most importantly soundness and completeness.\n        ",
+        "Combined Course": [
+            "COGST3310",
+            "PHIL3310",
+            "PHIL6310"
+        ],
         "Semester Offered": [
             "SP24"
         ],
@@ -1752,11 +2189,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequistite: PHIL 2310 or MATH 2210 or MATH 2230 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4420": {
         "Title": "Introduction to Combinatorics II",
         "Course Code": "MATH4420",
+        "Description": "\n            Continuation of MATH 4410, although formally independent of the material covered there.\u00a0 The emphasis here is the study of certain combinatorial structures, such as Latin squares and combinatorial designs (which are of use in statistical experimental design), classical finite geometries and combinatorial geometries (also known as matroids, which arise in many areas from algebra and geometry through discrete optimization theory).\u00a0 There is an introduction to partially ordered sets and lattices, including general M\u00f6bius inversion and its application, as well as the Polya theory of counting in the presence of symmetries.\n        ",
+        "Combined Course": [
+            "MATH5420"
+        ],
         "Semester Offered": [
             "SP24",
             "SP22"
@@ -1778,11 +2223,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH5420": {
         "Title": "Introduction to Combinatorics II",
         "Course Code": "MATH5420",
+        "Description": "\n            Continuation of MATH 5410, although formally independent of the material covered there.\u00a0 The emphasis here is the study of certain combinatorial structures, such as Latin squares and combinatorial designs (which are of use in statistical experimental design), classical finite geometries and combinatorial geometries (also known as matroids, which arise in many areas from algebra and geometry through discrete optimization theory).\u00a0 There is an introduction to partially ordered sets and lattices, including general M\u00f6bius inversion and its application, as well as the Polya theory of counting in the presence of symmetries.\n        ",
+        "Combined Course": [
+            "MATH4420"
+        ],
         "Semester Offered": [
             "SP24",
             "SP22"
@@ -1801,11 +2254,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": "Permission Note Enrollment limited to: graduate students.",
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH3850": {
         "Title": "Modal Logic",
         "Course Code": "MATH3850",
+        "Description": "\n            Modal logic is a general logical framework for systematizing reasoning about qualified and relativized truth.\u00a0It has been used to study the logic of possibility, time, knowledge, obligation, provability, and much more.\u00a0This course will explore both the theoretical foundations and the various philosophical applications of modal logic. On the theoretical side, we will cover basic metatheory, including Kripke semantics, soundness and completeness, correspondence theory, and expressive power.\u00a0On the applied side, we will examine temporal logic, epistemic logic, deontic logic, counterfactuals, two-dimensional logics, and quantified modal logic.\u00a0\n        ",
+        "Combined Course": [
+            "PHIL3340",
+            "PHIL6311"
+        ],
         "Semester Offered": [
             "FA23",
             "SP23"
@@ -1821,11 +2283,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: at least one prior course in philosophy, preferably in logic.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4520": {
         "Title": "Classical Geometries and Modern Applications",
         "Course Code": "MATH4520",
+        "Description": "\n            An introduction to projective, hyperbolic, and spherical geometry and their modern applications.\u00a0 The course will be divided into short modules with an emphasis on participation, discovery, and student projects and presentations. In addition to proving theorems, students will have the opportunity to make, build, 3D print, or program something related to the course material as a project component. We will cover classical theorems and techniques (e.g. stereographic projection and conics), and also see how classical geometry is used in and relates to other areas of mathematics (e.g. topology, via Euler characteristic) and in applications such as computer vision, networks, or architectural drawing.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA23"
         ],
@@ -1846,11 +2314,19 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course. Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4860": {
         "Title": "Applied Logic",
         "Course Code": "MATH4860",
+        "Description": "\n            Topics chosen from the following: propositional logic, first-order logic, and higher-order logic, both classical and intuitionistic versions, including completeness, incompleteness, and compactness results. Natural deduction and tableaux style logics and connection to the lambda calculus and programming languages and logics, and program verification.\n        ",
+        "Combined Course": [
+            "CS4860"
+        ],
         "Semester Offered": [
             "FA23"
         ],
@@ -1871,11 +2347,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2940, or equivalent.",
+        "Comments": "Students will be expected to be comfortable writing proofs. More experience with proofs may be gained by first taking a 3000-level MATH course.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH2130": {
         "Title": "Calculus III",
         "Course Code": "MATH2130",
+        "Description": "\n            Topics include vectors and vector-valued functions; multivariable and\u00a0vector calculus including multiple and line integrals\u00a0in different coordinate systems; and first- and\u00a0second-order differential equations with applications. Optional topics may include Green's theorem, the divergence theorem, and systems of differential equations.\u200b\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "SP23",
             "SP22"
@@ -1896,11 +2378,21 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 1120, MATH 1910, or equivalent AP credit.",
+        "Comments": "Designed for students who wish to master the basic techniques of multivariable calculus, but whose major will not require a substantial amount of mathematics. Students who plan to major or minor in mathematics or take upper-level math courses should take MATH 1920, MATH 2220, or MATH 2240\u00a0rather than MATH 2130. For guidance in selecting an appropriate course, please consult First Steps in Math.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH2810": {
         "Title": "Deductive Logic",
         "Course Code": "MATH2810",
+        "Description": "\n            A mathematical study of the formal languages of standard first-order propositional and predicate logic, including their syntax, semantics, and deductive systems. The basic apparatus of model theory will be presented. Various formal results will be established, most importantly soundness and completeness.\n        ",
+        "Combined Course": [
+            "COGST3310",
+            "PHIL3310",
+            "PHIL6310"
+        ],
         "Semester Offered": [
             "SP23"
         ],
@@ -1921,11 +2413,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: PHIL 2310, or MATH 2210, or MATH 2230 or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH3230": {
         "Title": "Introduction to Differential Equations",
         "Course Code": "MATH3230",
+        "Description": "\n            A brief one-semester introduction to the theory and techniques of both ordinary and partial differential equations. Topics for ordinary differential equations may include initial-value and two-point boundary value problems, the basic existence and uniqueness theorems, continuous dependence on data, stability of fix-points, numerical methods, special functions. Topics for partial differential equations may include the Poisson, heat and wave equations, boundary and initial-boundary value problems, maximum principles, continuous dependence on data, separation of variables, Fourier series, Green's functions, numerical methods, transform methods.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA22"
         ],
@@ -1952,11 +2450,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: multivariable calculus and linear algebra (e.g., MATH 2210-MATH 2220, MATH 2230-MATH 2240, or MATH 1920 and MATH 2940), or permission of instructor.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4315": {
         "Title": "Linear Algebra with Supplements",
         "Course Code": "MATH4315",
+        "Description": "\n            The main focus is on linear algebra, including the study of vector spaces, maps and matrices. Additional topics introduce groups, fields, rings, ideals, and algebraic geometry. The course provides a wide background of the basic concepts in algebra.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA22"
         ],
@@ -1978,11 +2482,17 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: MATH 2210, MATH 2230, MATH 2310, or MATH 2940. Students will be expected to be comfortable with proofs.",
+        "Comments": "Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": false
     },
     "MATH4560": {
         "Title": "Geometry of Discrete Groups",
         "Course Code": "MATH4560",
+        "Description": "\n            An introduction to the geometric approach to the theory of infinite discrete groups. Topics include group actions, the construction of Cayley graphs, connections to formal language theory, actions on trees, volume growth, and large-scale geometry. Theorems are balanced by specific examples such as Baumslag-Solitar groups, the Lamplighter group, and Thompson's groups.\n        ",
+        "Combined Course": null,
         "Semester Offered": [
             "FA22"
         ],
@@ -2003,11 +2513,20 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: an introduction to groups via MATH 3340, MATH 3360, MATH 4340, or MATH 4500, or permission of instructor. Students will be expected to be comfortable with proofs.",
+        "Comments": "Offered alternate years.",
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n",
         "Need Note": true
     },
     "MATH4820": {
         "Title": "Topics in Logic and the Foundations of Mathematics",
         "Course Code": "MATH4820",
+        "Description": "\n            Advanced discussion of a topic in logic or foundational mathematics.\n        ",
+        "Combined Course": [
+            "PHIL4311",
+            "PHIL6311"
+        ],
         "Semester Offered": [
             "FA22",
             "SP22"
@@ -2031,6 +2550,10 @@
         "Corequisites": [],
         "Prerequisites or Corequisites": [],
         "Specific Requirements": "Prerequisite: PHIL 2310, MATH 2810/PHIL 3310, MATH 3840/PHIL 3300, or permission of instructor, plus a background in logic.",
+        "Comments": null,
+        "Recommended Prerequisite": null,
+        "Permission": null,
+        "Foot Note": "\nInstruction Mode: In Person\n                          Fall 2022: The course provides an overview of the major foundational programs and the results that bear on them. Topics include logicism, constructivism, finitism, set-theoretic foundations, and G\u00f6del's incompleteness theorems.\n",
         "Need Note": false
     }
 }

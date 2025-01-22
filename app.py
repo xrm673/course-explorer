@@ -29,7 +29,7 @@ def load_data():
 # helper for load data
 def load_course_data():
     global course_data
-    with open('data/course_data/combined/combined.json', 'r') as file:
+    with open('data/course_data/combined/corrected.json', 'r') as file:
         course_data = json.load(file)
 
 # helper for load data
@@ -149,51 +149,130 @@ def search_courses():
 @app.route('/<course_code>',methods = ['GET'])
 def display_course(course_code):
     subject = course.get_subject(course_code)
-    if subject in course_data and course_code in course_data[subject]:
+    if course.contain_course(course_data,course_code):
         data = course_data[subject][course_code]
     else:
         raise Exception()
     title = data["Title"]
+    description = data["Description"]
     credits = data['Credits']
     semesters = data['Semester Offered']
     distributions = data["Distribution"]
     prereq = data["Prerequisites"]
+    requirement = data["Specific Requirements"]
+    comments = data["Comments"]
+    recommend = data["Recommended Prerequisite"]
+    permission = data["Permission"]
     return render_template(
         'course.html',
         course_code = course_code,
         title = title,
+        description = description,
         credits = credits,
         semesters = semesters,
         distributions = distributions,
-        prereq = prereq)
+        prereq = prereq,
+        requirement = requirement,
+        comments = comments,
+        recommend = recommend,
+        permission = permission
+        )
 
-@app.route('/<major>-<college>', methods=['GET'])
-def display_major(major, college):
+@app.route('/<major_displayed>-<college>', methods=['GET'])
+def display_major(major_displayed, college):
     courses_taken = session['courses_taken']
-    # Load data for the major
-    major_data = load_major_data(major)
-    sections = parseMajor.parse_major(courses_taken,major,college,major_data,course_data)
+    major1 = session["major1"]
+    major2 = session["major2"]
+    major_d_data = load_major_data(major_displayed)
+    # minor1 = session["minor1"]
+    # minor2 = session["minor2"]
+    # minor3 = session["minor3"]
+    if major2:
+        if major1 == major_displayed:
+            major_left = major2
+        if major2 == major_displayed:
+            major_left = major1
+        major_l_data = load_major_data(major_left)
+    else:
+        major_left = None
+        major_l_data = None
+    sections = parseMajor.parse_major(course_data,courses_taken,college,
+    major_displayed,major_d_data,major_left,major_l_data)
 
-    # Split sections into simple and searchable based on the structure
     simple_sections = {}
     searchable_sections = {}
 
     for section_name, info in sections.items():
-        # Check if courses are in a nested list (simple sections)
-        if isinstance(info['Courses'], list):  # Nested list
+        if isinstance(info['Courses'], list):
             simple_sections[section_name] = info
-        else:  # Flat list (searchable sections)
+        else:
             searchable_sections[section_name] = info
 
     return render_template(
         'display-major.html',
         course_data = course_data,
         courses_taken = session['courses_taken'],
-        major=major,
+        major=major_displayed,
         college=college,
         simple_sections=simple_sections,
         searchable_sections=searchable_sections
     )
+
+@app.route('/add_course_taken', methods=['POST'])
+def add_course_taken():
+    data = request.json
+    course_code = data.get('course')
+
+    if not course_code:
+        return jsonify({'error': 'No course provided'}), 400
+
+    # Initialize session["courses_taken"] if it doesn't exist
+    if 'courses_taken' not in session:
+        session['courses_taken'] = []
+    if not session['courses_taken']:
+        session['courses_taken'] = []
+
+    courses_taken = session['courses_taken'][:]
+    if course_code not in courses_taken:
+        courses_taken.append(course_code)
+        session['courses_taken'] = courses_taken
+
+    # Return the updated courses
+    return jsonify(session['courses_taken'])
+
+@app.route('/remove_course_taken', methods=['POST'])
+def remove_course_taken():
+    data = request.json
+    course_code = data.get('course')
+
+    if not course_code:
+        return jsonify({'error': 'No course provided'}), 400
+
+    # Check if 'courses_taken' exists in the session
+    if 'courses_taken' not in session:
+        session['courses_taken'] = []
+
+    courses_taken = session['courses_taken'][:]
+    # Remove the course from session['courses_taken'] if it exists
+    if course_code in session['courses_taken']:
+        courses_taken.remove(course_code)
+        session['courses_taken'] = courses_taken
+
+    # Return the updated list of courses
+    return jsonify(session['courses_taken'])
+
+@app.route('/check_eligibility', methods=['POST'])
+def check_eligibility():
+    data = request.json
+    course_code = data.get('course')
+
+    if not course_code:
+        return jsonify({'error': 'No course provided'}), 400
+
+    courses_taken = session.get('courses_taken', [])
+    is_eligible, _ = course.check_eligibility(course_data, courses_taken, course_code)
+
+    return jsonify({'course': course_code, 'is_eligible': is_eligible})
 
 @app.template_filter('extract_subject')
 def extract_subject(course_code):
@@ -205,7 +284,7 @@ def extract_number(course_code):
 
 @app.template_filter('get_recent_semester')
 def get_recent_semester(course_code):
-    semester_list = course.get_semester_offered(course_code,course_data)
+    semester_list = course.get_semester_offered(course_data,course_code)
     return semester_list[0]
 
 @app.template_filter('is_eligible')
@@ -213,6 +292,11 @@ def is_eligible(course_code):
     courses_taken = session['courses_taken']
     check,list = course.check_eligibility(course_data,courses_taken,course_code)
     return check
+
+def is_group_taken(group, courses_taken):
+    return any(course in courses_taken for course in group)
+
+app.jinja_env.globals.update(is_group_taken=is_group_taken)
 
 # @app.route('/api/search-section-courses', methods=['POST'])
 # def search_section_courses():
