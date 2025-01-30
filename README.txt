@@ -2,19 +2,20 @@ The Course Explorer Website is developed by Raymond Xu since December 2024.
 
 This program intends to help users exploring and selecting courses and majors at Cornell University. It displays major requirements and dynamically suggests courses for each requirement based on the user’s preference.
 
+To use the program, a user first selects his or her college, major(s), minor(s), graduation year, and the courses he or she has taken. After then, the main page will display the user's majors and minors. By clicking each major / minor, the user can see the specific requirement of that major / minor.
+
+For each requirement, the courses are ranked according to: 
+1. user's eligibility
+2. overlapped course for college requirement (distribution)
+3. overlapped course for other major / minors / tracks requirements
+4. by difficulty (CUReview) (workload, number of prelims)
+5. by instructor (CUReview & Rate My Professor)
+
 This program uses web scraping to obtain data from Cornell's Class Roster (get.py), Python language and Flask framework to develop its backend (app.py), and JavaScript, HTML, and CSS to develop the frontend (check templates and static folder). The program includes helper functions written in multiple files, such as course.py, importance.py, level.py 
 
-1. Show major requirement
 
-2. Show prerequisites
 
-3. Ranking
-According to :
-	1. eligibility
-	2. overlapped course for college requirement (distribution)
-	3. overlapped course for other major / minors / tracks requirements
-	4. by difficulty (CUReview) (workload, number of prelims)
-	5. by instructor (CUReview & Rate My Professor)
+
 
 想实现的功能：
 1. 用户选择major或minor，显示required的课
