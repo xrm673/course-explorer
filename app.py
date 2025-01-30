@@ -41,7 +41,7 @@ def load_college_data():
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if 'college' not in session:
-        return redirect(url_for('select-college'))
+        return redirect(url_for('select_college'))
     college = session['college']
     major1_code = session['major1']
     major1 = college_data[college]['Majors'][major1_code]
@@ -250,16 +250,6 @@ def add_course_taken():
         session['courses_taken'] = courses_taken
         print(session['courses_taken'])
     return jsonify(session['courses_taken'])
-
-@app.route('/change_number', methods=['POST'])
-def change_number():
-    # session['number_int'] += 1
-    # session['number_list'].append(1)
-    # session['number_list'] += [1]
-    number_list = session['number_list'][:]
-    number_list.append([1])
-    session['number_list'] = number_list
-    return jsonify(session['number_list'])
 
 @app.route('/remove_course_taken', methods=['POST'])
 def remove_course_taken():
