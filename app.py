@@ -21,7 +21,7 @@ major2_data = {}
 CURRENT = 2025
 LATEST = 2030
 
-@app.before_first_request
+@app.before_request
 def load_data():
     load_course_data()
     load_college_data()
