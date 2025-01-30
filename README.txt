@@ -1,3 +1,9 @@
+The Course Explorer Website is developed by Raymond Xu since December 2024.
+
+This program intends to help users exploring and selecting courses and majors at Cornell University. It displays major requirements and dynamically suggests courses for each requirement based on the user’s preference.
+
+This program uses web scraping to obtain data from Cornell's Class Roster (get.py), Python language and Flask framework to develop its backend (app.py), and JavaScript, HTML, and CSS to develop the frontend (check templates and static folder). The program includes helper functions written in multiple files, such as course.py, importance.py, level.py 
+
 1. Show major requirement
 
 2. Show prerequisites
