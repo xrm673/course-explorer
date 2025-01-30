@@ -311,7 +311,8 @@ def parse_prerequisites(prereq_text):
     replacements = {
     "linear algebra":"MATH 2210 or MATH 2230 or MATH 2310 or MATH 2940",
     "single-variable calculus": "MATH 1910 or MATH 1120",
-    "calculus": "MATH 1920 or MATH 2220 or MATH 2240",
+    "calculus": "MATH 1120 or MATH 1910 or MATH 1920 or MATH 2220 or MATH 2240",
+    "multi-variable calculus": "MATH 1920 or MATH 2220 or MATH 2240",
     "core statistics": "STSCI 2100 or MATH 1710",
     "probability theory":("BTRY 3080 or CS 2800 or ECON 3130 or ENGRD 2700 or "
     "MATH 4710"),
@@ -560,8 +561,7 @@ def combine_all():
         json.dump(combined,json_file,indent=4)
 
 if __name__ == "__main__":
-    save_all('STSCI')
-    save_all('ENGRD')
+    save_all('ECON')
     combine_all()
 # "CS4744" "CS5775" "MATH4030" "INFO3140" "INFO3152" "INFO4152" "INFO5152"
 # 'CS4210' (FA24), 'CS4745' (FA24)

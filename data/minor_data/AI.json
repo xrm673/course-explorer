@@ -1,0 +1,28 @@
+{
+    "Machine Learning" : {
+        "included" : ["CS3780","ECE3200","ORIE3741","STSCI3740"],
+        "number" : 1
+    },
+    "Reasoning" : [
+        ["CS3700"]
+    ],
+    "Human-AI Interaction" : [
+        ["INFO4940"]
+    ],
+    "Ethics, Governance & Policy" : {
+        "included" : ["ENGRG3605","INFO1260","PUBPOL4210"],
+        "number" : 1
+    },
+    "Electives" : {
+        "included" : ["CS4670", "CS4701", "CS4740", "LING4474", "CS4750", "ECE4770", "MAE4760", "CS4756", 
+        "CS4782", "CS4783", "CS4787", "CS4789", "CS4860", "MATH4860", "ECE4160", "MAE4190", 
+        "ENGRG3605", "INFO1260", "INFO3350", "INFO3950", "INFO4100", "INFO4120", "INFO4130", 
+        "INFO4275", "INFO4300", "CS4300", "INFO4310", "INFO4410", "CS4754", "INFO4940", 
+        "LING4424", "COGST4240", "CS4744", "LING4434", "MAE4180", "CS4758", "ECE4180", 
+        "MAE4810", "NBA4920", "ORIE4160", "ORIE4740", "ORIE4742", "PUBPOL4210", "INFO4210", 
+        "PHIL2621", "COGST2621", "STS3440", "STSCI3110", "ECON3110", "ILRST3110", "STSCI4030", 
+        "BTRY4030", "STSCI4520", "STSCI4750"],
+        "number" : 2
+    }
+
+}

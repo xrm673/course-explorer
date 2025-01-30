@@ -50,6 +50,27 @@
             "excluded" : [
                 "INFO4998","INFO4910","INFO5900"
             ]
+        },
+        "Data Analysis" : {
+            "included" : ["INFO3300", "INFO3900", "INFO3950", "INFO4940", "CS3780", 
+            "CS4786", "ORIE3120", "ORIE4740", "ORIE3741", "STSCI3740"],
+            "number" : 1
+        },
+        "Data Domain Expertise" : {
+            "included" : ["INFO2770", "INFO3350", "INFO3370", "INFO4100", "INFO4120", 
+            "INFO4300", "INFO4350", "INFO4940", "CS4740", "PUBPOL2130"],
+            "number" : 1
+        },
+        "Big Data Ethics, Policy and Society" : {
+            "included" : ["INFO3200", "INFO3561", "INFO4145", "INFO4200", "INFO4240", 
+            "INFO4250", "INFO4260", "INFO4270", "INFO4390", "INFO4561", "INFO4940", 
+            "COMM4242", "ENGL3778", "PUBPOL3460", "STS3440"],
+            "number" : 1
+        },
+        "Data Communication" : {
+            "included" : ["INFO3312", "INFO4310", "COMM3150", "COMM3189", 
+            "COMM4200", "COMM4860", "COMM4940", "GOVT2169", "SOC3580"],
+            "number" : 1
         }
     }
 }

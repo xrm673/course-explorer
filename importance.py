@@ -4,16 +4,18 @@ Date: January 7, 2025
 """
 import level
 import course
+import minorImportance
 
 def rank_importance(major_data,course_data,courses,courses_taken,college,
-major_displayed,major_left=None,major_l_data=None,minor1=None,minor2=None,minor3=None):
+major_displayed,major_left=None,major_l_data=None,minor1=None,minor1_data=None,minor2=None,minor2_data=None,minor3=None,minor3_data=None):
     """
     return a sorted dictionary of courses based on the courses taken
     """
     result = {}
     for course in courses:
         score,tags = individual_rank(major_data,course_data,course,courses_taken,
-        college,major_displayed,major_left,major_l_data,minor1,minor2,minor3)
+        college,major_displayed,major_left,major_l_data,minor1,minor1_data,
+        minor2,minor2_data,minor3,minor3_data)
         result[course] = (score,tags)
     ranked_courses = dict(sorted(result.items(),key=lambda item: item[1][0],
     reverse=True))
@@ -21,7 +23,8 @@ major_displayed,major_left=None,major_l_data=None,minor1=None,minor2=None,minor3
 
 #helper for rank_importance
 def individual_rank(major_data,course_data,course_code,courses_taken,college,
-major_displayed,major_left=None,major_l_data=None,minor1=None,minor2=None,minor3=None):
+major_displayed,major_left=None,major_l_data=None,minor1=None,minor1_data=None,
+minor2=None,minor2_data=None,minor3=None,minor3_data=None):
     """
     return the score and tags of a course based on major(s) and courses taken
     """
@@ -44,8 +47,15 @@ major_displayed,major_left=None,major_l_data=None,minor1=None,minor2=None,minor3
     else:
         major_l_score = 0
         tags_l = {}
-    score = score + college_score + major_d_score + major_l_score
     tags = combine_dictionaries(tags_college,tags_l)
+    if minor1:
+        minor1_score,tags_minor1 = minorImportance.minor_importance(course_data,
+        minor1_data,college,minor1,course_code)
+    else:
+        minor1_score = 0
+        tags_minor1 = {}
+    score = score + college_score + major_d_score + major_l_score + minor1_score
+    tags = combine_dictionaries(tags,tags_minor1)
     # tags = combine_dictionaries(tags_d,tags_l)
     return score,tags
 
@@ -73,35 +83,35 @@ def importance_CAS(course_data,course_code):
             f"Culture course in A&S.")
         if "BIO-AS" in distr:
             score += 10
-            tags["BIO-AS"] = (f"This can be counted as a Biological Sciences"
+            tags["BIO-AS"] = (f"This can be counted as a Biological Sciences "
             f"course in A&S.")
         if "ETM-AS" in distr:
             score += 10
-            tags["ETM-AS"] = (f"This can be counted as a Ethics and Mind"
+            tags["ETM-AS"] = (f"This can be counted as a Ethics and Mind "
             f"course in A&S.")
         if "GLC-AS" in distr:
             score += 10
-            tags["GLC-AS"] = (f"This can be counted as a Global Citizenship"
+            tags["GLC-AS"] = (f"This can be counted as a Global Citizenship "
             f"course in A&S.")
         if "HST-AS" in distr:
             score += 10
-            tags["HST-AS"] = (f"This can be counted as a Historical Analysis"
+            tags["HST-AS"] = (f"This can be counted as a Historical Analysis "
             f"course in A&S.")
         if "PHS-AS" in distr:
             score += 10
-            tags["PHS-AS"] = (f"This can be counted as a Physical Sciences"
+            tags["PHS-AS"] = (f"This can be counted as a Physical Sciences "
             f"course in A&S.")
         if "SCD-AS" in distr:
             score += 10
-            tags["SCD-AS"] = (f"This can be counted as a Social Difference"
+            tags["SCD-AS"] = (f"This can be counted as a Social Difference "
             f"course in A&S.")
         if "SSC-AS" in distr:
             score += 10
-            tags["SSC-AS"] = (f"This can be counted as a Social Sciences"
+            tags["SSC-AS"] = (f"This can be counted as a Social Sciences "
             f"course in A&S.")
         if "SDS-AS" in distr:
             score += 10
-            tags["SDS-AS"] = (f"This can be counted as a Statistics and Data Science"
+            tags["SDS-AS"] = (f"This can be counted as a Statistics and Data Science "
             f"course in A&S.")
         if "SMR-AS" in distr:
             score += 10
@@ -113,6 +123,8 @@ def major_importance(course_data,major_data,college,major,course_code):
     if college == 'A&S':
         if major == 'ARTH':
             return importance_ARTH_CAS(course_data,major_data,course_code)
+        if major == 'ECON':
+            return importance_ECON_CAS(course_data,major_data,course_code)
         if major == 'CS':
             return importance_CS_CAS(course_data,major_data,course_code)
         if major == 'INFO':
@@ -145,6 +157,27 @@ def importance_ARTH_CAS(course_data,major_data,course_code):
     '3000+'):
         score += 5
         tags['ARTH 3000+'] = "This is a 3000+ Art History course."
+
+    return score,tags
+
+def importance_ECON_CAS(course_data,major_data,course_code):
+    score = 0
+    tags = {}
+
+    for basic_group in major_data["A&S"]["Basics"]:
+        if course_code in basic_group:
+            score += 10
+            tags["ECON Basics"] = "This is a basic course required by Economics major."
+
+    for core_group in major_data["A&S"]["Core Courses"]:
+        if course_code in core_group:
+            score += 10
+            tags["ECON Core"] = "This is a core course required by Economics major."
+
+    electives = level.data_level("ECON",major_data,course_data,"A&S","Electives")
+    if course_code in electives:
+        score += 5
+        tags["ECON Electives"] = "This can be counted as an elective for CS major."
 
     return score,tags
 

@@ -82,17 +82,20 @@ def select_major():
         return redirect(url_for('select-college'))
     college = session['college']
     majors = college_data[college]['Majors']
+    minors = college_data["Minors"]
     if request.method == 'POST':
         major1 = request.form.get("major1")
         major2 = request.form.get("major2")
+        minor1 = request.form.get("minor1")
         if not major1 or major1 not in majors:
             return "You must select at least one major.", 400
         if major2 and (major2 not in majors or major1 == major2):
             return "Your second major must be different and valid.", 400
         session['major1'] = major1
         session['major2'] = major2 if major2 else None
+        session['minor1'] = minor1 if minor1 else None
         return redirect(url_for('select_year'))
-    return render_template('select-major.html',majors=majors)
+    return render_template('select-major.html',majors=majors,minors=minors)
 
 @app.route('/select-year',methods=['GET', 'POST'])
 def select_year():
@@ -184,9 +187,11 @@ def display_major(major_displayed, college):
     major1 = session["major1"]
     major2 = session["major2"]
     major_d_data = load_major_data(major_displayed)
-    # minor1 = session["minor1"]
+    minor1 = session["minor1"]
     # minor2 = session["minor2"]
     # minor3 = session["minor3"]
+    session['number_int'] = 0
+    session['number_list'] = [0]
     if major2:
         if major1 == major_displayed:
             major_left = major2
@@ -196,8 +201,9 @@ def display_major(major_displayed, college):
     else:
         major_left = None
         major_l_data = None
+    minor1_data = load_minor_data(minor1) if minor1 else None
     sections = parseMajor.parse_major(course_data,courses_taken,college,
-    major_displayed,major_d_data,major_left,major_l_data)
+    major_displayed,major_d_data,major_left,major_l_data,minor1,minor1_data)
 
     simple_sections = {}
     searchable_sections = {}
@@ -215,7 +221,9 @@ def display_major(major_displayed, college):
         major=major_displayed,
         college=college,
         simple_sections=simple_sections,
-        searchable_sections=searchable_sections
+        searchable_sections=searchable_sections,
+        number = session['number_int'],
+        number_list = session['number_list']
     )
 
 @app.route('/add_course_taken', methods=['POST'])
@@ -231,14 +239,27 @@ def add_course_taken():
         session['courses_taken'] = []
     if not session['courses_taken']:
         session['courses_taken'] = []
+    # if course_code not in session['courses_taken']:
+    #     session['courses_taken'].append(course_code)
+    #     print(session['courses_taken'])
+    # return jsonify(session['courses_taken'])
 
     courses_taken = session['courses_taken'][:]
     if course_code not in courses_taken:
         courses_taken.append(course_code)
         session['courses_taken'] = courses_taken
-
-    # Return the updated courses
+        print(session['courses_taken'])
     return jsonify(session['courses_taken'])
+
+@app.route('/change_number', methods=['POST'])
+def change_number():
+    # session['number_int'] += 1
+    # session['number_list'].append(1)
+    # session['number_list'] += [1]
+    number_list = session['number_list'][:]
+    number_list.append([1])
+    session['number_list'] = number_list
+    return jsonify(session['number_list'])
 
 @app.route('/remove_course_taken', methods=['POST'])
 def remove_course_taken():
@@ -322,6 +343,11 @@ def load_major_data(major):
     with open(f"data/major_data/{major}.json", 'r') as file:
         major_data = json.load(file)
     return major_data
+
+def load_minor_data(minor):
+    with open(f"data/minor_data/{minor}.json", 'r') as file:
+        minor_data = json.load(file)
+    return minor_data
 
 
 #-----------------------------------------------------------------------------

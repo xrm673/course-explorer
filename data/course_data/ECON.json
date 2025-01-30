@@ -204,15 +204,17 @@
         ],
         "Prerequisites": [
             [
+                "ECON1110"
+            ],
+            [
+                "MATH1120",
+                "MATH1910",
                 "MATH1920",
                 "MATH2220",
                 "MATH2240"
             ],
             [
                 "ECON1120"
-            ],
-            [
-                "ECON1110"
             ]
         ],
         "Corequisites": [],
@@ -247,15 +249,17 @@
         ],
         "Prerequisites": [
             [
+                "ECON1110"
+            ],
+            [
+                "MATH1120",
+                "MATH1910",
                 "MATH1920",
                 "MATH2220",
                 "MATH2240"
             ],
             [
                 "ECON1120"
-            ],
-            [
-                "ECON1110"
             ]
         ],
         "Corequisites": [],
@@ -399,13 +403,13 @@
         ],
         "Prerequisites": [
             [
-                "PUBPOL2000"
-            ],
-            [
                 "ECON1110"
             ],
             [
                 "ILRLE2400"
+            ],
+            [
+                "PUBPOL2000"
             ]
         ],
         "Corequisites": [],
@@ -467,11 +471,11 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "ECON1120"
-            ],
-            [
                 "ILRLE2400",
                 "ECON1110"
+            ],
+            [
+                "ECON1120"
             ]
         ],
         "Corequisites": [],
@@ -505,21 +509,21 @@
         ],
         "Prerequisites": [
             [
-                "ECON1120"
-            ],
-            [
-                "ECON3030"
+                "ECON1110"
             ],
             [
                 "ECON3120",
                 "ECON3140"
             ],
             [
-                "ECON1110"
+                "ECON3030"
             ],
             [
                 "ECON3110",
                 "ECON3130"
+            ],
+            [
+                "ECON1120"
             ]
         ],
         "Corequisites": [],
@@ -534,7 +538,7 @@
     "ECON3670": {
         "Title": "Behavioral Economics and Public Policy",
         "Course Code": "ECON3670",
-        "Description": "\n        No description available.\n        ",
+        "Description": "\n            Standard economic theory assumes that individuals are rational decision-makers; however, that is often not the case in the real world. Behavioral economics uses findings from psychology to determine ways in which individuals are systematically irrational to improve upon existing models. The first part of this course reviews these theories, while the second part of the course focuses on how these findings have been used to design better education, health, and tax policies as well as many others.\n        ",
         "Combined Course": [
             "PUBPOL3130",
             "PUBPOL5130"
@@ -573,7 +577,7 @@
     "ECON3711": {
         "Title": "The Economics and Regulation of Risky Health Behaviors",
         "Course Code": "ECON3711",
-        "Description": "\n        No description available.\n        ",
+        "Description": "\n            Risky health behaviors such as drug abuse, alcohol abuse, cigarette smoking, risky sex, poor diet, physical inactivity, and self-harm are responsible for hundreds of thousands of preventable deaths and impose billions of dollars in medical care costs each year in the United States. This course teaches the economic approach to studying risky health behaviors. The research literature on the economic causes and correlates of risky health behaviors will be studied. Numerous policies to modify risky health behaviors, such as the minimum legal drinking age and recreational marijuana laws, will be debated in class. Students will also participate in a policy wargame on the subject of taxes on sugar-sweetened beverages.\n        ",
         "Combined Course": [
             "PUBPOL4281",
             "PUBPOL5281"
@@ -625,10 +629,10 @@
         ],
         "Prerequisites": [
             [
-                "ILRLE2400"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ILRLE2400"
             ]
         ],
         "Corequisites": [],
@@ -661,10 +665,10 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "INFO2040"
+                "CS2800"
             ],
             [
-                "CS2800"
+                "INFO2040"
             ]
         ],
         "Corequisites": [],
@@ -771,10 +775,10 @@
         ],
         "Prerequisites": [
             [
-                "ECON3130"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ECON3130"
             ]
         ],
         "Corequisites": [],
@@ -806,11 +810,11 @@
         ],
         "Prerequisites": [
             [
-                "ECON1110",
-                "ECON1120"
+                "ECON3040"
             ],
             [
-                "ECON3040"
+                "ECON1110",
+                "ECON1120"
             ]
         ],
         "Corequisites": [],
@@ -868,17 +872,17 @@
         ],
         "Prerequisites": [
             [
-                "ECON3110"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ECON3040"
             ],
             [
                 "ECON3120",
                 "ECON3140"
             ],
             [
-                "ECON3040"
+                "ECON3110"
             ]
         ],
         "Corequisites": [],
@@ -1004,10 +1008,10 @@
         ],
         "Prerequisites": [
             [
-                "ECON3120"
+                "ECON3110"
             ],
             [
-                "ECON3110"
+                "ECON3120"
             ]
         ],
         "Corequisites": [],
@@ -1229,13 +1233,13 @@
         ],
         "Prerequisites": [
             [
-                "ECON1120"
-            ],
-            [
                 "ECON1110"
             ],
             [
                 "ILRLE2400"
+            ],
+            [
+                "ECON1120"
             ]
         ],
         "Corequisites": [],
@@ -1295,11 +1299,11 @@
         "Distribution": null,
         "Prerequisites": [
             [
-                "ECON3120",
-                "ECON3140"
+                "ECON3040"
             ],
             [
-                "ECON3040"
+                "ECON3120",
+                "ECON3140"
             ]
         ],
         "Corequisites": [],
@@ -1528,11 +1532,11 @@
         ],
         "Prerequisites": [
             [
-                "ECON3130",
-                "ECON3110"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ECON3130",
+                "ECON3110"
             ]
         ],
         "Corequisites": [],
@@ -1593,12 +1597,12 @@
         ],
         "Prerequisites": [
             [
-                "ECON3110",
-                "ECON3130"
-            ],
-            [
                 "ECON3030",
                 "ECON3040"
+            ],
+            [
+                "ECON3110",
+                "ECON3130"
             ]
         ],
         "Corequisites": [],
@@ -1627,10 +1631,10 @@
         ],
         "Prerequisites": [
             [
-                "ECON3140"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ECON3140"
             ]
         ],
         "Corequisites": [],
@@ -1659,15 +1663,15 @@
         ],
         "Prerequisites": [
             [
+                "ECON3040"
+            ],
+            [
                 "ECON3110",
                 "ECON3130"
             ],
             [
                 "ECON3120",
                 "ECON3140"
-            ],
-            [
-                "ECON3040"
             ]
         ],
         "Corequisites": [],
@@ -1725,10 +1729,10 @@
         ],
         "Prerequisites": [
             [
-                "ECON3130"
+                "ECON3030"
             ],
             [
-                "ECON3030"
+                "ECON3130"
             ]
         ],
         "Corequisites": [],
@@ -1787,10 +1791,10 @@
         ],
         "Prerequisites": [
             [
-                "ECON1120"
+                "ECON1110"
             ],
             [
-                "ECON1110"
+                "ECON1120"
             ]
         ],
         "Corequisites": [],
@@ -2140,12 +2144,14 @@
         ],
         "Prerequisites": [
             [
+                "ECON3030"
+            ],
+            [
+                "MATH1120",
+                "MATH1910",
                 "MATH1920",
                 "MATH2220",
                 "MATH2240"
-            ],
-            [
-                "ECON3030"
             ],
             [
                 "ECON1110",
@@ -2208,13 +2214,15 @@
         ],
         "Prerequisites": [
             [
-                "AEM6080"
-            ],
-            [
                 "ECON3030",
+                "MATH1120",
+                "MATH1910",
                 "MATH1920",
                 "MATH2220",
                 "MATH2240"
+            ],
+            [
+                "AEM6080"
             ]
         ],
         "Corequisites": [],
@@ -2246,11 +2254,11 @@
         ],
         "Prerequisites": [
             [
-                "MATH1110",
-                "AEM2100"
+                "AEM2600"
             ],
             [
-                "AEM2600"
+                "MATH1110",
+                "AEM2100"
             ]
         ],
         "Corequisites": [],

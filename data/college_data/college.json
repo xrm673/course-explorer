@@ -15,9 +15,9 @@
         "Majors": 
         {
             "ARTH" : "Art History",
+            "ECON" : "Economics",
             "CS" : "Computer Science",
-            "INFO" : "Information Science",
-            "MATH" : "Mathematics"
+            "INFO" : "Information Science"
         }
     },
     "COE": {
@@ -27,5 +27,9 @@
             "CS" : "Computer Science",
             "ECE" : "Electrical and Computer Engineering"
         }
+    },
+    "Minors": {
+        "AI" : "Artificial Intelligence (AI)",
+        "CS" : "Computer Science"
     }
 }

@@ -13,6 +13,14 @@
                 <button>Home Page</button>
             </a>
             <h1>{{ major }} - {{ college }}</h1>
+            <label for="semester">Plan for semester:</label>
+            <select id="semester" name="semester">
+                <option value="any">any</option>
+                <option value="FA25">FA25</option>
+                <option value="SP26">SP26</option>
+                <option value="FA26">FA26</option>
+                <option value="SP27">FA26</option>
+            </select>
 
 
             <!-- Section Type A -->
@@ -62,6 +70,7 @@
                 {% if details.Number is not none %}
                     <p><strong>At least: </strong> {{ details.Number }} Course(s)</p>
                 {% endif %}
+                <button>filter</button>
 
                 {% set sanitized_section_name = section_name | replace(' ', '-') %}
                 <!-- Courses Already Taken -->
@@ -128,6 +137,10 @@
                 </div>
                 {% endfor %}
             </div>
+            <h2>FA25</h2>
+            <h2>SP26</h2>
+            <h2>FA26</h2>
+            <h2>SP27</h2>
         </div>
 
     </div>

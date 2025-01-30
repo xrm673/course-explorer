@@ -1,3 +1,15 @@
+async function changeNumber() {
+    const response = await fetch('/change_number', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({})
+    });
+    if (response.ok) {
+        const updatedNumber = await response.json();
+        console.log('Updated Number:', updatedNumber);
+    }
+}
+
 async function markCourseAsTakenA(course) {
     try {
         const response = await fetch('/add_course_taken', {

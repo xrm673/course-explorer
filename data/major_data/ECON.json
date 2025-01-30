@@ -1,0 +1,23 @@
+{
+    "Name" : "Economics",
+    "A&S" : {
+        "Basics" : [
+            ["ECON1110"],
+            ["ECON1120"],
+            ["MATH1110"]
+        ],
+        "Core Courses" : [
+            ["ECON3030"],
+            ["ECON3040"],
+            ["ECON3110","ECON3130"],
+            ["ECON3120","ECON3140"]
+        ],
+        "Electives" : {
+            "min_level" : 4,
+            "number" : 3,
+            "min_credit" : 3,
+            "included" : [],
+            "excluded" : []
+        }
+    }
+}

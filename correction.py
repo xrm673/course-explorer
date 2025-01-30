@@ -13,6 +13,7 @@ def open_raw_data():
 def correct(course_data):
     correct_cs(course_data)
     correct_econ(course_data)
+    correct_math(course_data)
 
 def correct_cs(course_data):
     data = course_data["CS"]
@@ -31,6 +32,8 @@ def correct_cs(course_data):
         data["CS4160"]["Prerequisites"] = [["CS3110"],["CS2800"]]
         data["CS5160"]["Prerequisites"] = [["CS3110"],["CS2800"]]
 
+    data["CS3110"]["Prerequisites or Corequisites"] = []
+
     course_data["CS"] = data
 
 def correct_econ(course_data):
@@ -47,6 +50,20 @@ def correct_econ(course_data):
         data["ECON4210"]["Prerequisites"] = [["ECON1110"],["ECON1120"],["ECON3040"]]
 
     course_data["ECON"] = data
+
+def correct_math(course_data):
+    data = course_data["MATH"]
+
+    if (
+    "three years of high school mathematics (including trigonometry and "
+    "logarithms) or a precalculus course (e.g., MATH 1101). MATH 1110 can serve"
+    " as a one-semester introduction to calculus or as part of a two-semester "
+    "sequence in which it is followed by MATH 1120. For guidance in selecting "
+    "an appropriate course, please consult First Steps in Math."
+    ) in data["MATH1110"]["Specific Requirements"]:
+        data["MATH1110"]["Prerequisites"] = []
+
+    course_data["MATH"] = data
 
 def output_data(course_data):
     with open('data/course_data/combined/corrected.json' , 'w') as json_file:
