@@ -1,0 +1,214 @@
+---
+title: "RMP Scraper"
+author: "Raymond Xu"
+date: "2025-02-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Packages
+
+We first load the packages required for this project.
+
+```{r}
+library(tidyverse)
+library(RSelenium)
+library(netstat)
+library(glue)
+```
+
+## Open Remote Drive
+
+Use Firefox browser to open the remote driver.
+
+```{r}
+Sys.setlocale("LC_ALL", "English_United States.1252")
+
+remote_driver_object <- rsDriver(browser= "firefox",
+                          chromever= NULL,
+                          verbose= F,
+                          port= free_port())
+remDr <- remote_driver_object$client
+```
+
+## Navigate to the university link
+
+Navigate to the university page on Rate My Professor. In this case, it's Cornell University.
+
+```{r}
+remDr$navigate("https://www.ratemyprofessors.com/search/professors/298?q=*")
+```
+
+## Close the modal
+
+```{r}
+remDr$findElement(using="xpath","//div[starts-with(@class,'FullPageModal__')]//button")$clickElement()
+```
+
+## Refresh the page
+
+```{r}
+remDr$refresh()
+```
+
+## Number of professors
+
+Find the total number of professors at the university
+
+```{r}
+
+num_of_profs <- remDr$findElement(using="xpath","//h1[@data-testid='pagination-header-main-results']")$getElementText()  %>%
+  unlist() %>%
+  str_extract("[:digit:]+") %>%
+  as.numeric()
+
+```
+
+
+## Loop to click on "show more" professors
+
+```{r}
+
+while (TRUE) {
+  # Try to find the "Show More" professors button
+  load_more <- tryCatch(
+    remDr$findElement(using = "xpath", "//button[text()='Show More']"),
+    error = function(e) NULL
+  )
+
+  # If the button is not found, break the loop
+  if (is.null(load_more)) {
+    message("No more 'Show More' professors button found. Stopping...")
+    break
+  }
+
+  # Try clicking the button
+  tryCatch(
+    {
+      load_more$clickElement()
+      y_position <- load_more$getElementLocation()$y - 300
+      remDr$executeScript(sprintf("window.scrollTo(0,%f)",y_position))
+      Sys.sleep(0.5)  # Small delay to allow content to load
+    },
+    error = function(e) {
+      message("Button is no longer clickable. Stopping...")
+      break
+    }
+  )
+}
+
+```
+
+## Find all teacher cards
+
+```{r}
+teacher_cards <- remDr$findElements(using="xpath","//a[starts-with(@class, 'TeacherCard__StyledTeacherCard')]")
+teacher_urls <- map(teacher_cards, ~.$getElementAttribute("href") %>% unlist())
+```
+
+## Function Collect Professor Information
+
+Collect the basic information of each professor from each teacher card
+
+```{r}
+
+collect_prof <- function(card) {
+  prof_id <- card$getElementAttribute("href") %>% 
+    unlist() %>%
+    str_extract("\\d+")
+  
+  prof_name <- card$findChildElement(using="xpath","(.//div[starts-with(@class, 'CardName__StyledCardName')])")$getElementText() %>%
+    unlist()
+  
+  quality <- card$findChildElement(using="xpath","(.//div[starts-with(@class, 'CardNumRating__CardNumRatingNumber')])")$getElementText() %>%
+    unlist() %>%
+    as.numeric()
+  
+  card_feedback <- card$findElement(using="xpath", ".//div[starts-with(@class, 'CardFeedback__StyledCardFeedback')]")
+
+  card_feedback_items <- card_feedback$findElements(using="xpath", ".//div[starts-with(@class, 'CardFeedback__CardFeedbackItem')]")
+  
+  card_feedback_items_text <- card_feedback_items[[1]]$findElement(using="xpath", ".//div[starts-with(@class, 'CardFeedback__CardFeedbackNumber')]")$getElementText() %>%
+    unlist()
+    
+  take_again <- str_extract(card_feedback_items_text, "\\d+%")
+  
+  rating_count <- card$findChildElement(using="xpath","(.//div[starts-with(@class,'CardNumRating__CardNumRatingCount')])")$getElementText()
+
+  rating_count_numeric <- rating_count[[1]] %>% 
+    str_extract("\\d+") %>%
+    as.numeric()
+  
+  print(glue("Finished processing: {prof_name}"))
+  
+  return(list(Professor_ID = prof_id,
+              Professor_Name = prof_name,
+              Quality = quality,
+              TakeAgain = take_again,
+              RatingCount = rating_count_numeric))
+}
+
+```
+
+## Apply the function to all teacher cards
+
+```{r}
+prof_info <- teacher_cards %>% map_dfr(~collect_prof(.))
+```
+
+## Another way that extract all text at once
+
+```{r}
+collect_prof <- function(card) {
+  # Extract all text in one go to minimize browser interaction
+  full_text <- card$getElementText() %>% unlist()
+  
+  # Extract professor ID from the href attribute
+  prof_id <- card$getElementAttribute("href") %>% unlist() %>% str_extract("\\d+")
+  
+  prof_name <- card$findChildElement(using="xpath","(.//div[starts-with(@class, 'CardName__StyledCardName')])")$getElementText() %>%
+    unlist()
+
+  # Extract relevant fields from the full text
+  quality <- str_extract(full_text, "(?<=QUALITY\\n)\\d+(\\.\\d+)?") %>% as.numeric()
+  rating_count <- card$findChildElement(using="xpath","(.//div[starts-with(@class,'CardNumRating__CardNumRatingCount')])")$getElementText()
+  rating_count_numeric <- rating_count[[1]] %>% 
+    str_extract("\\d+") %>%
+    as.numeric()
+  take_again <- str_extract(full_text, "\\d+%")
+  difficulty <- str_extract(full_text, "(?<=would take again\\n)\\d+(\\.\\d+)?") %>% as.numeric()
+
+  print(glue("Finished processing: {prof_name}"))
+
+  return(tibble(
+    Professor_ID = prof_id,
+    Professor_Name = prof_name,
+    Quality = quality,
+    TakeAgain = take_again,
+    RatingCount = rating_count_numeric,
+    Difficulty = difficulty
+  ))
+}
+
+# Apply optimized function to all stored `teacher_cards`
+new_prof_info <- teacher_cards %>% map_dfr(~collect_prof(.))
+```
+
+
+## Write a CSV
+
+```{r}
+write_csv(new_prof_info, "professors_data.csv")
+```
+
+## Close the drive
+
+```{r}
+remote_driver_object$server$stop()
+```
+
+Acknowledgement: Some of the code comes from the video "How to Web Scrape RateMyProfessors Using RSelenium" made by Samer Hajazzi on YouTube.
+End of the script

@@ -1,0 +1,144 @@
+---
+title: "RMP Scraper (Detail)"
+author: "Raymond Xu"
+date: "2025-02-06"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Load Packages
+
+We first load the packages required for this project.
+
+```{r}
+library(tidyverse)
+library(RSelenium)
+library(netstat)
+```
+
+## Open Remote Drive
+
+Use Firefox browser to open the remote driver.
+
+```{r}
+Sys.setlocale("LC_ALL", "English_United States.1252")
+
+remote_driver_object <- rsDriver(browser= "firefox",
+                          chromever= NULL,
+                          verbose= F,
+                          port= free_port())
+remDr <- remote_driver_object$client
+```
+
+## Navigate to a professor link
+
+TESTING ONLY: Navigate to the page of a professor at Cornell
+
+```{r}
+remDr$navigate("https://www.ratemyprofessors.com/professor/191934")
+```
+
+## Refresh page
+
+```{r}
+remDr$refresh()
+```
+
+
+## Click the "Load More Ratings" buttons
+
+```{r}
+
+num_of_ratings <- remDr$findElement(using="xpath","//a[@href='#ratingsList']")$getElementText() %>%
+  unlist() %>%
+  str_extract("[:digit:]+") %>%
+  as.numeric()
+
+ratings_iterations <- ceiling( (num_of_ratings - 20)/10)
+
+if (ratings_iterations > 1){
+  for (i in 1:ratings_iterations) {
+    load_more <- remDr$findElement(using="xpath","//button[text()='Load More Ratings']")
+    load_more$clickElement()
+    y_position <- load_more$getElementLocation()$y - 300
+    remDr$executeScript(sprintf("window.scrollTo(0,%f)",y_position))
+    Sys.sleep(0.5)
+  }
+}
+```
+
+
+## Find basic information of a professor
+
+Get the ID, name, and rating of a professor
+
+```{r}
+professor_id <- remDr$getCurrentUrl() %>%
+  unlist() %>%
+  str_extract("[:digit:]+$")
+
+professor_name <- remDr$findElement(using="xpath","//div[starts-with(@class,'NameTitle__Name')]")$getElementText() %>%
+  unlist()
+
+professor_rating <- remDr$findElement(using="xpath","//div[starts-with(@class,'RatingValue__Numerator')]")$getElementText() %>%
+  unlist()
+```
+
+## Rating body
+
+Find all rating body on a professor page.
+
+```{r}
+rating_body <- remDr$findElements(using="xpath","//div[starts-with(@class, 'Rating__RatingBody')]")
+```
+
+
+## Collect review
+
+```{r}
+
+collect_review <- function(rating) {
+  quality <- rating$findchildElement(using="xpath","(.//div[starts-with(@class, 'CardNumRating')])[3]")$getElementText() %>%
+    unlist() %>%
+    as.numeric()
+  
+  difficulty <- rating$findchildElement(using="xpath","(.//div[starts-with(@class, 'CardNumRating')])[6]")$getElementText() %>%
+    unlist() %>%
+    as.numeric()
+  
+  emotion <- rating$findchildElement(using="xpath","(.//div[starts-with(@class, 'EmotionLabel')])[2]")$getElementText() %>%
+    unlist()
+  
+  class_name <- rating$findchildElement(using="xpath","(.//div[starts-with(@class,'RatingHeader__StyledClass')])[2]")$getElementText() %>%
+    unlist()
+  
+  return(list(Professor_ID = professor_id,
+              Professor_Name = professor_name,
+              Quality = quality,
+              Difficulty = difficulty,
+              Emotion = emotion,
+              Class_Name = class_name))
+}
+
+```
+
+## Apply function to all reviews
+
+```{r}
+
+reviews <- rating_body %>% map_dfr(~collect_review(.))
+all_reviews <- bind_rows(all_reviews,reviews)
+
+```
+
+## Close the drive
+
+```{r}
+remote_driver_object$server$stop()
+```
+
+Acknowledgement: Some of the code comes from the video "How to Web Scrape RateMyProfessors Using RSelenium" made by Samer Hajazzi on YouTube.
+End of the script
